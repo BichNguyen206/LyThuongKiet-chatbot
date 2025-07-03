@@ -3,8 +3,8 @@ from fuzzywuzzy import fuzz
 from time import sleep
 import os
 import sys
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
-from rag_retrieve import answer_question
+#sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
+from src.rag_retrieve import answer_question
 
 # Đọc bộ câu hỏi – đáp án
 with open(os.path.join(os.path.dirname(__file__), "cau_hoi_thi_dua_lop.json"), "r", encoding="utf-8") as f:
