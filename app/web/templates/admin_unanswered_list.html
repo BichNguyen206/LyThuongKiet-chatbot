@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Câu hỏi chưa có đáp án</title>
+    <style>
+        table { border-collapse: collapse; width: 100%; background: #fff; }
+        th, td { border: 1px solid #ccc; padding: 7px 10px; text-align: left; }
+        th { background: #e2e8f0; }
+        tr:nth-child(even) { background: #f8fafc; }
+    </style>
+</head>
+<body>
+    <h2>Câu hỏi chưa có đáp án</h2>
+    <table>
+        <tr>
+            <th>#</th>
+            <th>Câu hỏi</th>
+            <th>Lượt hỏi</th>
+            <th>Ngày</th>
+            <th>Hành động</th>
+        </tr>
+        {% for q in unanswered %}
+        <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ q.question }}</td>
+            <td>{{ q.count }}</td>
+            <td>{{ q.date }}</td>
+            <td>
+                <a href="{{ url_for('admin_answer_unanswered', idx=loop.index0) }}">Bổ sung đáp án</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+    <a href="{{ url_for('admin') }}">← Về trang quản trị</a>
+</body>
+</html>

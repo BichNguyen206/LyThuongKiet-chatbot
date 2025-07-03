@@ -1,0 +1,10 @@
+<form method="POST">
+    <label>Loại dữ liệu:
+        <select name="type" required disabled>
+            {% for k, v in data_types.items() %}
+            <option value="{{ k }}" {% if dtype == k %}selected{% endif %}>{{ v.label }}</option>
+            {% endfor %}
+        </select>
+    </label><br><br>
+    <!-- các field còn lại -->
+</form>

@@ -1,0 +1,57 @@
+1. Điểm sổ đầu bài (ĐSĐB) được tính bằng công thức: ĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)), trong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học.
+2. Điểm nội quy học tập:
+2.1. Học sinh không học bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.2. Học sinh không chuẩn bị bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.3. Học sinh không làm bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.4. Học sinh không soạn bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.5. Học sinh không chép bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.6. Ghi nhận điểm 3, 4 bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.7. Không sách, vở, dụng cụ học tập bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.8. Làm bài tập thiếu bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+2.9 Học bài chưa kĩ bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.
+3. Điểm nội quy nề nếp:
+3.1. Mất trật tự bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.2. Thiếu tập trung bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.3. Làm việc riêng bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.4. Ngủ trong tiết học bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.5. Đi trễ bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.6. Tự ý ra khỏi cổng trường bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.7. Vi phạm đồng phục bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.8. Tóc dài (nam) bị trừ 2 điểm cho mỗi học sinh một lượt.
+3.9. Sử dụng điện thoại bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.10. Nghe nhạc trong giờ học bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.11. Nhuộm tóc  bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.12. tóc kiểu bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.13. Sơn móng tay, móng chân bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.14. Hút thuốc bị trừ 3 điểm cho mỗi học sinh một lượt.
+ 3.15. Uống rượu bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.16. Uống bia bị trừ 3 điểm cho mỗi học sinh một lượt. 
+3.17. Nói tục, chửi thề bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.18. Sử dụng mạng xã hội không phù hợp bị trừ 3 điểm cho mỗi học sinh một lượt.
+3.19. Vắng học không phép bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.20. trốn tiết bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.21. vô lễ bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.22. Không bảo vệ của công bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.23. Gian lận trong thi cử bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.24. Vi phạm ATGT bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.25. không trung thực bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.26. lấy cắp bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.27. đánh bài bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.28. đánh nhau bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.30. Tàng trữ, sử dụng hung khí; các chất cấm bị trừ 5 điểm cho mỗi học sinh một lượt.
+3.31. Tuyên truyền văn hóa phẩm độc hại, đồi trụy bị trừ 5 điểm cho mỗi học sinh một lượt.
+4. Điểm vệ sinh môi trường, bảo quản cơ sở vật chất:
+4.1 Vệ sinh lớp dơ bị trừ 2 điểm cho mỗi lớp một lượt.
+4.2. Không trực nhật đầu buổi bị trừ 3 điểm cho mỗi lớp một lượt.
+4.3. không đổ rác cuối buổi học bị trừ 3 điểm cho mỗi lớp một lượt.
+4.4. Không tắt điện, quạt bị trừ 3 điểm cho mỗi lớp một lượt.
+4.5 không khóa cửa khi ra khỏi phòng học bị trừ 3 điểm cho mỗi lớp một lượt.
+4.7. Viết, khắc hoặc vẽ lên bàn ghế, lên tường bị trừ 3 điểm cho mỗi lớp một lượt.
+4.8. Mang thức ăn vào lớp bị trừ 5 điểm cho mỗi lớp một lượt.
+4.9. đổ, vứt rác, thức ăn không đúng nơi quy định bị trừ 5 điểm cho mỗi lớp một lượt.
+5/ Kết quả tổng hợp xếp loại hàng tuần: 
+Điểm đánh giá xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6.
+- Loại Tốt: Có điểm bình quân các mặt: 8 điểm trở lên (không có mục nào dưới 8đ).
+- Loại Khá: Có điểm bình quân các mặt: Từ 6,5 đến 7,9 (không có mục nào dưới 6,5đ).
+- Loại TB: Có điểm bình quân các mặt: Từ 5,0 đến 6,4 (không có mục nào dưới 5đ).
+- Loại Yếu: Có điểm bình quân hoặc điểm thành phần có mục dưới 5,0.

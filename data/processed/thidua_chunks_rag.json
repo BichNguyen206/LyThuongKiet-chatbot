@@ -1,0 +1,572 @@
+[
+  {
+    "text": "1. Điểm sổ đầu bài (ĐSĐB) được tính bằng công thức: ĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)), trong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "1",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_1"
+    }
+  },
+  {
+    "text": "2. Điểm nội quy học tập:",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_2"
+    }
+  },
+  {
+    "text": "2.1. Học sinh không học bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.1",
+      "updated_at": "2025-06-27",
+      "id": "chunk_3"
+    }
+  },
+  {
+    "text": "2.2. Học sinh không chuẩn bị bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.2",
+      "updated_at": "2025-06-27",
+      "id": "chunk_4"
+    }
+  },
+  {
+    "text": "2.3. Học sinh không làm bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.3",
+      "updated_at": "2025-06-27",
+      "id": "chunk_5"
+    }
+  },
+  {
+    "text": "2.4. Học sinh không soạn bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.4",
+      "updated_at": "2025-06-27",
+      "id": "chunk_6"
+    }
+  },
+  {
+    "text": "2.5. Học sinh không chép bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.5",
+      "updated_at": "2025-06-27",
+      "id": "chunk_7"
+    }
+  },
+  {
+    "text": "2.6. Ghi nhận điểm 3, 4 bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.6",
+      "updated_at": "2025-06-27",
+      "id": "chunk_8"
+    }
+  },
+  {
+    "text": "2.7. Không sách, vở, dụng cụ học tập bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.7",
+      "updated_at": "2025-06-27",
+      "id": "chunk_9"
+    }
+  },
+  {
+    "text": "2.8. Làm bài tập thiếu bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.8",
+      "updated_at": "2025-06-27",
+      "id": "chunk_10"
+    }
+  },
+  {
+    "text": "2.9 Học bài chưa kĩ bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.9",
+      "updated_at": "2025-06-27",
+      "id": "chunk_11"
+    }
+  },
+  {
+    "text": "3. Điểm nội quy nề nếp:",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_12"
+    }
+  },
+  {
+    "text": "3.1. Mất trật tự bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.1",
+      "updated_at": "2025-06-27",
+      "id": "chunk_13"
+    }
+  },
+  {
+    "text": "3.2. Thiếu tập trung bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.2",
+      "updated_at": "2025-06-27",
+      "id": "chunk_14"
+    }
+  },
+  {
+    "text": "3.3. Làm việc riêng bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.3",
+      "updated_at": "2025-06-27",
+      "id": "chunk_15"
+    }
+  },
+  {
+    "text": "3.4. Ngủ trong tiết học bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.4",
+      "updated_at": "2025-06-27",
+      "id": "chunk_16"
+    }
+  },
+  {
+    "text": "3.5. Đi trễ bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.5",
+      "updated_at": "2025-06-27",
+      "id": "chunk_17"
+    }
+  },
+  {
+    "text": "3.6. Tự ý ra khỏi cổng trường bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.6",
+      "updated_at": "2025-06-27",
+      "id": "chunk_18"
+    }
+  },
+  {
+    "text": "3.7. Vi phạm đồng phục bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.7",
+      "updated_at": "2025-06-27",
+      "id": "chunk_19"
+    }
+  },
+  {
+    "text": "3.8. Tóc dài (nam) bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.8",
+      "updated_at": "2025-06-27",
+      "id": "chunk_20"
+    }
+  },
+  {
+    "text": "3.9. Sử dụng điện thoại bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.9",
+      "updated_at": "2025-06-27",
+      "id": "chunk_21"
+    }
+  },
+  {
+    "text": "3.10. Nghe nhạc trong giờ học bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.10",
+      "updated_at": "2025-06-27",
+      "id": "chunk_22"
+    }
+  },
+  {
+    "text": "3.11. Nhuộm tóc  bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.11",
+      "updated_at": "2025-06-27",
+      "id": "chunk_23"
+    }
+  },
+  {
+    "text": "3.12. tóc kiểu bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.12",
+      "updated_at": "2025-06-27",
+      "id": "chunk_24"
+    }
+  },
+  {
+    "text": "3.13. Sơn móng tay, móng chân bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.13",
+      "updated_at": "2025-06-27",
+      "id": "chunk_25"
+    }
+  },
+  {
+    "text": "3.14. Hút thuốc bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.14",
+      "updated_at": "2025-06-27",
+      "id": "chunk_26"
+    }
+  },
+  {
+    "text": "3.15. Uống rượu bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.15",
+      "updated_at": "2025-06-27",
+      "id": "chunk_27"
+    }
+  },
+  {
+    "text": "3.16. Uống bia bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.16",
+      "updated_at": "2025-06-27",
+      "id": "chunk_28"
+    }
+  },
+  {
+    "text": "3.17. Nói tục, chửi thề bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.17",
+      "updated_at": "2025-06-27",
+      "id": "chunk_29"
+    }
+  },
+  {
+    "text": "3.18. Sử dụng mạng xã hội không phù hợp bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.18",
+      "updated_at": "2025-06-27",
+      "id": "chunk_30"
+    }
+  },
+  {
+    "text": "3.19. Vắng học không phép bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.19",
+      "updated_at": "2025-06-27",
+      "id": "chunk_31"
+    }
+  },
+  {
+    "text": "3.20. trốn tiết bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.20",
+      "updated_at": "2025-06-27",
+      "id": "chunk_32"
+    }
+  },
+  {
+    "text": "3.21. vô lễ bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.21",
+      "updated_at": "2025-06-27",
+      "id": "chunk_33"
+    }
+  },
+  {
+    "text": "3.22. Không bảo vệ của công bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.22",
+      "updated_at": "2025-06-27",
+      "id": "chunk_34"
+    }
+  },
+  {
+    "text": "3.23. Gian lận trong thi cử bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.23",
+      "updated_at": "2025-06-27",
+      "id": "chunk_35"
+    }
+  },
+  {
+    "text": "3.24. Vi phạm ATGT bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.24",
+      "updated_at": "2025-06-27",
+      "id": "chunk_36"
+    }
+  },
+  {
+    "text": "3.25. không trung thực bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.25",
+      "updated_at": "2025-06-27",
+      "id": "chunk_37"
+    }
+  },
+  {
+    "text": "3.26. lấy cắp bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.26",
+      "updated_at": "2025-06-27",
+      "id": "chunk_38"
+    }
+  },
+  {
+    "text": "3.27. đánh bài bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.27",
+      "updated_at": "2025-06-27",
+      "id": "chunk_39"
+    }
+  },
+  {
+    "text": "3.28. đánh nhau bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.28",
+      "updated_at": "2025-06-27",
+      "id": "chunk_40"
+    }
+  },
+  {
+    "text": "3.30. Tàng trữ, sử dụng hung khí; các chất cấm bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.30",
+      "updated_at": "2025-06-27",
+      "id": "chunk_41"
+    }
+  },
+  {
+    "text": "3.31. Tuyên truyền văn hóa phẩm độc hại, đồi trụy bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.31",
+      "updated_at": "2025-06-27",
+      "id": "chunk_42"
+    }
+  },
+  {
+    "text": "4. Điểm vệ sinh môi trường, bảo quản cơ sở vật chất:",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_43"
+    }
+  },
+  {
+    "text": "4.1 Vệ sinh lớp dơ bị trừ 2 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.1",
+      "updated_at": "2025-06-27",
+      "id": "chunk_44"
+    }
+  },
+  {
+    "text": "4.2. Không trực nhật đầu buổi bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.2",
+      "updated_at": "2025-06-27",
+      "id": "chunk_45"
+    }
+  },
+  {
+    "text": "4.3. không đổ rác cuối buổi học bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.3",
+      "updated_at": "2025-06-27",
+      "id": "chunk_46"
+    }
+  },
+  {
+    "text": "4.4. Không tắt điện, quạt bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.4",
+      "updated_at": "2025-06-27",
+      "id": "chunk_47"
+    }
+  },
+  {
+    "text": "4.5 không khóa cửa khi ra khỏi phòng học bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.5",
+      "updated_at": "2025-06-27",
+      "id": "chunk_48"
+    }
+  },
+  {
+    "text": "4.7. Viết, khắc hoặc vẽ lên bàn ghế, lên tường bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.7",
+      "updated_at": "2025-06-27",
+      "id": "chunk_49"
+    }
+  },
+  {
+    "text": "4.8. Mang thức ăn vào lớp bị trừ 5 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.8",
+      "updated_at": "2025-06-27",
+      "id": "chunk_50"
+    }
+  },
+  {
+    "text": "4.9. đổ, vứt rác, thức ăn không đúng nơi quy định bị trừ 5 điểm cho mỗi lớp một lượt.",
+    "metadata": {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.9",
+      "updated_at": "2025-06-27",
+      "id": "chunk_51"
+    }
+  },
+  {
+    "text": "5/ Kết quả tổng hợp xếp loại hàng tuần:",
+    "metadata": {
+      "source": "thi đua",
+      "section": "5",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_52"
+    }
+  },
+  {
+    "text": "Điểm đánh giá xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6.",
+    "metadata": {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_53"
+    }
+  },
+  {
+    "text": "- Loại Tốt: Có điểm bình quân các mặt: 8 điểm trở lên (không có mục nào dưới 8đ).",
+    "metadata": {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_54"
+    }
+  },
+  {
+    "text": "- Loại Khá: Có điểm bình quân các mặt: Từ 6,5 đến 7,9 (không có mục nào dưới 6,5đ).",
+    "metadata": {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_55"
+    }
+  },
+  {
+    "text": "- Loại TB: Có điểm bình quân các mặt: Từ 5,0 đến 6,4 (không có mục nào dưới 5đ).",
+    "metadata": {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_56"
+    }
+  },
+  {
+    "text": "- Loại Yếu: Có điểm bình quân hoặc điểm thành phần có mục dưới 5,0.",
+    "metadata": {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_57"
+    }
+  }
+]

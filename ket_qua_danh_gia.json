@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Công thức tính điểm sổ đầu bài là gì?",
+    "expected": "Điểm sổ đầu bài (ĐSĐB) được tính bằng công thức: ĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)), trong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học.",
+    "response": "Công thức tính điểm sổ đầu bài (ĐSĐB) là:  \nĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)),  \ntrong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Nếu không học bài, học sinh sẽ bị trừ 1 điểm cho mỗi học sinh mỗi tiết và bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?",
+    "expected": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Theo tài liệu, học sinh không chuẩn bị bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Không làm bài bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu.",
+    "is_fuzzy": false,
+    "fuzzy_score": 43
+  },
+  {
+    "question": "Không soạn bài bị trừ điểm ra sao?",
+    "expected": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Học sinh không soạn bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Không chép bài bị trừ như thế nào?",
+    "expected": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Theo tài liệu, học sinh không chuẩn bị bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?",
+    "expected": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Điểm 3, 4 bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?",
+    "expected": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Không mang sách, vở, dụng cụ học tập bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Làm bài tập thiếu bị trừ mấy điểm?",
+    "expected": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Làm bài tập thiếu bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Học bài chưa kỹ bị trừ như thế nào?",
+    "expected": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "response": "Học bài chưa kĩ bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "response": "Mất trật tự bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Thiếu tập trung khi học bị trừ điểm như thế nào?",
+    "expected": "Bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "response": "Thiếu tập trung bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Ngủ trong tiết học bị trừ mấy điểm?",
+    "expected": "Bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "response": "Ngủ trong tiết học bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Đi trễ bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "response": "Đi trễ bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?",
+    "expected": "Bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "response": "Tự ý ra khỏi cổng trường bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Vi phạm đồng phục bị trừ điểm thế nào?",
+    "expected": "Bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "response": "Vi phạm đồng phục bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "response": "Sử dụng điện thoại bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Nghe nhạc trong giờ học bị trừ như thế nào?",
+    "expected": "Bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "response": "Nghe nhạc trong giờ học bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?",
+    "expected": "Bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "response": "Theo tài liệu, nhuộm tóc bị trừ 3 điểm cho mỗi học sinh một lượt. Tóc kiểu bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Sơn móng tay, móng chân bị trừ mấy điểm?",
+    "expected": "Bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "response": "Sơn móng tay, móng chân bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Vắng học không phép bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "response": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu.",
+    "is_fuzzy": false,
+    "fuzzy_score": 41
+  },
+  {
+    "question": "Trốn tiết bị trừ điểm như thế nào?",
+    "expected": "Bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "response": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu.",
+    "is_fuzzy": false,
+    "fuzzy_score": 41
+  },
+  {
+    "question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "response": "Vô lễ bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Gian lận trong thi cử bị trừ điểm như thế nào?",
+    "expected": "Bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "response": "Gian lận trong thi cử bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?",
+    "expected": "Bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "response": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu.",
+    "is_fuzzy": false,
+    "fuzzy_score": 41
+  },
+  {
+    "question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?",
+    "expected": "Bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "response": "Tàng trữ, sử dụng hung khí; các chất cấm bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 5 điểm cho mỗi lớp một lượt.",
+    "response": "Mang thức ăn vào lớp bị trừ 5 điểm cho mỗi lớp một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?",
+    "expected": "Bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "response": "Không tắt điện, quạt bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?",
+    "expected": "Bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "response": "Viết, khắc hoặc vẽ lên bàn ghế, lên tường bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "is_fuzzy": true,
+    "fuzzy_score": 100
+  },
+  {
+    "question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?",
+    "expected": "Điểm xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6. Phân loại: Tốt (>=8, không mục nào dưới 8), Khá (6,5–7,9, không mục nào dưới 6,5), TB (5,0–6,4, không mục nào dưới 5), Yếu (dưới 5 hoặc thành phần dưới 5).",
+    "response": "Điểm đánh giá xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6.",
+    "is_fuzzy": true,
+    "fuzzy_score": 97
+  }
+]

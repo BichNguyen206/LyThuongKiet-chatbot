@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sửa nội quy</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Sửa mục nội quy</h2>
+    <form method="POST">
+        <label>Section: <input type="text" name="section" value="{{ chunk.metadata.section }}" required></label><br><br>
+        <label>Subsection: <input type="text" name="subsection" value="{{ chunk.metadata.subsection }}"></label><br><br>
+        <label>Nội dung:<br>
+            <textarea name="text" rows="6" cols="60" required>{{ chunk.text }}</textarea>
+        </label><br><br>
+        <button type="submit">Cập nhật</button>
+        <a href="{{ url_for('admin') }}">Huỷ</a>
+    </form>
+</body>
+</html>

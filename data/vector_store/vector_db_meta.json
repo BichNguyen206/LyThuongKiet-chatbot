@@ -1,0 +1,1105 @@
+{
+  "metadatas": [
+    {
+      "section": "Tổ hợp môn lựa chọn",
+      "subsection": "Vật lí, Hóa học, Sinh học; Tin học (Thiết kế)",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_1"
+    },
+    {
+      "section": "Tổ hợp môn lựa chọn",
+      "subsection": "Vật lí, Hóa học, Sinh học; Công nghệ trồng trọt",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_2"
+    },
+    {
+      "section": "Tổ hợp môn lựa chọn",
+      "subsection": "Vật lí, Hóa học, Địa lý; Tin học (Ứng dụng)",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_3"
+    },
+    {
+      "section": "Tổ hợp môn lựa chọn",
+      "subsection": "Vật lí, Hóa học, Địa lý; Công nghệ thiết kế",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_4"
+    },
+    {
+      "section": "Tổ hợp môn lựa chọn",
+      "subsection": "Vật lý, Địa lí; Giáo dục KT&PL; Tin học (Ứng dụng)",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_5"
+    },
+    {
+      "section": "Tổ hợp môn lựa chọn",
+      "subsection": "Địa lí, Giáo dục KT&PL; Tin học (Ứng dụng); Công nghệ trồng trọt",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_6"
+    },
+    {
+      "section": "Giới thiệu trường",
+      "subsection": "Thông tin chung",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_7"
+    },
+    {
+      "section": "Giới thiệu trường",
+      "subsection": "Đội ngũ giáo viên",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_8"
+    },
+    {
+      "section": "Quy định tuyển sinh",
+      "subsection": "Tiêu chí xét tuyển",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "20250702",
+      "id": "chunk_9"
+    },
+    {
+      "section": "Thông báo tuyển sinh lớp 10",
+      "subsection": "Điểm chuẩn trúng tuyển",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "2025-07-03",
+      "id": "chunk_10"
+    },
+    {
+      "section": "Thông báo tuyển sinh lớp 10",
+      "subsection": "Phúc khảo điểm thi",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "2025-07-03",
+      "id": "chunk_11"
+    },
+    {
+      "section": "Thông báo tuyển sinh lớp 10",
+      "subsection": "Thời gian nhập học",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "2025-07-03",
+      "id": "chunk_12"
+    },
+    {
+      "section": "Thông báo tuyển sinh lớp 10",
+      "subsection": "Liên hệ",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "2025-07-03",
+      "id": "chunk_13"
+    },
+    {
+      "section": "I. Giờ vào học",
+      "subsection": "None",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_2"
+    },
+    {
+      "section": "I. Giờ vào học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_3"
+    },
+    {
+      "section": "II. Hành vi, ngôn ngữ, ứng xử và trang phục",
+      "subsection": "1. Hành vi, ngôn ngữ, ứng xử:",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_5"
+    },
+    {
+      "section": "II. Hành vi, ngôn ngữ, ứng xử và trang phục",
+      "subsection": "2. Trang phục:",
+      "item": "a. Học trên lớp, tiết thực hành:",
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_8"
+    },
+    {
+      "section": "II. Hành vi, ngôn ngữ, ứng xử và trang phục",
+      "subsection": "2. Trang phục:",
+      "item": "a. Học trên lớp, tiết thực hành:",
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_9"
+    },
+    {
+      "section": "II. Hành vi, ngôn ngữ, ứng xử và trang phục",
+      "subsection": "2. Trang phục:",
+      "item": "a. Học trên lớp, tiết thực hành:",
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_10"
+    },
+    {
+      "section": "II. Hành vi, ngôn ngữ, ứng xử và trang phục",
+      "subsection": "2. Trang phục:",
+      "item": "b. Tiết học Thể dục và các hoạt động ngoài giờ:",
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_12"
+    },
+    {
+      "section": "II. Hành vi, ngôn ngữ, ứng xử và trang phục",
+      "subsection": "2. Trang phục:",
+      "item": "c. Đi học bù, học phụ đạo, học thêm tại trường, bồi dưỡng HSG trái buổi:",
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_14"
+    },
+    {
+      "section": "III. Nghỉ học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_15"
+    },
+    {
+      "section": "III. Nghỉ học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_16"
+    },
+    {
+      "section": "III. Nghỉ học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_17"
+    },
+    {
+      "section": "III. Nghỉ học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_18"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_19"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_20"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_21"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_22"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_23"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_24"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_25"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_26"
+    },
+    {
+      "section": "IV. Nhiệm vụ của học sinh",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_27"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_29"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_30"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_31"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_32"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_33"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_34"
+    },
+    {
+      "section": "V. Các hành vi học sinh không được làm",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_35"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_37"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_38"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_39"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_40"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_41"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_42"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_43"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_44"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_45"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_46"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_47"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_48"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_49"
+    },
+    {
+      "section": "VI. Một số quy định cụ thể đối với giữ gìn cơ sở vật chất và vệ sinh phòng học",
+      "subsection": null,
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_50"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_52"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_53"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_54"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_55"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_56"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_57"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "1. Trực tuần",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_58"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "2. Lao động",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_61"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "subsection": "2. Lao động",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_62"
+    },
+    {
+      "section": "VIII. Khen thưởng và kỷ luật",
+      "subsection": "1. Học sinh thực hiện tốt nội quy của nhà trường sẽ được tuyên dương khen thưởng.",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_63"
+    },
+    {
+      "section": "VIII. Khen thưởng và kỷ luật",
+      "subsection": "2. Học sinh vi phạm trong quá trình học tập, rèn luyện sẽ được khuyên răn hoặc xử lý kỉ luật theo các hình thức sau đây:",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_64"
+    },
+    {
+      "section": "VIII. Khen thưởng và kỷ luật",
+      "subsection": "2. Học sinh vi phạm trong quá trình học tập, rèn luyện sẽ được khuyên răn hoặc xử lý kỉ luật theo các hình thức sau đây:",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_65"
+    },
+    {
+      "section": "VIII. Khen thưởng và kỷ luật",
+      "subsection": "2. Học sinh vi phạm trong quá trình học tập, rèn luyện sẽ được khuyên răn hoặc xử lý kỉ luật theo các hình thức sau đây:",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_66"
+    },
+    {
+      "section": "VIII. Khen thưởng và kỷ luật",
+      "subsection": "2. Học sinh vi phạm trong quá trình học tập, rèn luyện sẽ được khuyên răn hoặc xử lý kỉ luật theo các hình thức sau đây:",
+      "item": null,
+      "source": "nội quy",
+      "updated_at": "2025-06-29",
+      "id": "chunk_67"
+    },
+    {
+      "section": "VII. Nhiệm vụ của lớp trực tuần và lao động",
+      "source": "nội quy",
+      "admin_answer_for": "học sinh lao động mang dụng cụ gì?",
+      "updated_at": "2025-07-01",
+      "subsection": "2. Lao động"
+    },
+    {
+      "section": "Giới thiệu trường",
+      "source": "",
+      "admin_answer_for": "điểm đầu vào lớp 10",
+      "updated_at": "2025-07-01"
+    },
+    {
+      "section": "Giới thiệu trường",
+      "source": "",
+      "admin_answer_for": "tổ bộ môn",
+      "updated_at": "2025-07-01"
+    },
+    {
+      "source": "thi đua",
+      "section": "1",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_1"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_2"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.1",
+      "updated_at": "2025-06-27",
+      "id": "chunk_3"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.2",
+      "updated_at": "2025-06-27",
+      "id": "chunk_4"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.3",
+      "updated_at": "2025-06-27",
+      "id": "chunk_5"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.4",
+      "updated_at": "2025-06-27",
+      "id": "chunk_6"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.5",
+      "updated_at": "2025-06-27",
+      "id": "chunk_7"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.6",
+      "updated_at": "2025-06-27",
+      "id": "chunk_8"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.7",
+      "updated_at": "2025-06-27",
+      "id": "chunk_9"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.8",
+      "updated_at": "2025-06-27",
+      "id": "chunk_10"
+    },
+    {
+      "source": "thi đua",
+      "section": "2",
+      "subsection": "2.9",
+      "updated_at": "2025-06-27",
+      "id": "chunk_11"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_12"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.1",
+      "updated_at": "2025-06-27",
+      "id": "chunk_13"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.2",
+      "updated_at": "2025-06-27",
+      "id": "chunk_14"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.3",
+      "updated_at": "2025-06-27",
+      "id": "chunk_15"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.4",
+      "updated_at": "2025-06-27",
+      "id": "chunk_16"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.5",
+      "updated_at": "2025-06-27",
+      "id": "chunk_17"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.6",
+      "updated_at": "2025-06-27",
+      "id": "chunk_18"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.7",
+      "updated_at": "2025-06-27",
+      "id": "chunk_19"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.8",
+      "updated_at": "2025-06-27",
+      "id": "chunk_20"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.9",
+      "updated_at": "2025-06-27",
+      "id": "chunk_21"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.10",
+      "updated_at": "2025-06-27",
+      "id": "chunk_22"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.11",
+      "updated_at": "2025-06-27",
+      "id": "chunk_23"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.12",
+      "updated_at": "2025-06-27",
+      "id": "chunk_24"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.13",
+      "updated_at": "2025-06-27",
+      "id": "chunk_25"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.14",
+      "updated_at": "2025-06-27",
+      "id": "chunk_26"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.15",
+      "updated_at": "2025-06-27",
+      "id": "chunk_27"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.16",
+      "updated_at": "2025-06-27",
+      "id": "chunk_28"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.17",
+      "updated_at": "2025-06-27",
+      "id": "chunk_29"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.18",
+      "updated_at": "2025-06-27",
+      "id": "chunk_30"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.19",
+      "updated_at": "2025-06-27",
+      "id": "chunk_31"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.20",
+      "updated_at": "2025-06-27",
+      "id": "chunk_32"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.21",
+      "updated_at": "2025-06-27",
+      "id": "chunk_33"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.22",
+      "updated_at": "2025-06-27",
+      "id": "chunk_34"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.23",
+      "updated_at": "2025-06-27",
+      "id": "chunk_35"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.24",
+      "updated_at": "2025-06-27",
+      "id": "chunk_36"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.25",
+      "updated_at": "2025-06-27",
+      "id": "chunk_37"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.26",
+      "updated_at": "2025-06-27",
+      "id": "chunk_38"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.27",
+      "updated_at": "2025-06-27",
+      "id": "chunk_39"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.28",
+      "updated_at": "2025-06-27",
+      "id": "chunk_40"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.30",
+      "updated_at": "2025-06-27",
+      "id": "chunk_41"
+    },
+    {
+      "source": "thi đua",
+      "section": "3",
+      "subsection": "3.31",
+      "updated_at": "2025-06-27",
+      "id": "chunk_42"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_43"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.1",
+      "updated_at": "2025-06-27",
+      "id": "chunk_44"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.2",
+      "updated_at": "2025-06-27",
+      "id": "chunk_45"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.3",
+      "updated_at": "2025-06-27",
+      "id": "chunk_46"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.4",
+      "updated_at": "2025-06-27",
+      "id": "chunk_47"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.5",
+      "updated_at": "2025-06-27",
+      "id": "chunk_48"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.7",
+      "updated_at": "2025-06-27",
+      "id": "chunk_49"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.8",
+      "updated_at": "2025-06-27",
+      "id": "chunk_50"
+    },
+    {
+      "source": "thi đua",
+      "section": "4",
+      "subsection": "4.9",
+      "updated_at": "2025-06-27",
+      "id": "chunk_51"
+    },
+    {
+      "source": "thi đua",
+      "section": "5",
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_52"
+    },
+    {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_53"
+    },
+    {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_54"
+    },
+    {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_55"
+    },
+    {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_56"
+    },
+    {
+      "source": "thi đua",
+      "section": null,
+      "subsection": null,
+      "updated_at": "2025-06-27",
+      "id": "chunk_57"
+    }
+  ],
+  "texts": [
+    "Số lớp theo các tổ hợp môn: Vật lí, Hóa học, Sinh học; Tin học (Thiết kế). Có 3 lớp: 10A1, 10A2, 10A3. Chuyên đề học tập: Toán, Vật lí, Hóa học. Sĩ số dự kiến: 44 học sinh/lớp. (Định hướng KHTN)",
+    "Số lớp theo các tổ hợp môn: Vật lí, Hóa học, Sinh học; Công nghệ trồng trọt. Có 2 lớp: 10A4, 10A5. Chuyên đề học tập: Toán, Hóa học, Sinh học. Sĩ số dự kiến: 44 học sinh/lớp. (Định hướng KHTN)",
+    "Số lớp theo các tổ hợp môn: Vật lí, Hóa học, Địa lý; Tin học (Ứng dụng). Có 2 lớp: 10B1, 10B2. Chuyên đề học tập: Toán, Vật lí, Hóa học. Sĩ số dự kiến: 44 học sinh/lớp. (Định hướng KHTN)",
+    "Số lớp theo các tổ hợp môn: Vật lí, Hóa học, Địa lý; Công nghệ thiết kế. Có 2 lớp: 10B3, 10B4. Chuyên đề học tập: Toán, Vật lý, Hóa học. Sĩ số dự kiến: 44 học sinh/lớp. (Định hướng KHTN)",
+    "Số lớp theo các tổ hợp môn: Vật lý, Địa lí; Giáo dục KT&PL; Tin học (Ứng dụng). Có 2 lớp: 10C1, 10C2. Chuyên đề học tập: Ngữ văn, Lịch sử, Tin học. Sĩ số dự kiến: 43 học sinh/lớp. (Định hướng KHXH)",
+    "Số lớp theo các tổ hợp môn: Địa lí, Giáo dục KT&PL; Tin học (Ứng dụng); Công nghệ trồng trọt. Có 1 lớp: 10C3. Chuyên đề học tập: Ngữ văn, Lịch sử, Tin học. Sĩ số dự kiến: 44 học sinh/lớp. (Định hướng KHXH)",
+    "Trường THPT Lý Thường Kiệt, tiền thân là Trường Trung học Bình Tuy (thành lập năm 1958), là ngôi trường giàu truyền thống tại tỉnh Bình Thuận, nơi đã đào tạo nhiều thế hệ học sinh ưu tú, yêu nước và trưởng thành trên nhiều lĩnh vực. Trải qua hơn 50 năm phát triển và nhiều lần đổi tên, hiện nay trường có 51 lớp với gần 2.100 học sinh thuộc hai hệ THPT và GDTX, cùng đội ngũ 126 cán bộ, giáo viên, nhân viên, trong đó 88% đạt trình độ đại học, 5% thạc sĩ, 100% giáo viên ứng dụng tốt CNTT trong giảng dạy. Nhà trường phân chia học sinh theo hai ban: Ban Tự nhiên và Ban Cơ bản, có các lớp chọn và nhiều hoạt động ngoại khóa, dã ngoại, chú trọng giáo dục toàn diện, kỹ năng sống, tinh thần đoàn kết và lòng yêu nước. Với chất lượng dạy và học ổn định, trường liên tục đạt nhiều thành tích xuất sắc, được công nhận đạt chuẩn quốc gia năm 2013 và là điểm tựa vững chắc cho sự phát triển toàn diện của học sinh.",
+    "Đội ngũ giáo viên của trường gồm 90 giáo viên. Trong đó: Môn Toán: 13; Ngữ văn: 11; Tiếng Anh: 10; GDTC: 5; GDQP&AN: 6; Vật lý: 12; Hóa học: 9; Sinh học: 3; Lịch sử: 5; Địa lý: 3; Giáo dục Kinh tế và Pháp luật: 3; Tin học: 8; Công nghệ: 2 (01 Công nghệ công nghiệp, 01 Công nghệ nông nghiệp); Âm nhạc: 0; Mỹ thuật: 0.",
+    "Tiêu chí xét tuyển: Học sinh căn cứ vào kế hoạch để đăng ký nguyện vọng vào các lớp. Lớp định hướng Khoa học tự nhiên: xét theo tổng điểm thi vào lớp 10, điểm thi môn Toán, Tiếng Anh và điểm bình quân các môn Toán, Vật lý, Hóa học, Sinh học của năm học lớp 9. Lớp định hướng Khoa học xã hội: xét theo tổng điểm thi vào lớp 10, điểm thi môn Ngữ văn, Tiếng Anh và điểm bình quân các môn Ngữ văn, Lịch sử, Địa lý của năm học lớp 9. Nếu số học sinh đăng ký nhiều hơn số lớp, các em sẽ được chuyển vào lớp khác theo nguyện vọng 2. Số lớp ở các nhóm có thể điều chỉnh nhằm đáp ứng tối đa nguyện vọng học sinh nhưng vẫn phải đảm bảo điều kiện về đội ngũ giáo viên.",
+    "Thông báo: Điểm trúng tuyển vào lớp 10 THPT Lý Thường Kiệt năm học 2025-2026: Nguyện vọng 1 là 14,75 điểm, Nguyện vọng 2 là 18,00 điểm (sau khi đã cộng điểm ưu tiên, khuyến khích nếu có).",
+    "Những thí sinh có nguyện vọng phúc khảo điểm thi tuyển sinh vào lớp 10 năm học 2025-2026 nộp đơn đề nghị phúc khảo (Mẫu ĐPK-TS10) tại văn phòng nhà trường từ ngày 23/6/2025 đến 11 giờ 30 ngày 28/6/2025.",
+    "Thời gian thu nhận hồ sơ nhập học lớp 10 từ ngày 04/8/2025 đến ngày 07/8/2025. Học sinh xem Thông báo nhập học và Kế hoạch dạy học lớp 10 tại bảng tin và Website của nhà trường để đăng ký lớp học phù hợp với năng lực và nguyện vọng.",
+    "Để biết thông tin chi tiết vui lòng liên hệ Văn phòng nhà trường.",
+    "Giờ vào học Buổi sáng: 06 giờ 55 phút, tiết học đầu tiên của buổi học bắt đầu từ 7 giờ 00 phút.",
+    "Giờ vào học Buổi chiều: 13 giờ 25 phút, tiết học đầu tiên của buổi học bắt đầu từ 13 giờ 30 phút.",
+    "Hành vi, ngôn ngữ, ứng xử:Phải đảm bảo tính văn hóa, phù hợp với đạo đức và lối sống của lứa tuổi học sinh trung học phổ thông.",
+    "Trang phục Học trên lớp, tiết thực hành: Quần: Màu xanh đen, dây lưng màu đen hoặc màu nâu, không được may quần đáy ngắn. Áo: Sơ mi trắng đồng phục của trường.",
+    "Trang phục Học trên lớp, tiết thực hành: Riêng ngày thứ Hai trong tuần và các ngày Lễ, học sinh nữ thực hiện đồng phục quần áo dài truyền thống màu trắng (không may những loại vải màu trắng ngà), không được may theo kiều quần tây, quần đáy ngắn, ống quá nhỏ, quần áo phải đảm bảo kín đáo phù hợp với học sinh THPT (không mỏng, áo xẻ tà không cao quá lưng quần, khi mặc không dắt (vắt) tà áo vào trong quần).",
+    "Trang phục Học trên lớp, tiết thực hành: Dép: Có quai hậu hoặc đi giày (khi mang phải cài quai hậu). Bảng tên: Bảng tên do nhà trường cung cấp đầu năm (yêu cầu may trực tiếp vào áo đi học và áo thể dục).",
+    "Trang phục Tiết học Thể dục và các hoạt động ngoài giờ: Mặc quần áo thể dục (đồng phục của trường), đi giày bata (nhà trường sẽ thông báo cụ thể theo từng hoạt động).",
+    "Trang phục Đi học bù, học phụ đạo, học thêm tại trường, bồi dưỡng HSG trái buổi: Quần tây, áo trắng đồng phục của trường (bỏ áo vào quần) có bảng tên, logo đồng phục của trường, dép có quai hậu.",
+    "Nghỉ học và nghỉ các hoạt động giáo dục khác, Cha (Mẹ) hoặc người đỡ đầu (Phụ huynh) trực tiếp xin phép nhà trường trong ngày (thông qua, giáo viên chủ nhiệm, Ban quản sinh). Nếu vì lí do đột xuất chưa xin phép được kịp thời, thì thông tin cho GVCN hoặc Ban quản sinh biết bằng điện thoại. Phụ huynh xin phép hoặc gửi giấy phép phải có chữ ký của phụ huynh (chữ ký đã đăng ký đầu năm) trong vòng một tuần kể từ khi vắng, nếu không thực hiện một trong các điều trên, thì xem như học sinh nghỉ học không phép.",
+    "Trường hợp học sinh nghỉ học nhiều ngày (từ 3 ngày trở lên) phải có lý do chính đáng và phải được sự đồng ý của Hiệu trưởng nhà trường. Trừ trường hợp học sinh nằm viện dài ngày, khi đi học lại phải trình giấy xuất viện.",
+    "Trường hợp học sinh nghỉ học không có lý do quá 01 (một) tuần thì coi như học sinh đó tự ý bỏ học, nhà trường sẽ cắt sĩ số và thông báo về cho gia đình biết.",
+    "III. Nghỉ học",
+    "Thực hiện nhiệm vụ học tập, rèn luyện theo chương trình, kế hoạch giáo dục của nhà trường.",
+    "Nhiệm vụ của học sinh: Kính trọng cha mẹ, thầy giáo, cô giáo, cán bộ, nhân viên của nhà trường và những người lớn tuổi; đoàn kết, giúp đỡ lẫn nhau trong học tập, rèn luyện; thực hiện điều lệ, nội quy nhà trường; chấp hành pháp luật của Nhà nước.",
+    "Nhiệm vụ của học sinh: Rèn luyện thân thể, giữ gìn vệ sinh cá nhân. Tác phong nhanh nhẹn, đầu tóc gọn gàng.",
+    "Nhiệm vụ của học sinh: Tham gia các hoạt động tập thể của trường, của lớp, của Đoàn Thanh niên Cộng sản Hồ - Chí Minh; giúp đỡ gia đình và tham gia các công tác xã hội, thực hiện Luật an toàn giao thông.",
+    "Nhiệm vụ của học sinh: Giữ gìn, bảo vệ tài sản của nhà trường, nơi công cộng; góp phần xây dựng, bảo vệ và phát huy truyền thống của nhà trường.",
+    "Nhiệm vụ của học sinh: Phải tự lưu giữ bài kiểm tra thường xuyên và định kỳ. Giao nộp lại khi có yêu cầu của giáo viên bộ môn, tổ trưởng chuyên môn hoặc lãnh đạo nhà trường.",
+    "Nhiệm vụ của học sinh: Thực hiện tốt vệ sinh lớp, trường, chăm sóc cây xanh. Có ý thức giữ gìn vệ sinh trong trường, nơi công cộng.",
+    "Nhiệm vụ của học sinh: Tham gia học tập đầy đủ nội quy, điều lệ nhà trường, luật ATGT, an ninh học đường... và kí cam kết theo qui định từ đầu năm; Khi đi xe cá nhân đến trường phải để đúng nơi quy định (khu vực để xe từng khối).",
+    "Nhiệm vụ của học sinh: Thực hiện tốt các biện pháp phòng chống dịch bệnh theo quy định.",
+    "Các hành vi học sinh không được làm: Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể giáo viên, cán bộ, nhân viên của nhà trường, người khác và học sinh khác.",
+    "Các hành vi học sinh không được làm: Gian lận trong học tập, kiểm tra, thi cử, tuyển sinh.",
+    "Các hành vi học sinh không được làm: Làm việc khác, sử dụng điện thoại di động trong giờ học và các hoạt động giáo dục khác khi không được cho phép của giáo viên; hút thuốc, uống rượu, bia và sử dụng các chất kích thích khác trong nhà trường; bỏ tiết, ra khỏi khu vực trường trong các giờ ra chơi.",
+    "Các hành vi học sinh không được làm: Đánh nhau, gây rối an ninh trật tự trong nhà trường và nơi công cộng.",
+    "Các hành vi học sinh không được làm: Lưu hành, sử dụng các ấn phẩm độc hại, đồi truỵ; đưa thông tin không lành mạnh lên mạng xã hội; chơi các trò chơi mang tính kích động bạo lực; tham gia các tệ nạn xã hội; mang các vật dụng sắc nhọn và hung khí vào khu vực trường.",
+    "Các hành vi học sinh không được làm: Trang điểm quá mức, sơn móng (tay, chân) nhuộm tóc khác màu đen và các hình xăm trên thân thể.",
+    "Các hành vi học sinh không được làm: Học sinh không tự ý ở lại trường (Trừ trường hợp nhà trường yêu cầu tham gia các hoạt động khác); không để lại trong lớp tư trang cá nhân, sách vở, dụng cụ học tập khi hết buổi học.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Mỗi lớp được bố trí học riêng tại một phòng học. Để đảm bảo giữ gìn vệ sinh và cơ sở vật chất phòng, các lớp nghiêm túc thực hiện các yêu cầu sau:",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Lớp chịu trách nhiệm mở và khóa cửa phòng học vào đầu và cuối buổi học.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Đầu mỗi buổi học các lớp phải tổ chức làm vệ sinh sạch sẽ trong, trước và sau phòng học của lớp mình.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Không được để rác trong hộc bàn, không vứt rác qua cửa sổ ra phía sau, rác phát sinh trong buổi học phải bỏ vào giỏ đựng rác và đổ rác vào cuối buổi học đúng nơi quy định. Không vứt rác trong sân trường, rác thải sinh hoạt phải bỏ vào thùng rác.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Không mang đồ ăn, thức uống vào phòng học; trong các buổi học không được đặt người giao đồ ăn đến trường.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Hàng tháng lớp phải tự tổ chức tổng vệ sinh: lau cửa kính, quét mạng nhện, cạo bã kẹo singum...",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Không được viết, vẽ, dùng dao hoặc các dụng cụ khác khắc lên bàn ghế, tường, cửa (nếu vi phạm học sinh phải chịu kỷ luật và bồi thường cơ sở vật chất).",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Có ý thức bảo quản các thiết bị điện và các cơ sở vật chất khác trong phòng học.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Có ý thức tiết kiệm điện (chỉ sử dụng đèn, quạt khi cần thiết) – Lớp trưởng chịu trách nhiệm quản lý việc sử dụng điện của lớp.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Những hư hỏng nhỏ về cơ sở vật chất lớp phải tự khắc phục sửa chữa, những hư hỏng lớn do học sinh gây ra lớp phải chịu toàn bộ kinh phí sửa chữa.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Khi phát hiện những bất thường về cơ sở vật chất phòng học, lớp trưởng phải báo ngay cho giáo viên chủ nhiệm biết để có hướng xử lí.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Hàng tháng nhà trường sẽ tiến hành kiểm tra vệ sinh và cơ sở vật chất trong phòng học để làm cơ sở đánh giá thi đua.",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Không phá hoại các tài sản khác của nhà trường: hệ thống điện, nước, cửa, thiết bị nhà vệ sinh, cây xanh... (Nếu học sinh vi phạm sẽ chịu toàn bộ kinh phí sửa chữa và hình thức kỉ luật tùy theo mức độ).",
+    "giữ gìn cơ sở vật chất và vệ sinh phòng học: Không được tự ý gắn hình ảnh, trang trí, treo chậu cây xanh,... trong lớp học khi chưa có sự đồng ý của Hiệu trưởng.",
+    "Nhiệm vụ của lớp trực tuần: Dọn vệ sinh và chăm sóc cây xanh.",
+    "Nhiệm vụ của lớp trực tuần: Dụng cụ: Do nhà trường cấp hoặc học sinh tự chuẩn bị, tùy tính chất công việc, nhà trường sẽ thông báo cụ thể.",
+    "Nhiệm vụ của lớp trực tuần: Số lượng mỗi nhóm trực từ 10 đến 15 em. Giáo viên chủ nhiệm nộp danh sách các nhóm trực tại phòng của Ban quản sinh sau tiết sinh hoạt lớp của ngày thứ 7 tuần trước đó, mỗi nhóm cử 01 em làm nhóm trưởng.",
+    "Nhiệm vụ của lớp trực tuần: Sau khi hoàn thành nhiệm vụ trực phải thu dọn và cất dụng cụ gọn gàng, chỉ ra về khi được sự đồng ý của thầy (cô) hay người phụ trách.",
+    "Nhiệm vụ của lớp trực tuần: Sáng thứ 2 cả lớp phải có mặt tại trường vào lúc 6 giờ 15 để chuẩn bị điều kiện phục vụ buổi chào cờ đầu tuần (Riêng các ngày Lễ lớp trực có mặt sớm theo lịch cụ thể hàng tuần).",
+    "Nhiệm vụ của lớp trực tuần: Các buổi chiều có mặt tại trường vào lúc 14 giờ 00, tập trung trước phòng của Ban quản sinh để nhận nhiệm vụ.",
+    "Nhiệm vụ của lớp trực tuần: (Lưu ý: Các công việc trực trường có thể thay đổi tùy theo từng thời điểm, Ban quản sinh sẽ thông báo cụ thể cho lớp trực. Đối với các trường hợp đặc biệt GVCN phải có mặt đề quản lý lớp).",
+    "Nhiệm vụ của lớp lao động: Dụng cụ: Lớp chuẩn bị theo yêu cầu công việc.",
+    "Nhiệm vụ của lớp lao động: Quản lý: Giáo viên chủ nhiệm trực tiếp quản lý lớp; trước và sau buổi lao động báo cáo tình hình chuẩn bị và kết quả thực hiện nhiệm vụ cho Phó Hiệu trưởng phụ trách hoạt động này.",
+    "1. Học sinh thực hiện tốt nội quy của nhà trường sẽ được tuyên dương khen thưởng.",
+    "Học sinh vi phạm trong quá trình học tập, rèn luyện: Phê bình trước lớp, trước trường.",
+    "Học sinh vi phạm trong quá trình học tập, rèn luyện: Khiển trách và thông báo với gia đình.",
+    "Học sinh vi phạm trong quá trình học tập, rèn luyện: Cảnh cáo ghi học bạ.",
+    "Học sinh vi phạm trong quá trình học tập, rèn luyện: Buộc thôi học có thời hạn.",
+    "Dụng cụ: Lớp chuẩn bị theo yêu cầu công việc",
+    "Điểm tuyển sinh lớp 10 năm học 2025-2026 nguyện vọng 14.75đ, nguyện vọng 2: 18đ",
+    "Môn Toán: 13; Ngữ văn: 11; Tiếng Anh: 10; GDTC: 5; GDQP&AN: 6; Vật lý: 12; Hóa học: 9; Sinh học: 3; Lịch sử: 5; Địa lý: 3; Giáo dục Kinh tế và Pháp luật: 3; Tin học: 8; Công nghệ: 2 (01 Công nghệ công nghiệp, 01 Công nghệ nông nghiệp); Âm nhạc: 0; Mỹ thuật: 0.",
+    "1. Điểm sổ đầu bài (ĐSĐB) được tính bằng công thức: ĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)), trong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học.",
+    "2. Điểm nội quy học tập:",
+    "2.1. Học sinh không học bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.2. Học sinh không chuẩn bị bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.3. Học sinh không làm bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.4. Học sinh không soạn bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.5. Học sinh không chép bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.6. Ghi nhận điểm 3, 4 bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.7. Không sách, vở, dụng cụ học tập bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.8. Làm bài tập thiếu bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "2.9 Học bài chưa kĩ bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết.",
+    "3. Điểm nội quy nề nếp:",
+    "3.1. Mất trật tự bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.2. Thiếu tập trung bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.3. Làm việc riêng bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.4. Ngủ trong tiết học bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.5. Đi trễ bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.6. Tự ý ra khỏi cổng trường bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.7. Vi phạm đồng phục bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.8. Tóc dài (nam) bị trừ 2 điểm cho mỗi học sinh một lượt.",
+    "3.9. Sử dụng điện thoại bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.10. Nghe nhạc trong giờ học bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.11. Nhuộm tóc  bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.12. tóc kiểu bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.13. Sơn móng tay, móng chân bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.14. Hút thuốc bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.15. Uống rượu bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.16. Uống bia bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.17. Nói tục, chửi thề bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.18. Sử dụng mạng xã hội không phù hợp bị trừ 3 điểm cho mỗi học sinh một lượt.",
+    "3.19. Vắng học không phép bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.20. trốn tiết bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.21. vô lễ bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.22. Không bảo vệ của công bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.23. Gian lận trong thi cử bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.24. Vi phạm ATGT bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.25. không trung thực bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.26. lấy cắp bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.27. đánh bài bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.28. đánh nhau bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.30. Tàng trữ, sử dụng hung khí; các chất cấm bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "3.31. Tuyên truyền văn hóa phẩm độc hại, đồi trụy bị trừ 5 điểm cho mỗi học sinh một lượt.",
+    "4. Điểm vệ sinh môi trường, bảo quản cơ sở vật chất:",
+    "4.1 Vệ sinh lớp dơ bị trừ 2 điểm cho mỗi lớp một lượt.",
+    "4.2. Không trực nhật đầu buổi bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "4.3. không đổ rác cuối buổi học bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "4.4. Không tắt điện, quạt bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "4.5 không khóa cửa khi ra khỏi phòng học bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "4.7. Viết, khắc hoặc vẽ lên bàn ghế, lên tường bị trừ 3 điểm cho mỗi lớp một lượt.",
+    "4.8. Mang thức ăn vào lớp bị trừ 5 điểm cho mỗi lớp một lượt.",
+    "4.9. đổ, vứt rác, thức ăn không đúng nơi quy định bị trừ 5 điểm cho mỗi lớp một lượt.",
+    "5/ Kết quả tổng hợp xếp loại hàng tuần:",
+    "Điểm đánh giá xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6.",
+    "- Loại Tốt: Có điểm bình quân các mặt: 8 điểm trở lên (không có mục nào dưới 8đ).",
+    "- Loại Khá: Có điểm bình quân các mặt: Từ 6,5 đến 7,9 (không có mục nào dưới 6,5đ).",
+    "- Loại TB: Có điểm bình quân các mặt: Từ 5,0 đến 6,4 (không có mục nào dưới 5đ).",
+    "- Loại Yếu: Có điểm bình quân hoặc điểm thành phần có mục dưới 5,0."
+  ]
+}

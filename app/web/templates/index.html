@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot AI trường THPT Lý Thường Kiệt</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<div class="container-main">
+    <div class="history-col">
+        <h4>Lịch sử tìm kiếm</h4>
+        <ul id="history-list"></ul>
+    </div>
+    <div class="chat-col">
+        <div class="chat-area-main">
+            <div class="chat-header">
+                Chatbot AI trường THPT<br>Lý Thường Kiệt
+            </div>
+            <div class="chat-box" id="chat-box"></div>
+            <form class="chat-input-row" id="chat-form" autocomplete="off">
+                <input id="question" class="chat-input" type="text" placeholder="Nhập câu hỏi..." autocomplete="off" required>
+                <button class="send-btn" type="submit">Gửi</button>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+let chatHistory = [];
+function renderChat(uptoIdx = null) {
+    const box = $("#chat-box");
+    box.empty();
+    const len = uptoIdx === null ? chatHistory.length : uptoIdx+1;
+    if (len === 0) {
+        box.html(`<div class="text-secondary py-3 px-2">Xin chào! Tôi là Chatbot AI trường THPT Lý Thường Kiệt.<br>Hãy nhập câu hỏi để tôi hỗ trợ bạn.</div>`);
+        return;
+    }
+    for (let i=0; i<len; i++) {
+        let item = chatHistory[i];
+        // User (bên phải)
+        box.append(`
+            <div class="chat-message message-user">
+                <div class="message-content">${item.q}</div>
+            </div>
+        `);
+        // Bot (bên trái, nền trắng)
+        box.append(`
+            <div class="chat-message message-bot">
+                <div class="message-content">${item.a}</div>
+            </div>
+        `);
+    }
+    box.scrollTop(box[0].scrollHeight);
+}
+function renderHistory() {
+    const ul = $("#history-list");
+    ul.empty();
+    chatHistory.slice().reverse().forEach((item, idx) => {
+        ul.append(`<li onclick="showHistory(${chatHistory.length-1-idx})">${item.q}</li>`);
+    });
+}
+function showHistory(idx) {
+    renderChat(idx);
+}
+$(document).ready(function() {
+    renderChat();
+    renderHistory();
+    $("#chat-form").on("submit", function(e) {
+        e.preventDefault();
+        let q = $("#question").val();
+        if (!q.trim()) return;
+        chatHistory.push({q: q, a: "<em>Đang trả lời...</em>"});
+        $("#question").val("").focus();
+        renderChat();
+        renderHistory();
+        $.post('/ask', {question: q}, function(res) {
+            let ans = res.answer || "Không nhận được phản hồi!";
+            chatHistory[chatHistory.length-1].a = ans;
+            renderChat();
+            renderHistory();
+        }).fail(function() {
+            chatHistory[chatHistory.length-1].a = "<span class='text-danger'>Lỗi hệ thống!</span>";
+            renderChat();
+        });
+    });
+});
+</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot AI trường THPT Lý Thường Kiệt</title>
+    <!-- Các thẻ meta, CSS ... -->
+</head>
+<body>
+    <div style="position: absolute; top: 16px; right: 32px;">
+        <a href="{{ url_for('login') }}" style="color:#2563eb; font-weight:500; text-decoration:none;">Đăng nhập quản trị</a>
+    </div>
+    <!-- Phần còn lại của giao diện chatbot -->
+    <div>
+        <!-- ... -->
+    </div>
+</body>
+</html>
