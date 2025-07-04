@@ -1,13 +1,13 @@
 # LyThuongKiet-chatbot
 
-**LyThuongKiet-chatbot** là hệ thống Chatbot AI hỗ trợ học sinh trường THPT Lý Thường Kiệt tra cứu các thông tin quan trọng về trường, như: nội quy, thời khóa biểu, sơ đồ phòng học, thông tin giáo viên, lịch thi, điểm thi đua,...\
+**LyThuongKiet-chatbot** là hệ thống Chatbot AI hỗ trợ học sinh trường THPT Lý Thường Kiệt tra cứu các thông tin quan trọng về trường, như: nội quy, thông tin giáo viên, điểm thi đua,...\
 Dự án ứng dụng kỹ thuật RAG (Retrieval-Augmented Generation) để đảm bảo trả lời chính xác, cập nhật sát thực tế và dễ dàng mở rộng dữ liệu.
 
 ---
 
 ## 🌟 Tính năng nổi bật
 
-- Tra cứu nội quy học sinh, sơ đồ phòng học, thời khóa biểu, lịch/phòng thi.
+- Tra cứu nội quy học sinh, thông tin trường, điểm thi đua...
 - Xem thông tin giáo viên, tổ chuyên môn.
 - Dễ dàng cập nhật dữ liệu mới cho admin.
 - Tối ưu tốc độ truy vấn nhờ cache các câu hỏi đã trả lời.
@@ -18,64 +18,48 @@ Dự án ứng dụng kỹ thuật RAG (Retrieval-Augmented Generation) để đ
 ## 📁 Kiến trúc & cấu trúc thư mục
 
 ```
-LyThuongKiet-chat-box/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-├── requirements.txt
-├── environment.yml
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── vector_store/
-│
-├── docs/
-│   ├── architecture.png
-│   └── user_manual.md
-│
-├── src/
-│   ├── config.py
-│   ├── data_preprocessing.py
-│   ├── embedding.py
-│   ├── rag_backend.py
-│   ├── admin_tools.py
-│   └── cache.py
-│
-├── app/
-│   ├── web/
-│   │   ├── static/
-│   │   ├── templates/
-│   │   └── app.py
-│   └── api/
-│
-├── tests/
-│   ├── test_preprocessing.py
-│   ├── test_embedding.py
-│   └── test_rag_backend.py
-│
-├── scripts/
-│   └── demo_chat.py
-│
-└── report/
-    ├── final_report.md
-    └── presentation.pptx
+LYTHUONGKIET-CHATBOT/
+├── app/                            # Giao diện người dùng và điều phối truy vấn
+│   ├── app.py                      # Điểm khởi động Flask app
+│   └── web/                        # Giao diện người dùng
+│       ├── static/
+│       │   ├── style.css           # Tệp định dạng giao diện
+│       │   └── ts.png              # Hình ảnh sử dụng trong giao diện
+│       └── templates/              # Các tệp HTML cho admin và giao diện chính
+│           ├── index.html
+│           ├── login.html
+│           ├── admin.html
+│           ├── admin_add.html
+│           ├── admin_edit.html
+│           ├── admin_unanswered.html
+│           └── admin_unanswered_list.html
+├── data/                           # Dữ liệu lưu trữ và truy vấn
+│   ├── history/
+│   │   └── chat_history.json       # Bộ nhớ đệm truy vấn
+│   ├── processed/                  # Các chunk văn bản đã xử lý
+│   │   ├── gioithieu_chunks_rag.json
+│   │   ├── noiquy_chunks_rag.json
+│   │   └── thidua_chunks_rag.json
+│   ├── vector_store/              # FAISS index và metadata
+│   │   ├── vector_db.index
+│   │   └── vector_db_meta.json
+│   └── unanswered_questions.json   # Các câu hỏi chưa có phản hồi
+├── src/                            # Các module xử lý chính
+│   ├── __init__.py
+│   ├── cache.py                    # So khớp câu hỏi trong cache
+│   ├── data_preprocessing.py       # Tiền xử lý và phân đoạn văn bản
+│   ├── embedding.py                # Nhúng văn bản và tạo FAISS index
+│   └── rag_retrieve.py             # Pipeline truy vấn: FAISS → GPT
+├── Test/                           # Thư mục kiểm thử
+│   ├── test.py                     # Thực thi kiểm thử tự động
+│   ├── test_query.py               # Kiểm thử truy vấn cụ thể
+│   ├── Test_tong_hop.json          # Tập dữ liệu 100 câu hỏi
+│   ├── ket_qua_danh_gia.json       # Kết quả đánh giá hệ thống
+│   └── cau_tra_loi_sai.json        # Các câu trả lời sai (để phân tích)
+├── requirements.txt                # Khai báo các thư viện phụ thuộc
+└── README.md                       # Tài liệu hướng dẫn cài đặt và sử dụng
+
 ```
-
-**Giải thích:**
-
-- `data/`: Lưu dữ liệu gốc, dữ liệu đã xử lý và kho vector embedding.
-
-- `docs/`: Tài liệu, hướng dẫn sử dụng, sơ đồ minh họa.
-
-- `src/`: Mã nguồn xử lý (preprocess, embedding, backend RAG, công cụ admin...).
-
-- `app/`: Giao diện người dùng (web, API).
-
-- `report/`: Báo cáo, slide, tài liệu tổng kết dự án.
-
----
 
 ## ⚙️ Hướng dẫn cài đặt
 
