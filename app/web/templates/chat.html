@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot AI trường THPT Lý Thường Kiệt</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        .top-action-bar {  }
+        .notify-icon { }
+        .notify-badge {  }
+        .notify-list {  }
+        .notify-title { font-weight: bold; }
+        .logout-link { }
+        .logout-link:hover {  }
+        .history-item { cursor: pointer; transition: background 0.12s; }
+        .history-item:hover { background: #f4f7fe; }
+        .history-q { font-weight: 500; }
+        .history-a { font-size: 14px; }
+    </style>
+    <script>
+      function toggleNotify() {
+        var panel = document.getElementById('notify-panel');
+        if (panel) {
+          panel.style.display = (panel.style.display === 'block' ? 'none' : 'block');
+        }
+      }
+      document.addEventListener('click', function(e) {
+        var panel = document.getElementById('notify-panel');
+        var icon = document.getElementById('notify-icon');
+        if (panel && panel.style.display === 'block' && !panel.contains(e.target) && e.target !== icon) {
+            panel.style.display = 'none';
+        }
+      });
+
+      function toggleAnswer(li){
+          var ans = li.querySelector('.history-a');
+          if(ans) {
+              ans.style.display = (ans.style.display === 'none') ? 'block' : 'none';
+          }
+      }
+
+      // --- AJAX chat không reload ---
+      $(document).ready(function() {
+        $('.chat-input-row').on('submit', function(e) {
+          e.preventDefault();
+          var question = $('.chat-input').val().trim();
+          if (!question) return;
+          $('.chat-input').prop('disabled', true);
+          $('.send-btn').prop('disabled', true);
+
+          // Hiển thị tạm thời message của user lên chatbox
+          var chatBox = $('#chat-box');
+          chatBox.append('<div class="chat-message message-user"><div class="message-content"><b>Bạn:</b> ' + $('<div>').text(question).html() + '</div></div>');
+          chatBox.append('<div class="chat-message message-bot bot-thinking"><div class="message-content"><i>Đang trả lời...</i></div></div>');
+          chatBox.scrollTop(chatBox[0].scrollHeight);
+
+          // Gửi lên API
+          fetch('/ask', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({ question: question })
+          })
+          .then(res => res.json())
+          .then(data => {
+            // Xóa dòng "Đang trả lời..."
+            chatBox.find('.bot-thinking').remove();
+            // Hiển thị câu trả lời bot
+            var answer = data.answer || '<span style="color:#d80000">Không có câu trả lời.</span>';
+            chatBox.append('<div class="chat-message message-bot"><div class="message-content"><b>Bot:</b> ' + $('<div>').text(answer).html().replace(/\n/g,'<br>') + '</div></div>');
+            chatBox.scrollTop(chatBox[0].scrollHeight);
+            // Xóa input
+            $('.chat-input').val('').focus();
+            // Optionally: reload sidebar/history bằng AJAX nếu muốn
+          })
+          .catch(err => {
+            chatBox.find('.bot-thinking').remove();
+            chatBox.append('<div class="chat-message message-bot"><div class="message-content" style="color:red;">Có lỗi xảy ra, thử lại!</div></div>');
+          })
+          .finally(() => {
+            $('.chat-input').prop('disabled', false);
+            $('.send-btn').prop('disabled', false);
+          });
+        });
+      });
+    </script>
+</head>
+<body>
+
+    <div class="container-main">
+        <!-- SIDEBAR: Lịch sử tìm kiếm -->
+        <div class="history-col">
+            <h4>Lịch sử tìm kiếm</h4>
+            <ul id="history-list">
+                {% if history %}
+                    {% for entry in history|reverse %}
+                        <li class="history-item" onclick="toggleAnswer(this)">
+                            <div class="history-q"><b>?</b> {{ entry.question }}</div>
+                            {% if entry.answer %}
+                                <div class="history-a" style="display:none;">
+                                    <b>Đáp án:</b> {{ entry.answer }}
+                                </div>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                {% else %}
+                    <li style="color:#888;">Chưa có lịch sử tìm kiếm</li>
+                {% endif %}
+            </ul>
+        </div>
+        <!-- KHUNG CHAT (realtime AJAX) -->
+        <div class="chat-col">
+            <div class="chat-area-main">
+                    <div class="top-action-bar">
+                        <div class="notify-icon" id="notify-icon" onclick="toggleNotify()">🔔
+                            {% if notify_count > 0 %}
+                                <span class="notify-badge">{{ notify_count }}</span>
+                            {% endif %}
+                        </div>
+                        <a class="logout-link" href="{{ url_for('logout') }}">Đăng xuất</a>
+                        <div id="notify-panel" class="notify-list" style="display:none;">
+                            <div class="notify-title">Thông báo mới:</div>
+                            {% if notify_count == 0 %}
+                                <div style="color: #777;">Không có thông báo mới.</div>
+                            {% else %}
+                                <ul>
+                                {% for n in notifications %}
+                                    <li>
+                                        <b>Câu hỏi:</b> {{ n.question }}<br>
+                                        {% if n.answer %}
+                                            <b>Đáp án:</b> {{ n.answer }}
+                                        {% else %}
+                                            <span style="color:#d80000;">Chưa có đáp án, admin sẽ cập nhật sau!</span>
+                                        {% endif %}
+                                    </li>
+                                {% endfor %}
+                                </ul>
+                                <a href="{{ url_for('clear_notify') }}">Đánh dấu đã đọc tất cả</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                <div class="chat-header">
+                    Chatbot AI trường THPT<br>Lý Thường Kiệt
+                </div>
+                <div class="chat-box" id="chat-box">
+                    {% if not chatbox or chatbox|length == 0 %}
+                        <div class="text-secondary py-3 px-2">
+                            Xin chào! Tôi là Chatbot AI trường THPT Lý Thường Kiệt.<br>
+                            Hãy nhập câu hỏi để tôi hỗ trợ bạn.
+                        </div>
+                    {% else %}
+                        {% for entry in chatbox %}
+                            <div class="chat-message message-user">
+                                <div class="message-content">{{ entry.question }}</div>
+                            </div>
+                            <div class="chat-message message-bot">
+                                <div class="message-content">{{ entry.answer }}</div>
+                                <div class="answer-feedback">
+                                    <form method="post" action="{{ url_for('rate_answer') }}" style="display:inline;">
+                                        <input type="hidden" name="question" value="{{ entry.question }}">
+                                        <input type="hidden" name="answer" value="{{ entry.answer }}">
+                                        <input type="hidden" name="rate" value="like">
+                                        <button type="submit" title="Like" class="btn-like">👍</button>
+                                        <span style="font-size:0.95em; margin-left:2px;">{{ entry.like if entry.like is defined else 0 }}</span>
+                                    </form>
+                                    <form method="post" action="{{ url_for('rate_answer') }}" style="display:inline;">
+                                        <input type="hidden" name="question" value="{{ entry.question }}">
+                                        <input type="hidden" name="answer" value="{{ entry.answer }}">
+                                        <input type="hidden" name="rate" value="unlike">
+                                        <button type="submit" title="Không thích" class="btn-unlike">👎</button>
+                                        <span style="font-size:0.95em; margin-left:2px;">{{ entry.unlike if entry.unlike is defined else 0 }}</span>
+                                    </form>
+                                </div>
+
+                            </div>
+
+
+                        {% endfor %}
+                    {% endif %}
+                </div>
+                <form class="chat-input-row" autocomplete="off" style="margin-top:15px;">
+                    <input class="chat-input" type="text" name="question" placeholder="Nhập câu hỏi..." autocomplete="off" required>
+                    <button class="send-btn" type="submit">Gửi</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

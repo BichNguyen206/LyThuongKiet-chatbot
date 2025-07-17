@@ -1,404 +1,43 @@
 [
-  {
-    "question": "Công thức tính điểm sổ đầu bài là gì?",
-    "answer": "Điểm sổ đầu bài (ĐSĐB) được tính bằng công thức: ĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)), trong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học."
-  },
-  {
-    "question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?",
-    "answer": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Không làm bài bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Không soạn bài bị trừ điểm ra sao?",
-    "answer": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Không chép bài bị trừ như thế nào?",
-    "answer": "Bị trừ 1 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?",
-    "answer": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?",
-    "answer": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Làm bài tập thiếu bị trừ mấy điểm?",
-    "answer": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Học bài chưa kỹ bị trừ như thế nào?",
-    "answer": "Bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết, bị trừ 3 điểm cho mỗi lớp mỗi tiết."
-  },
-  {
-    "question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 2 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Thiếu tập trung khi học bị trừ điểm như thế nào?",
-    "answer": "Bị trừ 2 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Ngủ trong tiết học bị trừ mấy điểm?",
-    "answer": "Bị trừ 2 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Đi trễ bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 2 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?",
-    "answer": "Bị trừ 2 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Vi phạm đồng phục bị trừ điểm thế nào?",
-    "answer": "Bị trừ 2 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 3 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Nghe nhạc trong giờ học bị trừ như thế nào?",
-    "answer": "Bị trừ 3 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?",
-    "answer": "Bị trừ 3 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Sơn móng tay, móng chân bị trừ mấy điểm?",
-    "answer": "Bị trừ 3 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Vắng học không phép bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Trốn tiết bị trừ điểm như thế nào?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Gian lận trong thi cử bị trừ điểm như thế nào?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
-  },
-  {
-    "question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 5 điểm cho mỗi lớp một lượt."
-  },
-  {
-    "question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?",
-    "answer": "Bị trừ 3 điểm cho mỗi lớp một lượt."
-  },
-  {
-    "question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 3 điểm cho mỗi lớp một lượt."
-  },
-  {
-    "question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?",
-    "answer": "Điểm xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6. Phân loại: Tốt (>=8, không mục nào dưới 8), Khá (6,5–7,9, không mục nào dưới 6,5), TB (5,0–6,4, không mục nào dưới 5), Yếu (dưới 5 hoặc thành phần dưới 5)."
-  },
-
-  {
-    "question": "Giờ vào học buổi sáng của trường là mấy giờ?",
-    "answer": "Buổi sáng: 06 giờ 55 phút, tiết học đầu tiên bắt đầu từ 7 giờ 00 phút."
-  },
-  {
-    "question": "Giờ vào học buổi chiều là lúc nào?",
-    "answer": "Buổi chiều: 13 giờ 25 phút, tiết học đầu tiên bắt đầu từ 13 giờ 30 phút."
-  },
-  {
-    "question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?",
-    "answer": "Nam nữ mặc quần xanh đen, áo sơ mi trắng đồng phục trường, dây lưng đen hoặc nâu, không mặc quần đáy ngắn, dép có quai hậu hoặc giày."
-  },
-  {
-    "question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?",
-    "answer": "Mặc quần áo dài truyền thống màu trắng, không may vải màu trắng ngà, không may kiểu quần tây, phải kín đáo phù hợp với học sinh THPT."
-  },
-  {
-    "question": "Học sinh mang bảng tên như thế nào?",
-    "answer": "Bảng tên do nhà trường cung cấp đầu năm, yêu cầu may trực tiếp vào áo đi học và áo thể dục."
-  },
-  {
-    "question": "Khi học thể dục, học sinh mặc gì?",
-    "answer": "Mặc quần áo thể dục đồng phục của trường, đi giày bata."
-  },
-  {
+{
     "question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?",
     "answer": "Mặc quần tây, áo trắng đồng phục của trường (bỏ áo vào quần), có bảng tên, logo đồng phục trường, dép có quai hậu."
   },
-  {
+{
     "question": "Nghỉ học nhiều ngày phải làm gì?",
     "answer": "Phải có lý do chính đáng, được sự đồng ý của Hiệu trưởng. Nếu nằm viện dài ngày, khi đi học lại phải trình giấy xuất viện."
   },
-  {
-    "question": "Nếu nghỉ học không phép quá 1 tuần thì sao?",
-    "answer": "Sẽ coi như tự ý bỏ học, nhà trường cắt sĩ số và thông báo cho gia đình."
-  },
-  {
+{
     "question": "Nhiệm vụ chính của học sinh là gì?",
     "answer": "Thực hiện nhiệm vụ học tập, rèn luyện, kính trọng cha mẹ, thầy cô, đoàn kết, chấp hành pháp luật, giữ gìn vệ sinh, tham gia các hoạt động tập thể."
   },
-  {
+{
     "question": "Học sinh có phải lưu giữ bài kiểm tra không?",
     "answer": "Có, phải tự lưu giữ bài kiểm tra thường xuyên và định kỳ, nộp lại khi giáo viên hoặc lãnh đạo yêu cầu."
   },
-  {
-    "question": "Học sinh phải để xe cá nhân ở đâu?",
-    "answer": "Phải để đúng nơi quy định (khu vực để xe từng khối)."
+{
+    "question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?",
+    "answer": "Mặc quần tây, áo trắng đồng phục của trường (bỏ áo vào quần), có bảng tên, logo đồng phục trường, dép có quai hậu."
   },
-  {
-    "question": "Khi nào học sinh phải ký cam kết?",
-    "answer": "Phải ký cam kết đầu năm về nội quy, điều lệ nhà trường, luật ATGT, an ninh học đường…"
+{
+    "question": "Nghỉ học nhiều ngày phải làm gì?",
+    "answer": "Phải có lý do chính đáng, được sự đồng ý của Hiệu trưởng. Nếu nằm viện dài ngày, khi đi học lại phải trình giấy xuất viện."
   },
-  {
-    "question": "Một số hành vi nào học sinh không được làm?",
-    "answer": "Xúc phạm nhân phẩm, gian lận, sử dụng điện thoại không phép, hút thuốc, bỏ tiết, đánh nhau, lưu hành ấn phẩm độc hại, trang điểm quá mức, ở lại trường không phép..."
+{
+    "question": "Nếu nghỉ học không phép quá 1 tuần thì sao?",
+    "answer": "Chào bạn! Nếu bạn nghỉ học không phép quá 1 tuần sẽ coi như tự ý bỏ học, nhà trường cắt sĩ số và thông báo cho gia đình.! 🌟"
+
   },
-  {
-    "question": "Học sinh có được mang điện thoại không?",
+{
+    "question": "Nhiệm vụ chính của học sinh là gì?",
+    "answer": "Thực hiện nhiệm vụ học tập, rèn luyện, kính trọng cha mẹ, thầy cô, đoàn kết, chấp hành pháp luật, giữ gìn vệ sinh, tham gia các hoạt động tập thể."
+  },
+{
+    "question": "Học sinh có phải lưu giữ bài kiểm tra không?",
+    "answer": "Có, phải tự lưu giữ bài kiểm tra thường xuyên và định kỳ, nộp lại khi giáo viên hoặc lãnh đạo yêu cầu."
+  },
+{
+    "question": "Học sinh có được sử dụng điện thoại không?",
     "answer": "Chỉ được sử dụng khi được giáo viên cho phép, không tự ý sử dụng trong giờ học và các hoạt động giáo dục."
-  },
-  {
-    "question": "Trang điểm quá mức hoặc nhuộm tóc có bị cấm không?",
-    "answer": "Có, học sinh không được trang điểm quá mức, sơn móng, nhuộm tóc khác màu đen, xăm hình trên thân thể."
-  },
-  {
-    "question": "Khi hết buổi học, học sinh có được để lại tư trang trong lớp không?",
-    "answer": "Không được để lại tư trang cá nhân, sách vở, dụng cụ học tập trong lớp khi hết buổi học."
-  },
-  {
-    "question": "Lớp chịu trách nhiệm gì về cơ sở vật chất phòng học?",
-    "answer": "Mở và khóa cửa, vệ sinh sạch sẽ, bảo quản thiết bị điện, tiết kiệm điện, phát hiện bất thường phải báo giáo viên chủ nhiệm."
-  },
-  {
-    "question": "Có được viết, vẽ lên bàn ghế, tường, cửa không?",
-    "answer": "Không được, nếu vi phạm phải kỷ luật và bồi thường cơ sở vật chất."
-  },
-  {
-    "question": "Có được tự ý treo, trang trí trong lớp không?",
-    "answer": "Không được tự ý gắn hình ảnh, trang trí, treo chậu cây xanh trong lớp khi chưa được Hiệu trưởng đồng ý."
-  },
-  {
-    "question": "Mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không?",
-    "answer": "Có, phải tự tổ chức tổng vệ sinh như lau kính, quét mạng nhện, cạo bã kẹo singum…"
-  },
-  {
-    "question": "Ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp?",
-    "answer": "Lớp phải tự khắc phục sửa chữa hư hỏng nhỏ về cơ sở vật chất."
-  },
-  {
-    "question": "Nếu học sinh gây hư hỏng lớn, lớp chịu gì?",
-    "answer": "Lớp phải chịu toàn bộ kinh phí sửa chữa."
-  },
-  {
-    "question": "Nhiệm vụ của lớp trực tuần là gì?",
-    "answer": "Dọn vệ sinh, chăm sóc cây xanh, thực hiện theo hướng dẫn của Ban quản sinh."
-  },
-  {
-    "question": "Số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu?",
-    "answer": "Từ 10 đến 15 em, mỗi nhóm cử 1 em làm nhóm trưởng."
-  },
-  {
-    "question": "Khi hoàn thành trực tuần, cần làm gì?",
-    "answer": "Thu dọn và cất dụng cụ gọn gàng, chỉ ra về khi được sự đồng ý của thầy/cô phụ trách."
-  },
-  {
-    "question": "Học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ?",
-    "answer": "Có mặt tại trường vào lúc 6 giờ 15 sáng thứ 2."
-  },
-  {
-    "question": "Hình thức kỷ luật nào có thể áp dụng với học sinh vi phạm?",
-    "answer": "Phê bình trước lớp, trước trường, khiển trách và thông báo với gia đình, cảnh cáo ghi học bạ, buộc thôi học có thời hạn."
-  },
-  {
-    "question": "Học sinh thực hiện tốt nội quy sẽ được gì?",
-    "answer": "Được tuyên dương khen thưởng."
-  },
-  {
-    "question": "Ai quản lý, báo cáo tình hình lao động của lớp?",
-    "answer": "Giáo viên chủ nhiệm trực tiếp quản lý, báo cáo cho Phó Hiệu trưởng phụ trách hoạt động này."
-  },
-  
-  {
-    "question": "Trường THPT Lý Thường Kiệt thành lập năm nào?",
-    "answer": "Tiền thân là Trường Trung học Bình Tuy, thành lập năm 1958."
-  },
-  {
-    "question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và học sinh hiện nay?",
-    "answer": "Hiện có 51 lớp với gần 2.100 học sinh thuộc hai hệ THPT và GDTX."
-  },
-  {
-    "question": "Đội ngũ giáo viên của trường có bao nhiêu người?",
-    "answer": "Đội ngũ giáo viên gồm 90 giáo viên."
-  },
-  {
-    "question": "Tỷ lệ giáo viên đạt trình độ đại học và thạc sĩ của trường là bao nhiêu?",
-    "answer": "88% giáo viên đạt trình độ đại học, 5% thạc sĩ."
-  },
-  {
-    "question": "Ban giảng dạy tại trường được chia thành những ban nào?",
-    "answer": "Ban Tự nhiên và Ban Cơ bản."
-  },
-  {
-    "question": "Trường có bao nhiêu lớp chọn và có tổ chức các hoạt động ngoại khóa không?",
-    "answer": "Trường có các lớp chọn và nhiều hoạt động ngoại khóa, dã ngoại."
-  },
-  {
-    "question": "Trường đã được công nhận đạt chuẩn quốc gia năm nào?",
-    "answer": "Trường được công nhận đạt chuẩn quốc gia năm 2013."
-  },
-  {
-    "question": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là bao nhiêu?",
-    "answer": "44 học sinh/lớp."
-  },
-  {
-    "question": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn nào và chuyên đề gì?",
-    "answer": "Thuộc tổ hợp Vật lí, Hóa học, Sinh học; Tin học (Thiết kế). Chuyên đề: Toán, Vật lí, Hóa học."
-  },
-  {
-    "question": "Lớp 10A4, 10A5 học tổ hợp môn gì?",
-    "answer": "Vật lí, Hóa học, Sinh học; Công nghệ trồng trọt. Chuyên đề: Toán, Hóa học, Sinh học."
-  },
-  {
-    "question": "Các lớp 10B1, 10B2 thuộc tổ hợp môn nào?",
-    "answer": "Vật lí, Hóa học, Địa lý; Tin học (Ứng dụng)."
-  },
-  {
-    "question": "Các lớp 10B3, 10B4 học tổ hợp gì?",
-    "answer": "Vật lí, Hóa học, Địa lý; Công nghệ thiết kế."
-  },
-  {
-    "question": "Các lớp 10C1, 10C2 có định hướng gì?",
-    "answer": "Định hướng KHXH, tổ hợp: Vật lý, Địa lí; Giáo dục KT&PL; Tin học (Ứng dụng)."
-  },
-  {
-    "question": "Lớp 10C3 có những môn tổ hợp nào?",
-    "answer": "Địa lí, Giáo dục KT&PL; Tin học (Ứng dụng); Công nghệ trồng trọt."
-  },
-  {
-    "question": "Sĩ số dự kiến của lớp 10C1, 10C2 là bao nhiêu?",
-    "answer": "43 học sinh/lớp."
-  },
-  {
-    "question": "Các lớp định hướng KHTN có chuyên đề gì?",
-    "answer": "Chuyên đề: Toán, Vật lí, Hóa học hoặc Toán, Hóa học, Sinh học."
-  },
-  {
-    "question": "Các lớp định hướng KHXH học chuyên đề gì?",
-    "answer": "Chuyên đề: Ngữ văn, Lịch sử, Tin học."
-  },
-  {
-    "question": "Trường có bao nhiêu giáo viên dạy môn Toán?",
-    "answer": "13 giáo viên dạy môn Toán."
-  },
-  {
-    "question": "Có bao nhiêu giáo viên dạy Ngữ văn?",
-    "answer": "11 giáo viên."
-  },
-  {
-    "question": "Số lượng giáo viên tiếng Anh tại trường là bao nhiêu?",
-    "answer": "10 giáo viên."
-  },
-  {
-    "question": "Giáo viên Tin học của trường có bao nhiêu người?",
-    "answer": "8 giáo viên."
-  },
-  {
-    "question": "Giáo viên các môn Khoa học tự nhiên gồm những môn gì?",
-    "answer": "Toán, Vật lý, Hóa học, Sinh học."
-  },
-  {
-    "question": "Tiêu chí xét tuyển vào lớp định hướng KHTN là gì?",
-    "answer": "Xét theo tổng điểm thi vào lớp 10, điểm thi môn Toán, Tiếng Anh và điểm bình quân các môn Toán, Vật lý, Hóa học, Sinh học của năm học lớp 9."
-  },
-  {
-    "question": "Tiêu chí xét tuyển lớp định hướng KHXH như thế nào?",
-    "answer": "Xét theo tổng điểm thi vào lớp 10, điểm thi môn Ngữ văn, Tiếng Anh và điểm bình quân các môn Ngữ văn, Lịch sử, Địa lý của năm học lớp 9."
-  },
-  {
-    "question": "Nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao?",
-    "answer": "Sẽ được chuyển vào lớp khác theo nguyện vọng 2."
-  },
-  {
-    "question": "Số lớp ở các nhóm có được điều chỉnh không?",
-    "answer": "Có thể điều chỉnh nhằm đáp ứng tối đa nguyện vọng học sinh nhưng phải đảm bảo điều kiện về đội ngũ giáo viên."
-  },
-  {
-    "question": "Trường có giáo viên môn Âm nhạc hoặc Mỹ thuật không?",
-    "answer": "Không có giáo viên Âm nhạc, Mỹ thuật."
-  },
-  {
-    "question": "Đội ngũ giáo viên giáo dục quốc phòng – an ninh là bao nhiêu người?",
-    "answer": "6 giáo viên."
-  },
-  {
-    "question": "Trường chú trọng những phẩm chất, kỹ năng nào cho học sinh?",
-    "answer": "Giáo dục toàn diện, kỹ năng sống, tinh thần đoàn kết và lòng yêu nước."
-  },
-  {
-    "question": "Trường đã đào tạo những thế hệ học sinh như thế nào?",
-    "answer": "Nhiều thế hệ học sinh ưu tú, yêu nước và trưởng thành trên nhiều lĩnh vực."
-  },
-  {
-    "question": "Điểm chuẩn vào lớp 10 năm học 2025-2026 của trường THPT Lý Thường Kiệt là bao nhiêu?",
-    "answer": "Nguyện vọng 1 là 14,75 điểm, Nguyện vọng 2 là 18,00 điểm (sau khi đã cộng điểm ưu tiên, khuyến khích nếu có)."
-  },
-  {
-    "question": "Học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào?",
-    "answer": "Nộp đơn đề nghị phúc khảo (Mẫu ĐPK-TS10) tại văn phòng nhà trường từ ngày 23/6/2025 đến 11 giờ 30 ngày 28/6/2025."
-  },
-  {
-    "question": "Thời gian nhập học lớp 10 năm học 2025-2026 là khi nào?",
-    "answer": "Từ ngày 04/8/2025 đến ngày 07/8/2025."
-  },
-  {
-    "question": "Làm sao để biết thông tin chi tiết về tuyển sinh lớp 10?",
-    "answer": "Vui lòng liên hệ Văn phòng nhà trường để biết thông tin chi tiết."
-  },
-  {
-    "question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và bao nhiêu học sinh?",
-    "answer": "Hiện nay trường có 51 lớp với gần 2.100 học sinh."
-  },
-  {
-    "question": "Đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu?",
-    "answer": "Môn Toán: 13; Ngữ văn: 11; Tiếng Anh: 10; GDTC: 5; GDQP&AN: 6; Vật lý: 12; Hóa học: 9; Sinh học: 3; Lịch sử: 5; Địa lý: 3; Giáo dục Kinh tế và Pháp luật: 3; Tin học: 8; Công nghệ: 2."
-  },
-  {
-    "question": "Các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào?",
-    "answer": "Có các tổ hợp như: Vật lí, Hóa học, Sinh học; Tin học (Thiết kế); Vật lí, Hóa học, Địa lý; Công nghệ thiết kế; Địa lí, Giáo dục KT&PL; Tin học (Ứng dụng); Công nghệ trồng trọt."
-  },
-  {
-    "question": "Sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh?",
-    "answer": "Sĩ số dự kiến là 44 học sinh/lớp."
-  },
-  {
-    "question": "Tiêu chí xét tuyển vào lớp định hướng Khoa học tự nhiên là gì?",
-    "answer": "Xét theo tổng điểm thi vào lớp 10, điểm thi môn Toán, Tiếng Anh và điểm bình quân các môn Toán, Vật lý, Hóa học, Sinh học của năm học lớp 9."
-  },
-  {
-    "question": "Trường chú trọng những phẩm chất, kỹ năng nào cho học sinh?",
-    "answer": "Giáo dục toàn diện, kỹ năng sống, tinh thần đoàn kết và lòng yêu nước."
   }
 ]

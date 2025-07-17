@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": "1",
+        "username": "admin",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "role": "admin",
+        "fullname": "Quản trị viên"
+    },
+    {
+        "user_id": "2",
+        "username": "hs001",
+        "password_hash": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "role": "student",
+        "fullname": "Nguyễn Văn AB",
+        "class": "10A1",
+        "email": "sdaf@gmail.com"
+    },
+    {
+        "user_id": "4",
+        "username": "hs002",
+        "password_hash": "91602980c70a88337e86de0dc399c6f0c1189a7cac82555c65f6703d1213a6e9",
+        "role": "student",
+        "fullname": "hehse",
+        "class": "11/13",
+        "email": "da@gmail.com"
+    }
+]

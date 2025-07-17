@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<div class="container-main" style="display: flex; height: 100vh;">
+    <!-- Sidebar -->
+    <nav class="admin-sidebar">
+        <div>
+            <h3>Admin Panel</h3>
+        <ul>
+            <li {% if tab == 'data' %}class="active"{% endif %}
+                onclick="window.location='{{ url_for('admin_dashboard', tab='data') }}'">
+                Quản lý dữ liệu
+            </li>
+            <li {% if tab == 'cache' %}class="active"{% endif %}
+                onclick="window.location='{{ url_for('admin_dashboard', tab='cache') }}'">
+                Quản lý cache
+            </li>
+            <li {% if tab == 'users' %}class="active"{% endif %}
+                onclick="window.location='{{ url_for('admin_dashboard', tab='users') }}'">
+                Quản lý users
+            </li>
+            <li {% if tab == 'stats' %}class="active"{% endif %}
+                onclick="window.location='{{ url_for('admin_dashboard', tab='stats') }}'">
+                Thống kê    
+            </li>
+        </ul>
+            <a class="logout-link" href="{{ url_for('logout') }}">
+                <span style="vertical-align:middle;">🚪</span> Đăng xuất
+            </a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="admin-main">
+        {% if reset_user and reset_pwd %}
+            <div id="reset-popup" class="reset-popup">
+                <div class="reset-popup-content">
+                    <span class="reset-popup-close" onclick="hideResetPopup()">&times;</span>
+                    <div style="font-size: 18px; margin-bottom: 8px;">
+                        Mật khẩu mới cho user <b>{{ reset_user }}</b>:
+                    </div>
+                    <div style="color: #16a34a; font-size: 22px; font-weight: bold;">
+                        {{ reset_pwd }}
+                    </div>
+                </div>
+            </div>
+            <script>
+            function hideResetPopup() {
+                document.getElementById('reset-popup').style.display = 'none';
+            }
+            // Tự tắt sau 7s
+            setTimeout(hideResetPopup, 7000);
+            </script>
+            {% endif %}
+
+        {% if tab == 'cache' %}
+            <div class="admin-header">Quản lý cache hỏi đáp</div>
+            <form method="post" action="{{ url_for('admin_cache_clear') }}?tab=cache" style="margin-bottom: 16px;">
+                <button class="admin-btn" style="background: #d00000;" type="submit"
+                    onclick="return confirm('Bạn có chắc muốn xóa toàn bộ cache không?')">🗑️ Xóa toàn bộ cache</button>
+            </form>
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <div class="admin-status" style="background: #e6f7fa; color: #148a8a;">
+                        {{ messages[0] }}
+                    </div>
+                {% endif %}
+            {% endwith %}
+            <table class="admin-table">
+                <thead>
+                    <tr>
+                        <th style="width: 40px;">STT</th>
+                        <th>Câu hỏi (question)</th>
+                        <th>Câu trả lời (answer)</th>
+                        <th style="width: 140px;">Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% if cache %}
+                    {% for item in cache %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td style="white-space: pre-line;">{{ item.question }}</td>
+                        <td style="white-space: pre-line;">{{ item.answer }}</td>
+                        <td>
+                            <button class="admin-btn" style="background:#2563eb; margin-bottom:4px;" type="button"
+                                onclick="showEditCacheForm({{ loop.index0 }}, `{{ item.question|escape|replace('`','&#96;') }}`, `{{ item.answer|escape|replace('`','&#96;') }}`)">Sửa</button>
+                            <form method="post" action="{{ url_for('admin_cache_delete', idx=loop.index0) }}?tab=cache"
+                                style="display:inline;">
+                                <button class="admin-btn" style="background: #f59e42;" type="submit"
+                                    onclick="return confirm('Bạn chắc chắn muốn xóa câu hỏi này khỏi cache?')">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                {% else %}
+                    <tr><td colspan="4" class="nodata">Chưa có câu hỏi nào trong cache.</td></tr>
+                {% endif %}
+                </tbody>
+            </table>
+
+            <!-- Popup Form Sửa cache -->
+            <div id="edit-cache-form" style="display:none; background:#f8fafc; border-radius:12px; box-shadow:0 4px 32px #0002; padding:32px 40px; max-width:580px; min-width:420px; position:fixed; left:50%; top:12%; transform:translate(-50%,0); z-index:200;">
+                <form id="cache-edit-form" method="post" action="{{ url_for('admin_cache_edit', idx=0) }}?tab=cache">
+                    <input type="hidden" name="idx" id="cache_edit_idx" value="">
+                    <div>
+                        <label style="font-size:17px;">Câu hỏi:<br>
+                            <input type="text" name="question" id="cache_edit_question" required style="width:99%; font-size:16px; padding:9px 10px; border-radius:7px; margin-bottom:7px;">
+                        </label>
+                    </div>
+                    <div style="margin-top:14px;">
+                        <label style="font-size:17px;">Câu trả lời:<br>
+                            <textarea name="answer" id="cache_edit_answer" required style="width:99%; font-size:16px; border-radius:7px; min-height:100px; padding:8px 10px;"></textarea>
+                        </label>
+                    </div>
+                    <div style="margin-top:22px;">
+                        <button class="admin-btn" style="font-size:17px; padding:7px 20px;" type="submit">Lưu</button>
+                        <button class="admin-btn" style="background:#444; font-size:17px; padding:7px 20px;" type="button" onclick="hideEditCacheForm()">Hủy</button>
+                    </div>
+                    <div id="cache-edit-error" style="color:#d00;margin-top:10px;display:none;font-size:15px;"></div>
+                </form>
+
+            </div>
+        {% elif tab == 'users' and users is defined %}
+            {% if session.get('reset_pwd') %}
+            <div id="reset-popup" class="reset-popup">
+                <div class="reset-popup-content">
+                    <span class="reset-popup-close" onclick="hideResetPopup()">&times;</span>
+                    <div style="font-size: 18px; margin-bottom: 8px;">Mật khẩu mới cho user <b>{{ session.get('reset_user') }}</b>:</div>
+                    <div style="color: #16a34a; font-size: 22px; font-weight: bold;">{{ session.get('reset_pwd') }}</div>
+                </div>
+            </div>
+            <script>
+            function hideResetPopup() {
+                document.getElementById('reset-popup').style.display = 'none';
+                // Xoá luôn trên session (gọi endpoint để xoá, hoặc reload page mà backend xoá luôn)
+                fetch('/admin/clear_reset_popup', {method:'POST'});
+                // hoặc location.reload() nếu cần
+            }
+            setTimeout(hideResetPopup, 7000);
+            </script>
+            {% endif %}
+            
+            <script>
+            var users = {{ users|tojson }};
+            function showEditUserPopup(user_id) {
+                var u = users.find(x => x.user_id == user_id);
+                if (!u) return;
+                document.getElementById('edit-user-id').value = u.user_id;
+                document.getElementById('edit-fullname').value = u.fullname;
+                document.getElementById('edit-email').value = u.email;
+                document.getElementById('edit-class').value = u.class || '';
+                document.getElementById('edit-role').value = u.role || 'student';
+                document.getElementById('edit-user-success').style.display = 'none';
+                document.getElementById('edit-user-popup').style.display = 'flex';
+            }
+            function hideEditUserPopup() {
+                document.getElementById('edit-user-popup').style.display = 'none';
+            }
+
+            
+            </script>         
+
+            <div id="edit-user-popup" class="reset-popup" style="display:none;">
+                <div class="reset-popup-content" style="max-width:340px;">
+                    <span class="reset-popup-close" onclick="hideEditUserPopup()">&times;</span>
+                    <div style="font-weight:bold; font-size:18px; margin-bottom:8px;">
+                        Sửa thông tin người dùng
+                    </div>
+                    <form id="edit-user-form">
+                        <input type="hidden" id="edit-user-id" name="user_id">
+                        <label>Họ tên:<br>
+                            <input type="text" id="edit-fullname" name="fullname" style="width:99%;" required>
+                        </label><br>
+                        <label>Email:<br>
+                            <input type="email" id="edit-email" name="email" style="width:99%;" required>
+                        </label><br>
+                        <label>Lớp:<br>
+                            <input type="text" id="edit-class" name="class" style="width:99%;">
+                        </label>
+                        <label>Phân quyền:<br>
+                            <select id="edit-role" name="role" style="width:99%;">
+                                <option value="student">Học sinh</option>
+                                <option value="admin">Admin</option>
+                            </select>
+                        </label>
+                        <div style="margin-top:12px;">
+                            <button type="submit" class="admin-btn" style="background:#10b981;">Lưu</button>
+                            <button type="button" class="admin-btn" style="background:#888;" onclick="hideEditUserPopup()">Huỷ</button>
+                        </div>
+                    </form>
+                    <div id="edit-user-success" style="color: #16a34a; margin-top:8px; display:none;">Đã cập nhật!</div>
+                </div>
+            </div>
+
+            <div id="toast" style="display:none; position:fixed; bottom:38px; left:50%; transform:translateX(-50%);
+                background:#1ec38b; color:#fff; padding:14px 38px; border-radius:12px; font-size:18px;
+                z-index:3000; box-shadow:0 4px 32px #23387033; font-weight:500;">
+                Đã cập nhật thành công!
+            </div>
+            <script>
+            function showToast(msg) {
+                var t = document.getElementById('toast');
+                t.textContent = msg;
+                t.style.display = 'block';
+                setTimeout(function(){
+                    t.style.display = 'none';
+                }, 1000);
+            }
+            </script>
+            <div class="admin-header">Quản lý người dùng</div>
+            <table class="admin-table">
+                <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Tài khoản</th>
+                        <th>Họ tên</th>
+                        <th>Email</th>
+                        <th>Lớp</th>
+                        <th>Role</th>
+                        <th>Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for u in users %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ u.username }}</td>
+                        <td>{{ u.fullname }}</td>
+                        <td>{{ u.email }}</td>
+                        <td>{{ u.class }}</td>
+                        <td>{{ u.role }}</td>
+                        <td>
+                            <div style="display:flex; gap:8px;">
+                                <form method="post" action="{{ url_for('admin_delete_user', user_id=u.user_id) }}?tab=users" style="display:inline;">
+                                    <button class="admin-btn" type="submit" style="background: #f59e42;" 
+                                        {% if u.role == "admin" %}disabled style="opacity:.5; cursor:not-allowed;"{% endif %}
+                                        onclick="return confirm('Bạn chắc chắn muốn xoá user này?')">Xoá</button>
+                                </form>
+                                <form method="post" action="{{ url_for('admin_reset_password', user_id=u.user_id) }}?tab=users" style="display:inline;">
+                                    <button class="admin-btn" type="submit" style="background: #278ad6;" 
+                                        {% if u.role == "admin" %}disabled style="opacity:.5; cursor:not-allowed;"{% endif %}>Reset</button>
+                                </form>
+                                <button class="admin-btn" style="background: #10b981;" type="button"
+                                    onclick="showEditUserPopup('{{ u.user_id }}')"
+                                    {% if u.role == "admin" %}disabled style="opacity:.5; cursor:not-allowed;"{% endif %}
+                                >Sửa</button>
+                            </div>
+                        </td>
+                        
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% elif tab == 'stats' %}
+            <div class="admin-header">Thống kê hệ thống Chatbot</div>
+            <!-- Thống kê số lượt câu hỏi theo tháng của từng user -->
+            <div class="admin-section" style="margin-bottom: 32px;">
+                <div class="section-title" style="font-weight: bold; margin-bottom: 12px;">
+                    Thống kê số lượt câu hỏi theo tháng của từng user
+                </div>
+                <table class="admin-table" style="width:100%; border-collapse:collapse;">
+                    <thead>
+                        <tr>
+                            <th>User</th>
+                            <th>Tháng</th>
+                            <th>Số câu hỏi</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for user, counter in user_month_stats.items() %}
+                            {% for month, count in counter.items() %}
+                            <tr>
+                                <td>{{ user }}</td>
+                                <td>{{ month[5:7] }}/{{ month[0:4] }}</td>
+                                <td>{{ count }}</td>
+                            </tr>
+                            {% endfor %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Thống kê số lượt câu hỏi theo chủ đề theo tháng -->
+            <div class="admin-section" style="margin-bottom: 32px;">
+                <div class="section-title" style="font-weight: bold; margin-bottom: 12px;">
+                    Thống kê số lượt câu hỏi theo chủ đề theo tháng
+                </div>
+                <table class="admin-table" style="width:100%; border-collapse:collapse;">
+                    <thead>
+                        <tr>
+                            <th>Chủ đề</th>
+                            <th>Tháng</th>
+                            <th>Số câu hỏi</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for topic, counter in topic_month_stats.items() %}
+                            {% for month, count in counter.items() %}
+                            <tr>
+                                <td>{{ topic }}</td>
+                                <td>{{ month[5:7] }}/{{ month[0:4] }}</td>
+                                <td>{{ count }}</td>
+                            </tr>
+                            {% endfor %}
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Danh sách các câu hỏi chưa có đáp án để admin bổ sung -->
+            <div class="admin-section" style="margin-bottom: 32px;">
+                <div class="section-title" style="font-weight: bold; margin-bottom: 12px;">
+                    Danh sách các câu hỏi chưa có đáp án để admin bổ sung
+                </div>
+                <table class="admin-table" style="width:100%; border-collapse:collapse;">
+                    <thead>
+                        <tr>
+                            <th>User</th>
+                            <th>Thời gian</th>                            
+                            <th>Câu hỏi</th>
+                            <th>Trả lời</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for item in unanswered_questions %}
+                        <tr>
+                            <td>{{ item.username }}</td>
+                            <td>
+                                {{ item.timestamp[11:16] }} {{ item.timestamp[8:10] }}/{{ item.timestamp[5:7] }}/{{ item.timestamp[0:4] }}
+                            </td>            
+                            <td>{{ item.question }}</td>
+                            <td>
+                                <form method="post" action="{{ url_for('admin_answer_unanswered') }}">
+                                    <input type="hidden" name="username" value="{{ item.username }}">
+                                    <input type="hidden" name="timestamp" value="{{ item.timestamp }}">
+                                    <input type="hidden" name="question" value="{{ item.question }}">
+                                    <input type="text" name="admin_answer" placeholder="Nhập đáp án..." style="width: 120px;">
+                                    <button type="submit" style="padding: 4px 16px; border-radius:7px; border: none; background: #428bfa; color: #fff;">Gửi</button>
+                                    
+                                </form>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                        {% if unanswered_questions|length == 0 %}
+                        <tr>
+                            <td colspan="5" style="text-align:center; color:#aaa;">Tất cả các câu hỏi đã được trả lời.</td>
+                        </tr>
+                        {% endif %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="admin-section" style="margin-bottom: 36px;">
+                <div class="section-title" style="font-weight:bold; margin-bottom: 10px;">Thống kê đánh giá chất lượng các câu trả lời</div>
+                
+                <table class="admin-table" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Câu hỏi</th>
+                            <th>Đáp án</th>
+                            <th>User like</th>
+                            <th>User unlike</th>
+                            <th>Tổng Like</th>
+                            <th>Tổng Unlike</th>
+                            <th>Bổ sung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for qa, stat in like_unlike_stats.items() %}
+                            <tr>
+                                <td>{{ qa[0] }}</td>
+                                <td>{{ qa[1] }}</td>
+                                <td>
+                                    {% if stat.like %}
+                                        {{ stat.like|join(', ') }}
+                                    {% else %}
+                                        <span style="color:#888">-</span>
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    {% if stat.unlike %}
+                                        {{ stat.unlike|join(', ') }}
+                                    {% else %}
+                                        <span style="color:#888">-</span>
+                                    {% endif %}
+                                </td>
+                                <td style="text-align:center;">{{ stat.like|length }}</td>
+                                <td style="text-align:center;">{{ stat.unlike|length }}</td>
+                                <td>
+                                    {% if stat.unlike|length > 0 %}
+                                    <form method="post" action="{{ url_for('admin_supplement_answer') }}" style="display: flex; gap: 6px; margin-bottom: 10px; max-width:520px;">                                                                              
+                                        <input type="text" name="new_answer" placeholder="Đáp án bổ sung..." style="flex:3; padding:4px 8px; border-radius:7px; border:1.2px solid #d0d7de;">
+                                        <button type="submit" style="padding: 4px 16px; border-radius:7px; border: none; background: #428bfa; color: #fff;">Gửi</button>
+                                    </form>
+
+                                    {% endif %}
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        {% else %}
+            <div class="admin-header">Quản lý dữ liệu</div>
+            <!-- Filter + Thêm mới + Update vector store -->
+            <div class="admin-filter-bar" style="display: flex; align-items: center; gap: 18px; margin-bottom: 28px;">
+                <form method="get" action="{{ url_for('admin_dashboard', tab='data') }}" style="display: flex; align-items: center; gap: 12px; margin: 0;">
+                    <label for="type">Chọn loại dữ liệu:</label>
+                    <select id="type" name="type" class="admin-select" onchange="this.form.submit()">
+                        {% for key, item in data_types.items() %}
+                            <option value="{{ key }}" {% if dtype == key %}selected{% endif %}>{{ item.label }}</option>
+                        {% endfor %}
+                    </select>
+                    <button class="admin-btn" type="button" onclick="showAddForm()">+ Thêm mới</button>
+                </form>
+                <form method="post" action="{{ url_for('update_vector_store') }}?tab=data&type={{ dtype }}" style="margin: 0;">
+                    <button class="admin-btn" type="submit" style="background: #16a34a;">🔄 Cập nhật vector store</button>
+                </form>
+            </div>
+
+            <!-- Popup Form Thêm/Sửa -->
+            <div id="data-form" style="display:none; margin-bottom:20px; background:#f8fafc; border-radius:8px; box-shadow:0 2px 12px #0001; padding:20px 32px; max-width:700px;">
+                <form id="chunk-form" method="post" action="/admin/save_chunk?type={{ dtype }}&tab=data">
+                    <input type="hidden" name="idx" id="chunk_id" value="">
+                    <input type="hidden" name="source" id="chunk_source" value="{{ default_source }}">
+                    <div style="display: flex; gap: 24px; flex-wrap: wrap;">
+                        <div>
+                            <label>Section:<br>
+                                <select name="section" id="chunk_section" style="width:160px;" onchange="onSectionChange()">
+                                    <option value="">--Chọn section--</option>
+                                    {% for section in section_tree %}
+                                    <option value="{{ section }}">{{ section }}</option>
+                                    {% endfor %}
+                                </select>
+                            </label>
+                        </div>
+                        <div>
+                            <label>Subsection:<br>
+                                <select name="subsection" id="chunk_subsection" style="width:160px;" onchange="onSubsectionChange()">
+                                    <option value="">--Chọn subsection--</option>
+                                </select>
+                            </label>
+                        </div>
+                    </div>
+                    <div style="margin-top:10px;">
+                        <label>Nội dung:<br>
+                            <input type="text" name="text" id="chunk_text" required style="width:70%;">
+                        </label>
+                    </div>
+                    <div style="margin-top:16px;">
+                        <button class="admin-btn" type="submit" id="save-btn">Lưu</button>
+                        <button class="admin-btn" type="button" onclick="hideForm()">Hủy</button>
+                    </div>
+                    <div id="form-error" style="color:#d00;margin-top:8px;display:none;"></div>
+                </form>
+            </div>
+
+            {% if update_status %}
+                <div class="admin-status {% if update_status != 'success' %}error{% endif %}">
+                    {% if update_status == 'success' %}Cập nhật thành công!{% else %}{{ update_status }}{% endif %}
+                </div>
+            {% endif %}
+
+            <table class="admin-table">
+                <thead>
+                    <tr>
+                        <th style="width:60px;">ID</th>
+                        <th>Nội dung</th>
+                        <th style="width:160px;">Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% if chunks %}
+                    {% for chunk in chunks %}
+                    <tr>
+                        <td>{{ loop.index0 }}</td>
+                        <td id="text-{{ loop.index0 }}">{{ chunk.text }}</td>
+                        <td>
+                            <div class="admin-actions">
+                                <a class="admin-btn" href="#"
+                                    data-idx="{{ loop.index0 }}"
+                                    data-text="{{ chunk.text | e }}"
+                                    data-section="{{ chunk.metadata.section if chunk.metadata and 'section' in chunk.metadata else '' }}"
+                                    data-subsection="{{ chunk.metadata.subsection if chunk.metadata and 'subsection' in chunk.metadata else '' }}"
+                                    onclick="editChunkAttr(this); return false;">Sửa</a>
+                                <form method="post" action="/admin/delete_chunk?type={{ dtype }}&tab=data" style="display:inline;">
+                                    <input type="hidden" name="chunk_id" value="{{ loop.index0 }}">
+                                    <button class="admin-btn" type="submit" onclick="return confirm('Bạn chắc chắn muốn xóa?')">Xóa</button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                {% else %}
+                    <tr>
+                        <td colspan="3" class="nodata">Chưa có dữ liệu nào cho loại này.</td>
+                    </tr>
+                {% endif %}
+                </tbody>
+            </table>
+        {% endif %}
+    </div>
+</div>
+<script>
+// tab vector store
+var sectionTree = {{ section_tree | tojson | default('{}') | safe }};
+
+function showAddForm() {
+    var form = document.getElementById('data-form');
+    form.style.display = 'block';
+    document.getElementById('chunk_id').value = '';
+    document.getElementById('chunk_section').value = '';
+    document.getElementById('chunk_subsection').innerHTML = '<option value="">--Chọn subsection--</option>';
+    document.getElementById('chunk_text').value = '';
+    document.getElementById('chunk_text').focus();
+    document.getElementById('form-error').style.display = 'none';
+}
+
+function editChunkAttr(el) {
+    var form = document.getElementById('data-form');
+    form.style.display = 'block';
+    document.getElementById('chunk_id').value = el.getAttribute('data-idx');
+    document.getElementById('chunk_text').value = el.getAttribute('data-text');
+    var section = el.getAttribute('data-section');
+    var subsection = el.getAttribute('data-subsection');
+    document.getElementById('chunk_section').value = section;
+    onSectionChange();
+    document.getElementById('chunk_subsection').value = subsection;
+    onSubsectionChange();
+    document.getElementById('chunk_text').focus();
+    document.getElementById('form-error').style.display = 'none';
+}
+
+function hideForm() {
+    document.getElementById('data-form').style.display = 'none';
+    document.getElementById('form-error').style.display = 'none';
+}
+
+function onSectionChange() {
+    var section = document.getElementById('chunk_section').value;
+    var subSelect = document.getElementById('chunk_subsection');
+    subSelect.innerHTML = '<option value="">--Chọn subsection--</option>';
+    if (section && sectionTree[section]) {
+        Object.keys(sectionTree[section]).forEach(function(sub) {
+            var opt = document.createElement('option');
+            opt.value = sub;
+            opt.textContent = sub;
+            subSelect.appendChild(opt);
+        });
+    } else {
+        console.warn('No subsections found for section:', section);
+    }
+}
+
+function onSubsectionChange() {
+    // Nếu sau này có thêm item, xử lý tại đây
+}
+
+// Validate form trước khi submit
+document.getElementById('chunk-form').addEventListener('submit', function(e) {
+    var section = document.getElementById('chunk_section').value;
+    var text = document.getElementById('chunk_text').value;
+    var errorDiv = document.getElementById('form-error');
+    if (!section) {
+        e.preventDefault();
+        errorDiv.textContent = 'Vui lòng chọn section.';
+        errorDiv.style.display = 'block';
+    } else if (!text.trim()) {
+        e.preventDefault();
+        errorDiv.textContent = 'Nội dung không được để trống.';
+        errorDiv.style.display = 'block';
+    }
+});
+</script>
+
+<script>
+//sử lý tab cache 
+function showEditCacheForm(idx, question, answer) {
+    document.getElementById('edit-cache-form').style.display = 'block';
+    document.getElementById('cache_edit_idx').value = idx;
+    document.getElementById('cache_edit_question').value = question;
+    document.getElementById('cache_edit_answer').value = answer;
+    document.getElementById('cache-edit-error').style.display = 'none';
+
+    // Cập nhật action form với đúng idx
+    document.getElementById('cache-edit-form').action = '/admin/cache/edit/' + idx + '?tab=cache';
+
+    document.getElementById('cache_edit_question').focus();
+}
+
+function hideEditCacheForm() {
+    document.getElementById('edit-cache-form').style.display = 'none';
+    document.getElementById('cache-edit-error').style.display = 'none';
+}
+
+// Kiểm tra form trước khi gửi
+document.getElementById('cache-edit-form').addEventListener('submit', function(e) {
+    var question = document.getElementById('cache_edit_question').value.trim();
+    var answer = document.getElementById('cache_edit_answer').value.trim();
+    var errorDiv = document.getElementById('cache-edit-error');
+
+    if (!question || !answer) {
+        e.preventDefault();
+        errorDiv.textContent = 'Câu hỏi và câu trả lời không được để trống!';
+        errorDiv.style.display = 'block';
+    }
+});
+</script>
+<script>
+//Xử lý tab quản lý user
+document.getElementById('edit-user-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const userId = document.getElementById('edit-user-id').value;
+    const fullname = document.getElementById('edit-fullname').value;
+    const email = document.getElementById('edit-email').value;
+    const className = document.getElementById('edit-class').value;
+    const role = document.getElementById('edit-role').value;
+
+    fetch('/admin/edit_user', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({user_id: userId, fullname: fullname, email: email, class: className, role: role})
+    })
+    .then(res => res.json())
+    .then(data => {
+        if (data.success) {
+            showToast('Đã cập nhật!');
+            hideEditUserPopup();
+            // Bạn có thể reload trang hoặc cập nhật trực tiếp bảng user nếu muốn
+            setTimeout(() => location.reload(), 1000);
+        } else {
+            alert('Cập nhật thất bại!');
+        }
+    })
+    .catch(() => alert('Lỗi kết nối!'));
+});
+
+</script>
+
+
+<script>
+function showAddForm() {
+    document.getElementById('data-form').style.display = 'block';
+    document.getElementById('chunk_id').value = '';
+    document.getElementById('chunk_text').value = '';
+    document.getElementById('chunk_text').focus();
+}
+function editChunk(id, text) {
+    document.getElementById('data-form').style.display = 'block';
+    document.getElementById('chunk_id').value = id;
+    document.getElementById('chunk_text').value = text;
+    document.getElementById('chunk_text').focus();
+}
+function hideForm() {
+    document.getElementById('data-form').style.display = 'none';
+}
+</script>
+
+
+</body>
+</html>
+

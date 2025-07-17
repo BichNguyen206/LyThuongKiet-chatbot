@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Thứ 3 học môn gì?",
+    "answer": "Chào bạn, để biết thứ hai học ở phòng nào, bạn vui lòng liên hệ giáo viên chủ nhiệm hoặc các bạn khác trong lớp nhé!",
+    "topic": "",
+    "status": "new"
+  },
+  {
+    "question": "Thứ 4 học môn gì?",
+    "answer": "Chào bạn, để biết thứ tư học ở phòng nào, bạn vui lòng liên hệ giáo viên chủ nhiệm hoặc các bạn khác trong lớp nhé!",
+    "topic": "Rep by admin",
+    "status": "new"
+  },
+  {
+    "question": "bây giờ là mấy giờ bạn",
+    "answer": "Câu hỏi không đúng chủ đề! Vui lòng hỏi đúng",
+    "topic": "Rep by admin",
+    "status": "new"
+  },
+  {
+    "question": "NgÀY MAI LÀ NGÀY NÀO?",
+    "answer": "Câu hỏi không đúng chủ đề! Vui lòng không tám trên bot!",
+    "topic": "Rep by admin",
+    "status": "new"
+  }
+]

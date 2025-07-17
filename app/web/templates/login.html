@@ -4,85 +4,12 @@
     <title>Đăng nhập Admin</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-            background: #f6f8fa;
-            font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
-        }
-        .login-container {
-            max-width: 370px;
-            margin: 60px auto;
-            background: #fff;
-            border-radius: 14px;
-            box-shadow: 0 2px 16px rgba(0,0,0,0.06);
-            padding: 34px 28px 26px 28px;
-        }
-        .login-title {
-            font-size: 1.4rem;
-            font-weight: 600;
-            color: #224299;
-            margin-bottom: 24px;
-            text-align: center;
-        }
-        label {
-            font-weight: 500;
-            margin-top: 12px;
-            color: #333;
-            display: block;
-        }
-        input[type="text"], input[type="password"] {
-            width: 100%;
-            padding: 9px 10px;
-            border: 1px solid #e2e8f0;
-            border-radius: 6px;
-            font-size: 1rem;
-            margin-top: 4px;
-            margin-bottom: 16px;
-            background: #f9fafb;
-            transition: border 0.2s;
-        }
-        input[type="text"]:focus, input[type="password"]:focus {
-            outline: none;
-            border-color: #2563eb;
-        }
-        .btn-login {
-            width: 100%;
-            background: #2563eb;
-            color: #fff;
-            font-size: 1.1rem;
-            font-weight: 500;
-            border: none;
-            border-radius: 6px;
-            padding: 11px;
-            cursor: pointer;
-            margin-top: 4px;
-            transition: background 0.15s;
-        }
-        .btn-login:hover {
-            background: #1e40af;
-        }
-        .login-error {
-            color: #d83a2f;
-            font-weight: 500;
-            margin-bottom: 8px;
-            text-align: center;
-        }
-        .back-link {
-            display: block;
-            text-align: center;
-            margin-top: 18px;
-            color: #2563eb;
-            text-decoration: none;
-            font-size: 1rem;
-        }
-        .back-link:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
 </head>
 <body>
     <div class="login-container">
-        <div class="login-title">Đăng nhập Admin</div>
+        <div class="login-title">Đăng nhập</div>
         {% if error %}
         <div class="login-error">{{ error }}</div>
         {% endif %}

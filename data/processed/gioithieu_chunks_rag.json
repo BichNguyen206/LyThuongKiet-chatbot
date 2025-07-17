@@ -98,7 +98,6 @@
       "id": "chunk_9"
     }
   },
-  
   {
     "text": "Thông báo: Điểm trúng tuyển vào lớp 10 THPT Lý Thường Kiệt năm học 2025-2026: Nguyện vọng 1 là 14,75 điểm, Nguyện vọng 2 là 18,00 điểm (sau khi đã cộng điểm ưu tiên, khuyến khích nếu có).",
     "metadata": {
@@ -142,6 +141,16 @@
       "updated_at": "2025-07-03",
       "id": "chunk_13"
     }
+  },
+  {
+    "text": "Cô Nguyễn Thị Thanh Bích là giáo viên tin học",
+    "metadata": {
+      "section": "Giới thiệu trường",
+      "subsection": "",
+      "item": null,
+      "source": "Thông tin trường",
+      "updated_at": "2025-07-16",
+      "id": "chunk_ba54f5f7"
+    }
   }
 ]
-
