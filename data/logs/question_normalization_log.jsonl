@@ -1,0 +1,563 @@
+{"timestamp": "2025-07-14 12:37:21.881688", "user_question": "xin chào bạn, tôi đang đi học nhưng bị trễ, tôi rất lo sơ liệu tôi có bị gì k?", "normalized": "xin chào bn tôi đang đi học nhưng bị trễ tôi rất lo sơ liệu tôi có bị gì k"}
+{"timestamp": "2025-07-14 12:40:38.389588", "user_question": "đi học chễ bị trừ mấy điểm", "normalized": "đi học chễ bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 13:23:04.448622", "user_question": "xin chào bạn, tôi đang đi học nhưng bị trễ, tôi rất lo sơ liệu tôi có bị gì k?", "normalized": "xin chào bn tôi đang đi học nhưng bị trễ tôi rất lo sơ liệu tôi có bị gì k"}
+{"timestamp": "2025-07-14 13:25:30.715972", "user_question": "học sinh đi học lúc mấy giờ", "normalized": "học sinh đi học lúc mấy giờ"}
+{"timestamp": "2025-07-14 13:26:03.819889", "user_question": "chào bạn", "normalized": "chào bn"}
+{"timestamp": "2025-07-14 13:26:15.393745", "user_question": "Hello", "normalized": "hello"}
+{"timestamp": "2025-07-14 13:26:51.876967", "user_question": "What time do students go to school?", "normalized": "what time do students go to school"}
+{"timestamp": "2025-07-14 13:32:19.798363", "user_question": "Học sinh đến trường lúc mấy giờ?", "normalized": "học sinh đến trường lúc mấy giờ"}
+{"timestamp": "2025-07-14 13:32:34.507361", "user_question": "Khi nào học sinh đi học?", "normalized": "khi nào học sinh đi học"}
+{"timestamp": "2025-07-14 13:32:49.353333", "user_question": "學生幾點去上學？", "normalized": "學生幾點去上學"}
+{"timestamp": "2025-07-14 13:35:43.769692", "user_question": "xin chào bạn, hôm nay bạn khỏe k?", "normalized": "xin chào bn hôm nay bn khỏe k"}
+{"timestamp": "2025-07-14 13:35:54.564731", "user_question": "tạm biệt", "normalized": "tm biệt"}
+{"timestamp": "2025-07-14 13:37:16.074693", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-14 13:40:28.491529", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-14 13:41:39.443640", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-14 13:51:37.372182", "user_question": "xin chào bạn là ai?", "normalized": "xin chào bn là ai"}
+{"timestamp": "2025-07-14 13:51:43.278501", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-14 13:55:52.426208", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-14 13:56:03.812095", "user_question": "Xin chào bạn hôm nay thế nào", "normalized": "xin chào bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 13:56:19.248609", "user_question": "bạn hôm nay thế nào", "normalized": "bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 13:56:58.591889", "user_question": "Bạn hôm nay thế nào", "normalized": "bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 13:57:50.709137", "user_question": "Bạn hôm nay thế nào", "normalized": "bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 13:58:53.483271", "user_question": "Bạn hôm nay thế nào", "normalized": "bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 14:00:03.506772", "user_question": "Bạn hôm nay thế nào", "normalized": "bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 14:02:03.459544", "user_question": "bạn hôm nay thế nào", "normalized": "bn hôm nay thế nào"}
+{"timestamp": "2025-07-14 15:12:26.367247", "user_question": "tôi đang rất lo sợ vì không học bài, tôi có bị gì k?", "normalized": "tôi đang rất lo sợ vì không học bài tôi có bị gì k"}
+{"timestamp": "2025-07-14 15:14:30.270019", "user_question": "tôi đang rất lo sợ vì không học bài, tôi có bị gì k?", "normalized": "tôi đang rất lo sợ vì không học bài tôi có bị gì k"}
+{"timestamp": "2025-07-14 15:15:24.108991", "user_question": "tôi không biết phải đi học lúc mấy giờ?", "normalized": "tôi không biết phải đi học lúc mấy giờ"}
+{"timestamp": "2025-07-14 15:15:32.945260", "user_question": "cám ơn bạn", "normalized": "cám ơn bn"}
+{"timestamp": "2025-07-14 15:15:56.530073", "user_question": "bạn vui tính nghê", "normalized": "bn vui tính nghê"}
+{"timestamp": "2025-07-14 20:35:26.973930", "user_question": "những lớp nào học chuyên đề tin học", "normalized": "những lớp nào học chuyên đề tin học"}
+{"timestamp": "2025-07-14 20:36:11.076209", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-14 20:40:00.958732", "user_question": "điểm sổ đầu bài được tính thế nào?", "normalized": "điểm sổ đầu bài được tính thế nào"}
+{"timestamp": "2025-07-14 20:43:48.636300", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-14 20:43:50.166575", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:43:51.696960", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 20:43:53.226505", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:44:10.553238", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-14 20:44:18.257239", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:44:23.742273", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 20:44:29.391407", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:44:30.916961", "user_question": "Không soạn bài bị trừ điểm ra sao?", "normalized": "không son bài bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 20:44:36.638148", "user_question": "Không chép bài bị trừ như thế nào?", "normalized": "không chép bài bị trừ như thế nào"}
+{"timestamp": "2025-07-14 20:44:38.165202", "user_question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?", "normalized": "điểm 3 4 trong học tập bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 20:45:05.208302", "user_question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?", "normalized": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 20:45:31.166245", "user_question": "Làm bài tập thiếu bị trừ mấy điểm?", "normalized": "làm bài tập thiếu bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 20:45:56.799858", "user_question": "Học bài chưa kỹ bị trừ như thế nào?", "normalized": "học bài chưa kỹ bị trừ như thế nào"}
+{"timestamp": "2025-07-14 20:46:02.360388", "user_question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?", "normalized": "mất trật tự trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:46:27.235780", "user_question": "Thiếu tập trung khi học bị trừ điểm như thế nào?", "normalized": "thiếu tập trung khi học bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 20:46:53.978865", "user_question": "Ngủ trong tiết học bị trừ mấy điểm?", "normalized": "ngủ trong tiết học bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 20:46:59.643103", "user_question": "Đi trễ bị trừ bao nhiêu điểm?", "normalized": "đi trễ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:47:25.792431", "user_question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?", "normalized": "tự ý ra khỏi cổng trường bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 20:47:50.864266", "user_question": "Vi phạm đồng phục bị trừ điểm thế nào?", "normalized": "vi phm đồng phục bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 20:47:55.802280", "user_question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?", "normalized": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:48:21.419765", "user_question": "Nghe nhạc trong giờ học bị trừ như thế nào?", "normalized": "nghe nhc trong giờ học bị trừ như thế nào"}
+{"timestamp": "2025-07-14 20:48:46.527188", "user_question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?", "normalized": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 20:49:12.506217", "user_question": "Sơn móng tay, móng chân bị trừ mấy điểm?", "normalized": "sơn móng tay móng chân bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 20:49:17.345857", "user_question": "Vắng học không phép bị trừ bao nhiêu điểm?", "normalized": "vắng học không phép bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:49:18.876009", "user_question": "Trốn tiết bị trừ điểm như thế nào?", "normalized": "trốn tiết bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 20:49:23.746421", "user_question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?", "normalized": "vô lễ với giáo viên bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:50:12.445743", "user_question": "Gian lận trong thi cử bị trừ điểm như thế nào?", "normalized": "gian lận trong thi cử bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 20:50:16.914780", "user_question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?", "normalized": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 20:50:43.160267", "user_question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?", "normalized": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 20:51:08.834308", "user_question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?", "normalized": "mang thức ăn vào lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:51:34.164733", "user_question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?", "normalized": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 20:51:40.350644", "user_question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?", "normalized": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 20:52:06.136646", "user_question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?", "normalized": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào"}
+{"timestamp": "2025-07-14 20:52:33.670641", "user_question": "Giờ vào học buổi sáng của trường là mấy giờ?", "normalized": "giờ vào học buổi sáng của trường là mấy giờ"}
+{"timestamp": "2025-07-14 20:52:37.594261", "user_question": "Giờ vào học buổi chiều là lúc nào?", "normalized": "giờ vào học buổi chiều là lúc nào"}
+{"timestamp": "2025-07-14 20:53:02.957318", "user_question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?", "normalized": "học sinh phải mặc đồng phục như thế nào khi học trên lớp"}
+{"timestamp": "2025-07-14 20:53:31.548727", "user_question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?", "normalized": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì"}
+{"timestamp": "2025-07-14 20:53:36.306196", "user_question": "Học sinh mang bảng tên như thế nào?", "normalized": "học sinh mang bảng tên như thế nào"}
+{"timestamp": "2025-07-14 20:54:01.917984", "user_question": "Khi học thể dục, học sinh mặc gì?", "normalized": "khi học thể dục học sinh mặc gì"}
+{"timestamp": "2025-07-14 20:54:27.386303", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-14 20:54:52.955238", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-14 20:54:58.235853", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-14 20:55:23.933227", "user_question": "Nhiệm vụ chính của học sinh là gì?", "normalized": "nhiệm vụ chính của học sinh là gì"}
+{"timestamp": "2025-07-14 20:55:52.934258", "user_question": "Học sinh có phải lưu giữ bài kiểm tra không?", "normalized": "học sinh có phải lưu giữ bài kiểm tra không"}
+{"timestamp": "2025-07-14 20:55:58.050222", "user_question": "Học sinh phải để xe cá nhân ở đâu?", "normalized": "học sinh phải để xe cá nhân ở đâu"}
+{"timestamp": "2025-07-14 20:56:22.540231", "user_question": "Khi nào học sinh phải ký cam kết?", "normalized": "khi nào học sinh phải ký cam kết"}
+{"timestamp": "2025-07-14 20:56:48.391635", "user_question": "Một số hành vi nào học sinh không được làm?", "normalized": "một số hành vi nào học sinh không được làm"}
+{"timestamp": "2025-07-14 20:57:17.952866", "user_question": "Học sinh có được mang điện thoại không?", "normalized": "học sinh có được mang điện thoi không"}
+{"timestamp": "2025-07-14 20:57:22.559046", "user_question": "Trang điểm quá mức hoặc nhuộm tóc có bị cấm không?", "normalized": "trang điểm quá mức hoặc nhuộm tóc có bị cấm không"}
+{"timestamp": "2025-07-14 20:57:28.849512", "user_question": "Khi hết buổi học, học sinh có được để lại tư trang trong lớp không?", "normalized": "khi hết buổi học học sinh có được để li tư trang trong lớp không"}
+{"timestamp": "2025-07-14 20:58:15.031203", "user_question": "Lớp chịu trách nhiệm gì về cơ sở vật chất phòng học?", "normalized": "lớp chịu trách nhiệm gì về cơ sở vật chất phòng học"}
+{"timestamp": "2025-07-14 20:58:23.116711", "user_question": "Có được viết, vẽ lên bàn ghế, tường, cửa không?", "normalized": "có được viết vẽ lên bàn ghế tường cửa không"}
+{"timestamp": "2025-07-14 20:58:48.461881", "user_question": "Có được tự ý treo, trang trí trong lớp không?", "normalized": "có được tự ý treo trang trí trong lớp không"}
+{"timestamp": "2025-07-14 20:59:15.248509", "user_question": "Mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không?", "normalized": "mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không"}
+{"timestamp": "2025-07-14 20:59:20.192797", "user_question": "Ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp?", "normalized": "ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp"}
+{"timestamp": "2025-07-14 20:59:47.009266", "user_question": "Nếu học sinh gây hư hỏng lớn, lớp chịu gì?", "normalized": "nếu học sinh gây hư hỏng lớn lớp chịu gì"}
+{"timestamp": "2025-07-14 21:00:13.557351", "user_question": "Nhiệm vụ của lớp trực tuần là gì?", "normalized": "nhiệm vụ của lớp trực tuần là gì"}
+{"timestamp": "2025-07-14 21:00:22.489541", "user_question": "Số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu?", "normalized": "số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu"}
+{"timestamp": "2025-07-14 21:00:47.846324", "user_question": "Khi hoàn thành trực tuần, cần làm gì?", "normalized": "khi hoàn thành trực tuần cần làm gì"}
+{"timestamp": "2025-07-14 21:01:14.364455", "user_question": "Học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ?", "normalized": "học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ"}
+{"timestamp": "2025-07-14 21:01:18.575353", "user_question": "Hình thức kỷ luật nào có thể áp dụng với học sinh vi phạm?", "normalized": "hình thức kỷ luật nào có thể áp dụng với học sinh vi phm"}
+{"timestamp": "2025-07-14 21:01:47.461090", "user_question": "Học sinh thực hiện tốt nội quy sẽ được gì?", "normalized": "học sinh thực hiện tốt nội quy sẽ được gì"}
+{"timestamp": "2025-07-14 21:02:13.065493", "user_question": "Ai quản lý, báo cáo tình hình lao động của lớp?", "normalized": "ai quản lý báo cáo tình hình lao động của lớp"}
+{"timestamp": "2025-07-14 21:02:17.241925", "user_question": "Trường THPT Lý Thường Kiệt thành lập năm nào?", "normalized": "trường thpt lý thường kiệt thành lập năm nào"}
+{"timestamp": "2025-07-14 21:02:21.738858", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và học sinh hiện nay?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và học sinh hiện nay"}
+{"timestamp": "2025-07-14 21:03:09.543464", "user_question": "Đội ngũ giáo viên của trường có bao nhiêu người?", "normalized": "đội ngũ giáo viên của trường có bao nhiêu người"}
+{"timestamp": "2025-07-14 21:03:34.998901", "user_question": "Tỷ lệ giáo viên đạt trình độ đại học và thạc sĩ của trường là bao nhiêu?", "normalized": "tỷ lệ giáo viên đt trình độ đi học và thc sĩ của trường là bao nhiêu"}
+{"timestamp": "2025-07-14 21:03:42.250064", "user_question": "Ban giảng dạy tại trường được chia thành những ban nào?", "normalized": "ban giảng dy ti trường được chia thành những ban nào"}
+{"timestamp": "2025-07-14 21:04:07.506823", "user_question": "Trường có bao nhiêu lớp chọn và có tổ chức các hoạt động ngoại khóa không?", "normalized": "trường có bao nhiêu lớp chọn và có tổ chức các hot động ngoi khóa không"}
+{"timestamp": "2025-07-14 21:04:36.439950", "user_question": "Trường đã được công nhận đạt chuẩn quốc gia năm nào?", "normalized": "trường đã được công nhận đt chuẩn quốc gia năm nào"}
+{"timestamp": "2025-07-14 21:04:40.610268", "user_question": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là bao nhiêu?", "normalized": "sĩ số dự kiến của các lớp 10 theo định hướng khtn là bao nhiêu"}
+{"timestamp": "2025-07-14 21:05:06.183452", "user_question": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn nào và chuyên đề gì?", "normalized": "lớp 10a1 10a2 10a3 thuộc tổ hợp môn nào và chuyên đề gì"}
+{"timestamp": "2025-07-14 21:05:32.009400", "user_question": "Lớp 10A4, 10A5 học tổ hợp môn gì?", "normalized": "lớp 10a4 10a5 học tổ hợp môn gì"}
+{"timestamp": "2025-07-14 21:05:36.518967", "user_question": "Các lớp 10B1, 10B2 thuộc tổ hợp môn nào?", "normalized": "các lớp 10b1 10b2 thuộc tổ hợp môn nào"}
+{"timestamp": "2025-07-14 21:06:01.319504", "user_question": "Các lớp 10B3, 10B4 học tổ hợp gì?", "normalized": "các lớp 10b3 10b4 học tổ hợp gì"}
+{"timestamp": "2025-07-14 21:06:25.589934", "user_question": "Các lớp 10C1, 10C2 có định hướng gì?", "normalized": "các lớp 10c1 10c2 có định hướng gì"}
+{"timestamp": "2025-07-14 21:06:52.167361", "user_question": "Lớp 10C3 có những môn tổ hợp nào?", "normalized": "lớp 10c3 có những môn tổ hợp nào"}
+{"timestamp": "2025-07-14 21:06:56.985572", "user_question": "Sĩ số dự kiến của lớp 10C1, 10C2 là bao nhiêu?", "normalized": "sĩ số dự kiến của lớp 10c1 10c2 là bao nhiêu"}
+{"timestamp": "2025-07-14 21:07:21.306006", "user_question": "Các lớp định hướng KHTN có chuyên đề gì?", "normalized": "các lớp định hướng khtn có chuyên đề gì"}
+{"timestamp": "2025-07-14 21:07:46.596716", "user_question": "Các lớp định hướng KHXH học chuyên đề gì?", "normalized": "các lớp định hướng khxh học chuyên đề gì"}
+{"timestamp": "2025-07-14 21:07:48.127151", "user_question": "Trường có bao nhiêu giáo viên dạy môn Toán?", "normalized": "trường có bao nhiêu giáo viên dy môn toán"}
+{"timestamp": "2025-07-14 21:08:13.645651", "user_question": "Có bao nhiêu giáo viên dạy Ngữ văn?", "normalized": "có bao nhiêu giáo viên dy ngữ văn"}
+{"timestamp": "2025-07-14 21:08:17.725720", "user_question": "Số lượng giáo viên tiếng Anh tại trường là bao nhiêu?", "normalized": "số lượng giáo viên tiếng anh ti trường là bao nhiêu"}
+{"timestamp": "2025-07-14 21:08:21.760432", "user_question": "Giáo viên Tin học của trường có bao nhiêu người?", "normalized": "giáo viên tin học của trường có bao nhiêu người"}
+{"timestamp": "2025-07-14 21:08:23.286979", "user_question": "Giáo viên các môn Khoa học tự nhiên gồm những môn gì?", "normalized": "giáo viên các môn khoa học tự nhiên gồm những môn gì"}
+{"timestamp": "2025-07-14 21:08:49.230088", "user_question": "Tiêu chí xét tuyển vào lớp định hướng KHTN là gì?", "normalized": "tiêu chí xét tuyển vào lớp định hướng khtn là gì"}
+{"timestamp": "2025-07-14 21:09:16.191955", "user_question": "Tiêu chí xét tuyển lớp định hướng KHXH như thế nào?", "normalized": "tiêu chí xét tuyển lớp định hướng khxh như thế nào"}
+{"timestamp": "2025-07-14 21:09:41.655847", "user_question": "Nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao?", "normalized": "nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao"}
+{"timestamp": "2025-07-14 21:10:05.583189", "user_question": "Số lớp ở các nhóm có được điều chỉnh không?", "normalized": "số lớp ở các nhóm có được điều chỉnh không"}
+{"timestamp": "2025-07-14 21:10:31.525965", "user_question": "Trường có giáo viên môn Âm nhạc hoặc Mỹ thuật không?", "normalized": "trường có giáo viên môn âm nhc hoặc mỹ thuật không"}
+{"timestamp": "2025-07-14 21:10:40.123612", "user_question": "Đội ngũ giáo viên giáo dục quốc phòng – an ninh là bao nhiêu người?", "normalized": "đội ngũ giáo viên giáo dục quốc phòng an ninh là bao nhiêu người"}
+{"timestamp": "2025-07-14 21:11:04.349395", "user_question": "Trường chú trọng những phẩm chất, kỹ năng nào cho học sinh?", "normalized": "trường chú trọng những phẩm chất kỹ năng nào cho học sinh"}
+{"timestamp": "2025-07-14 21:11:10.460647", "user_question": "Trường đã đào tạo những thế hệ học sinh như thế nào?", "normalized": "trường đã đào to những thế hệ học sinh như thế nào"}
+{"timestamp": "2025-07-14 21:11:18.713978", "user_question": "Điểm chuẩn vào lớp 10 năm học 2025-2026 của trường THPT Lý Thường Kiệt là bao nhiêu?", "normalized": "điểm chuẩn vào lớp 10 năm học 20252026 của trường thpt lý thường kiệt là bao nhiêu"}
+{"timestamp": "2025-07-14 21:11:23.792123", "user_question": "Học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào?", "normalized": "học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào"}
+{"timestamp": "2025-07-14 21:12:10.803009", "user_question": "Thời gian nhập học lớp 10 năm học 2025-2026 là khi nào?", "normalized": "thời gian nhập học lớp 10 năm học 20252026 là khi nào"}
+{"timestamp": "2025-07-14 21:12:39.653086", "user_question": "Làm sao để biết thông tin chi tiết về tuyển sinh lớp 10?", "normalized": "làm sao để biết thông tin chi tiết về tuyển sinh lớp 10"}
+{"timestamp": "2025-07-14 21:13:05.919705", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và bao nhiêu học sinh?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và bao nhiêu học sinh"}
+{"timestamp": "2025-07-14 21:13:07.452541", "user_question": "Đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu?", "normalized": "đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu"}
+{"timestamp": "2025-07-14 21:13:08.985745", "user_question": "Các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào?", "normalized": "các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào"}
+{"timestamp": "2025-07-14 21:13:16.888876", "user_question": "Sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh?", "normalized": "sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh"}
+{"timestamp": "2025-07-14 21:13:23.191336", "user_question": "Tiêu chí xét tuyển vào lớp định hướng Khoa học tự nhiên là gì?", "normalized": "tiêu chí xét tuyển vào lớp định hướng khoa học tự nhiên là gì"}
+{"timestamp": "2025-07-14 21:18:20.254658", "user_question": "học sinh đi học mang đồ gì?", "normalized": "học sinh đi học mang đồ gì"}
+{"timestamp": "2025-07-14 21:18:56.977851", "user_question": "đồng phục đi học mang gì?", "normalized": "đồng phục đi học mang gì"}
+{"timestamp": "2025-07-14 21:19:33.785641", "user_question": "xin chào bạn!", "normalized": "xin chào bn"}
+{"timestamp": "2025-07-14 21:19:43.943140", "user_question": "Giới thiệu về trường đi", "normalized": "giới thiệu về trường đi"}
+{"timestamp": "2025-07-14 21:23:23.153958", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-14 21:24:26.739403", "user_question": "giới thiệu về trường mình đi", "normalized": "giới thiệu về trường mình đi"}
+{"timestamp": "2025-07-14 22:08:44.384971", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-14 22:08:51.442352", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:08:55.816816", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:09:01.512543", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:09:03.036807", "user_question": "Không soạn bài bị trừ điểm ra sao?", "normalized": "không son bài bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:09:30.278228", "user_question": "Không chép bài bị trừ như thế nào?", "normalized": "không chép bài bị trừ như thế nào"}
+{"timestamp": "2025-07-14 22:09:31.816742", "user_question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?", "normalized": "điểm 3 4 trong học tập bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:09:37.453542", "user_question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?", "normalized": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 22:10:02.672255", "user_question": "Làm bài tập thiếu bị trừ mấy điểm?", "normalized": "làm bài tập thiếu bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:10:27.994115", "user_question": "Học bài chưa kỹ bị trừ như thế nào?", "normalized": "học bài chưa kỹ bị trừ như thế nào"}
+{"timestamp": "2025-07-14 22:10:33.087478", "user_question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?", "normalized": "mất trật tự trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:10:59.040630", "user_question": "Thiếu tập trung khi học bị trừ điểm như thế nào?", "normalized": "thiếu tập trung khi học bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:11:25.194711", "user_question": "Ngủ trong tiết học bị trừ mấy điểm?", "normalized": "ngủ trong tiết học bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:11:49.775384", "user_question": "Đi trễ bị trừ bao nhiêu điểm?", "normalized": "đi trễ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:11:54.394727", "user_question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?", "normalized": "tự ý ra khỏi cổng trường bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:12:20.304370", "user_question": "Vi phạm đồng phục bị trừ điểm thế nào?", "normalized": "vi phm đồng phục bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 22:12:46.103464", "user_question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?", "normalized": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:12:50.140299", "user_question": "Nghe nhạc trong giờ học bị trừ như thế nào?", "normalized": "nghe nhc trong giờ học bị trừ như thế nào"}
+{"timestamp": "2025-07-14 22:13:15.418674", "user_question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?", "normalized": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:13:42.334525", "user_question": "Sơn móng tay, móng chân bị trừ mấy điểm?", "normalized": "sơn móng tay móng chân bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:14:07.612509", "user_question": "Vắng học không phép bị trừ bao nhiêu điểm?", "normalized": "vắng học không phép bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:14:09.139258", "user_question": "Trốn tiết bị trừ điểm như thế nào?", "normalized": "trốn tiết bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:14:13.660196", "user_question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?", "normalized": "vô lễ với giáo viên bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:14:39.098586", "user_question": "Gian lận trong thi cử bị trừ điểm như thế nào?", "normalized": "gian lận trong thi cử bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:15:10.185657", "user_question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?", "normalized": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:15:15.177701", "user_question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?", "normalized": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:15:41.124073", "user_question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?", "normalized": "mang thức ăn vào lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:16:05.904568", "user_question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?", "normalized": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 22:16:10.790804", "user_question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?", "normalized": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:16:36.809742", "user_question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?", "normalized": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào"}
+{"timestamp": "2025-07-14 22:17:07.455615", "user_question": "Giờ vào học buổi sáng của trường là mấy giờ?", "normalized": "giờ vào học buổi sáng của trường là mấy giờ"}
+{"timestamp": "2025-07-14 22:17:11.351013", "user_question": "Giờ vào học buổi chiều là lúc nào?", "normalized": "giờ vào học buổi chiều là lúc nào"}
+{"timestamp": "2025-07-14 22:17:36.492063", "user_question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?", "normalized": "học sinh phải mặc đồng phục như thế nào khi học trên lớp"}
+{"timestamp": "2025-07-14 22:18:03.085052", "user_question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?", "normalized": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì"}
+{"timestamp": "2025-07-14 22:18:28.402881", "user_question": "Học sinh mang bảng tên như thế nào?", "normalized": "học sinh mang bảng tên như thế nào"}
+{"timestamp": "2025-07-14 22:18:32.545404", "user_question": "Khi học thể dục, học sinh mặc gì?", "normalized": "khi học thể dục học sinh mặc gì"}
+{"timestamp": "2025-07-14 22:18:56.835959", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-14 22:19:22.200166", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-14 22:19:47.112084", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-14 22:20:12.352965", "user_question": "Nhiệm vụ chính của học sinh là gì?", "normalized": "nhiệm vụ chính của học sinh là gì"}
+{"timestamp": "2025-07-14 22:20:37.316270", "user_question": "Học sinh có phải lưu giữ bài kiểm tra không?", "normalized": "học sinh có phải lưu giữ bài kiểm tra không"}
+{"timestamp": "2025-07-14 22:21:01.639879", "user_question": "Học sinh phải để xe cá nhân ở đâu?", "normalized": "học sinh phải để xe cá nhân ở đâu"}
+{"timestamp": "2025-07-14 22:21:25.468630", "user_question": "Khi nào học sinh phải ký cam kết?", "normalized": "khi nào học sinh phải ký cam kết"}
+{"timestamp": "2025-07-14 22:21:49.349795", "user_question": "Một số hành vi nào học sinh không được làm?", "normalized": "một số hành vi nào học sinh không được làm"}
+{"timestamp": "2025-07-14 22:22:14.209081", "user_question": "Học sinh có được mang điện thoại không?", "normalized": "học sinh có được mang điện thoi không"}
+{"timestamp": "2025-07-14 22:22:38.588732", "user_question": "Trang điểm quá mức hoặc nhuộm tóc có bị cấm không?", "normalized": "trang điểm quá mức hoặc nhuộm tóc có bị cấm không"}
+{"timestamp": "2025-07-14 22:23:04.470346", "user_question": "Khi hết buổi học, học sinh có được để lại tư trang trong lớp không?", "normalized": "khi hết buổi học học sinh có được để li tư trang trong lớp không"}
+{"timestamp": "2025-07-14 22:23:29.693336", "user_question": "Lớp chịu trách nhiệm gì về cơ sở vật chất phòng học?", "normalized": "lớp chịu trách nhiệm gì về cơ sở vật chất phòng học"}
+{"timestamp": "2025-07-14 22:23:54.141539", "user_question": "Có được viết, vẽ lên bàn ghế, tường, cửa không?", "normalized": "có được viết vẽ lên bàn ghế tường cửa không"}
+{"timestamp": "2025-07-14 22:24:18.944144", "user_question": "Có được tự ý treo, trang trí trong lớp không?", "normalized": "có được tự ý treo trang trí trong lớp không"}
+{"timestamp": "2025-07-14 22:24:43.427189", "user_question": "Mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không?", "normalized": "mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không"}
+{"timestamp": "2025-07-14 22:25:07.764905", "user_question": "Ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp?", "normalized": "ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp"}
+{"timestamp": "2025-07-14 22:25:32.025993", "user_question": "Nếu học sinh gây hư hỏng lớn, lớp chịu gì?", "normalized": "nếu học sinh gây hư hỏng lớn lớp chịu gì"}
+{"timestamp": "2025-07-14 22:25:56.402266", "user_question": "Nhiệm vụ của lớp trực tuần là gì?", "normalized": "nhiệm vụ của lớp trực tuần là gì"}
+{"timestamp": "2025-07-14 22:26:20.593989", "user_question": "Số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu?", "normalized": "số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu"}
+{"timestamp": "2025-07-14 22:26:45.600019", "user_question": "Khi hoàn thành trực tuần, cần làm gì?", "normalized": "khi hoàn thành trực tuần cần làm gì"}
+{"timestamp": "2025-07-14 22:26:49.717115", "user_question": "Học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ?", "normalized": "học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ"}
+{"timestamp": "2025-07-14 22:27:33.796691", "user_question": "Hình thức kỷ luật nào có thể áp dụng với học sinh vi phạm?", "normalized": "hình thức kỷ luật nào có thể áp dụng với học sinh vi phm"}
+{"timestamp": "2025-07-14 22:27:59.224081", "user_question": "Học sinh thực hiện tốt nội quy sẽ được gì?", "normalized": "học sinh thực hiện tốt nội quy sẽ được gì"}
+{"timestamp": "2025-07-14 22:28:23.885787", "user_question": "Ai quản lý, báo cáo tình hình lao động của lớp?", "normalized": "ai quản lý báo cáo tình hình lao động của lớp"}
+{"timestamp": "2025-07-14 22:28:48.143783", "user_question": "Trường THPT Lý Thường Kiệt thành lập năm nào?", "normalized": "trường thpt lý thường kiệt thành lập năm nào"}
+{"timestamp": "2025-07-14 22:29:12.902225", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và học sinh hiện nay?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và học sinh hiện nay"}
+{"timestamp": "2025-07-14 22:29:37.376636", "user_question": "Đội ngũ giáo viên của trường có bao nhiêu người?", "normalized": "đội ngũ giáo viên của trường có bao nhiêu người"}
+{"timestamp": "2025-07-14 22:30:02.768296", "user_question": "Tỷ lệ giáo viên đạt trình độ đại học và thạc sĩ của trường là bao nhiêu?", "normalized": "tỷ lệ giáo viên đt trình độ đi học và thc sĩ của trường là bao nhiêu"}
+{"timestamp": "2025-07-14 22:30:27.279565", "user_question": "Ban giảng dạy tại trường được chia thành những ban nào?", "normalized": "ban giảng dy ti trường được chia thành những ban nào"}
+{"timestamp": "2025-07-14 22:30:53.541190", "user_question": "Trường có bao nhiêu lớp chọn và có tổ chức các hoạt động ngoại khóa không?", "normalized": "trường có bao nhiêu lớp chọn và có tổ chức các hot động ngoi khóa không"}
+{"timestamp": "2025-07-14 22:31:17.952188", "user_question": "Trường đã được công nhận đạt chuẩn quốc gia năm nào?", "normalized": "trường đã được công nhận đt chuẩn quốc gia năm nào"}
+{"timestamp": "2025-07-14 22:31:43.351536", "user_question": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là bao nhiêu?", "normalized": "sĩ số dự kiến của các lớp 10 theo định hướng khtn là bao nhiêu"}
+{"timestamp": "2025-07-14 22:32:08.231361", "user_question": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn nào và chuyên đề gì?", "normalized": "lớp 10a1 10a2 10a3 thuộc tổ hợp môn nào và chuyên đề gì"}
+{"timestamp": "2025-07-14 22:32:32.580259", "user_question": "Lớp 10A4, 10A5 học tổ hợp môn gì?", "normalized": "lớp 10a4 10a5 học tổ hợp môn gì"}
+{"timestamp": "2025-07-14 22:32:57.445196", "user_question": "Các lớp 10B1, 10B2 thuộc tổ hợp môn nào?", "normalized": "các lớp 10b1 10b2 thuộc tổ hợp môn nào"}
+{"timestamp": "2025-07-14 22:37:53.689550", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-14 22:37:55.215396", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:37:56.741310", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:37:58.263663", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:37:59.787118", "user_question": "Không soạn bài bị trừ điểm ra sao?", "normalized": "không son bài bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:38:01.309741", "user_question": "Không chép bài bị trừ như thế nào?", "normalized": "không chép bài bị trừ như thế nào"}
+{"timestamp": "2025-07-14 22:38:02.835044", "user_question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?", "normalized": "điểm 3 4 trong học tập bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:38:04.366640", "user_question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?", "normalized": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 22:38:05.891933", "user_question": "Làm bài tập thiếu bị trừ mấy điểm?", "normalized": "làm bài tập thiếu bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:38:07.417322", "user_question": "Học bài chưa kỹ bị trừ như thế nào?", "normalized": "học bài chưa kỹ bị trừ như thế nào"}
+{"timestamp": "2025-07-14 22:38:08.946456", "user_question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?", "normalized": "mất trật tự trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:10.475098", "user_question": "Thiếu tập trung khi học bị trừ điểm như thế nào?", "normalized": "thiếu tập trung khi học bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:38:12.000472", "user_question": "Ngủ trong tiết học bị trừ mấy điểm?", "normalized": "ngủ trong tiết học bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:38:13.525131", "user_question": "Đi trễ bị trừ bao nhiêu điểm?", "normalized": "đi trễ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:15.050634", "user_question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?", "normalized": "tự ý ra khỏi cổng trường bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:38:16.577129", "user_question": "Vi phạm đồng phục bị trừ điểm thế nào?", "normalized": "vi phm đồng phục bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 22:38:18.102355", "user_question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?", "normalized": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:19.628307", "user_question": "Nghe nhạc trong giờ học bị trừ như thế nào?", "normalized": "nghe nhc trong giờ học bị trừ như thế nào"}
+{"timestamp": "2025-07-14 22:38:21.152688", "user_question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?", "normalized": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:38:22.679513", "user_question": "Sơn móng tay, móng chân bị trừ mấy điểm?", "normalized": "sơn móng tay móng chân bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:38:24.205781", "user_question": "Vắng học không phép bị trừ bao nhiêu điểm?", "normalized": "vắng học không phép bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:25.735273", "user_question": "Trốn tiết bị trừ điểm như thế nào?", "normalized": "trốn tiết bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:38:27.262450", "user_question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?", "normalized": "vô lễ với giáo viên bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:28.783736", "user_question": "Gian lận trong thi cử bị trừ điểm như thế nào?", "normalized": "gian lận trong thi cử bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-14 22:38:30.310263", "user_question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?", "normalized": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao"}
+{"timestamp": "2025-07-14 22:38:31.838791", "user_question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?", "normalized": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm"}
+{"timestamp": "2025-07-14 22:38:33.367721", "user_question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?", "normalized": "mang thức ăn vào lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:34.895063", "user_question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?", "normalized": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào"}
+{"timestamp": "2025-07-14 22:38:36.427319", "user_question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?", "normalized": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-14 22:38:37.955755", "user_question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?", "normalized": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào"}
+{"timestamp": "2025-07-14 22:38:39.481260", "user_question": "Giờ vào học buổi sáng của trường là mấy giờ?", "normalized": "giờ vào học buổi sáng của trường là mấy giờ"}
+{"timestamp": "2025-07-14 22:38:41.005993", "user_question": "Giờ vào học buổi chiều là lúc nào?", "normalized": "giờ vào học buổi chiều là lúc nào"}
+{"timestamp": "2025-07-14 22:38:42.533518", "user_question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?", "normalized": "học sinh phải mặc đồng phục như thế nào khi học trên lớp"}
+{"timestamp": "2025-07-14 22:38:44.061516", "user_question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?", "normalized": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì"}
+{"timestamp": "2025-07-14 22:38:45.586241", "user_question": "Học sinh mang bảng tên như thế nào?", "normalized": "học sinh mang bảng tên như thế nào"}
+{"timestamp": "2025-07-14 22:38:47.111940", "user_question": "Khi học thể dục, học sinh mặc gì?", "normalized": "khi học thể dục học sinh mặc gì"}
+{"timestamp": "2025-07-14 22:38:51.688372", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-14 22:40:41.367672", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-14 22:42:31.684277", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-15 11:50:37.235408", "user_question": "đi học mấy giờ vào lớp", "normalized": "đi học mấy giờ vào lớp"}
+{"timestamp": "2025-07-15 11:51:04.301463", "user_question": "đồng phục học sinh khi đi học như thế nào?", "normalized": "đồng phục học sinh khi đi học như thế nào"}
+{"timestamp": "2025-07-15 11:59:47.580209", "user_question": "đi học lúc mấy giờ", "normalized": "đi học lúc mấy giờ"}
+{"timestamp": "2025-07-15 12:00:04.701548", "user_question": "Bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-15 12:30:04.172203", "user_question": "Bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-15 12:30:13.136858", "user_question": "Giới thiệu trường đi", "normalized": "giới thiệu trường đi"}
+{"timestamp": "2025-07-15 13:22:56.856392", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-15 13:34:43.359804", "user_question": "Bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-15 13:47:47.754104", "user_question": "đi học bắt đầu lúc mấy giờ vậy ad", "normalized": "đi học bắt đầu lúc mấy giờ vậy ad"}
+{"timestamp": "2025-07-15 13:48:23.195466", "user_question": "không học bài có bị gì không?", "normalized": "không học bài có bị gì không"}
+{"timestamp": "2025-07-15 14:08:30.205958", "user_question": "đi trễ có bị gì k?", "normalized": "đi trễ có bị gì k"}
+{"timestamp": "2025-07-15 14:09:36.469199", "user_question": "Không làm bài bị trừ mấy điểm?", "normalized": "không làm bài bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 14:10:37.423690", "user_question": "Không học bài thì sao?", "normalized": "không học bài thì sao"}
+{"timestamp": "2025-07-15 14:11:03.709489", "user_question": "trường có mấy lớp", "normalized": "trường có mấy lớp"}
+{"timestamp": "2025-07-15 14:11:26.282447", "user_question": "có mấy giáo viên trong trường", "normalized": "có mấy giáo viên trong trường"}
+{"timestamp": "2025-07-15 14:16:14.087060", "user_question": "giới thiệu trường mình đi bạn", "normalized": "giới thiệu trường mình đi bn"}
+{"timestamp": "2025-07-15 14:16:27.823861", "user_question": "Giáo viên dạy Toán có mấy thầy/cô", "normalized": "giáo viên dy toán có mấy thầycô"}
+{"timestamp": "2025-07-15 14:16:51.531271", "user_question": "Tổ Tin học dạy môn gì?", "normalized": "tổ tin học dy môn gì"}
+{"timestamp": "2025-07-15 14:38:26.303877", "user_question": "Tổ Tin học dạy môn gì?", "normalized": "tổ tin học dy môn gì"}
+{"timestamp": "2025-07-15 14:39:18.569462", "user_question": "hiệu trưởng là ai?", "normalized": "hiệu trưởng là ai"}
+{"timestamp": "2025-07-15 14:40:11.140024", "user_question": "hiệu trưởng là ai?", "normalized": "hiệu trưởng là ai"}
+{"timestamp": "2025-07-15 14:41:28.583245", "user_question": "Cô bích là ai?", "normalized": "cô bích là ai"}
+{"timestamp": "2025-07-15 14:49:41.910546", "user_question": "Cô Bích là ai vậy?", "normalized": "cô bích là ai vậy"}
+{"timestamp": "2025-07-15 15:14:24.202863", "user_question": "Cô Bích là ai vậy?", "normalized": "cô bích là ai vậy"}
+{"timestamp": "2025-07-15 15:19:52.070743", "user_question": "không đi học thì làm sao?", "normalized": "không đi học thì làm sao"}
+{"timestamp": "2025-07-15 15:23:49.079110", "user_question": "nghỉ học thì làm sao?", "normalized": "nghỉ học thì làm sao"}
+{"timestamp": "2025-07-15 20:40:36.288181", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-15 20:40:37.824980", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:40:39.361884", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:40:40.909746", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:40:42.447038", "user_question": "Không soạn bài bị trừ điểm ra sao?", "normalized": "không son bài bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:40:43.979141", "user_question": "Không chép bài bị trừ như thế nào?", "normalized": "không chép bài bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:40:45.513587", "user_question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?", "normalized": "điểm 3 4 trong học tập bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:40:47.052210", "user_question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?", "normalized": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:40:48.582805", "user_question": "Làm bài tập thiếu bị trừ mấy điểm?", "normalized": "làm bài tập thiếu bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:40:50.117772", "user_question": "Học bài chưa kỹ bị trừ như thế nào?", "normalized": "học bài chưa kỹ bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:40:51.652774", "user_question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?", "normalized": "mất trật tự trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:40:53.185727", "user_question": "Thiếu tập trung khi học bị trừ điểm như thế nào?", "normalized": "thiếu tập trung khi học bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:40:54.721617", "user_question": "Ngủ trong tiết học bị trừ mấy điểm?", "normalized": "ngủ trong tiết học bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:40:56.253473", "user_question": "Đi trễ bị trừ bao nhiêu điểm?", "normalized": "đi trễ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:40:57.788553", "user_question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?", "normalized": "tự ý ra khỏi cổng trường bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:40:59.318381", "user_question": "Vi phạm đồng phục bị trừ điểm thế nào?", "normalized": "vi phm đồng phục bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:41:00.851182", "user_question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?", "normalized": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:41:02.386996", "user_question": "Nghe nhạc trong giờ học bị trừ như thế nào?", "normalized": "nghe nhc trong giờ học bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:41:03.919083", "user_question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?", "normalized": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:41:05.455953", "user_question": "Sơn móng tay, móng chân bị trừ mấy điểm?", "normalized": "sơn móng tay móng chân bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:41:06.990962", "user_question": "Vắng học không phép bị trừ bao nhiêu điểm?", "normalized": "vắng học không phép bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:41:08.523018", "user_question": "Trốn tiết bị trừ điểm như thế nào?", "normalized": "trốn tiết bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:41:10.055961", "user_question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?", "normalized": "vô lễ với giáo viên bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:41:11.587872", "user_question": "Gian lận trong thi cử bị trừ điểm như thế nào?", "normalized": "gian lận trong thi cử bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:41:13.124719", "user_question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?", "normalized": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:41:14.662923", "user_question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?", "normalized": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:41:16.198941", "user_question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?", "normalized": "mang thức ăn vào lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:41:17.737877", "user_question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?", "normalized": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:41:19.275708", "user_question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?", "normalized": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:41:20.806782", "user_question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?", "normalized": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào"}
+{"timestamp": "2025-07-15 20:41:22.342623", "user_question": "Giờ vào học buổi sáng của trường là mấy giờ?", "normalized": "giờ vào học buổi sáng của trường là mấy giờ"}
+{"timestamp": "2025-07-15 20:41:23.871118", "user_question": "Giờ vào học buổi chiều là lúc nào?", "normalized": "giờ vào học buổi chiều là lúc nào"}
+{"timestamp": "2025-07-15 20:41:25.402826", "user_question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?", "normalized": "học sinh phải mặc đồng phục như thế nào khi học trên lớp"}
+{"timestamp": "2025-07-15 20:41:26.939920", "user_question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?", "normalized": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì"}
+{"timestamp": "2025-07-15 20:41:28.474436", "user_question": "Học sinh mang bảng tên như thế nào?", "normalized": "học sinh mang bảng tên như thế nào"}
+{"timestamp": "2025-07-15 20:41:30.011488", "user_question": "Khi học thể dục, học sinh mặc gì?", "normalized": "khi học thể dục học sinh mặc gì"}
+{"timestamp": "2025-07-15 20:41:31.550560", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-15 20:41:34.571860", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-15 20:41:37.374698", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-15 20:41:38.909308", "user_question": "Nhiệm vụ chính của học sinh là gì?", "normalized": "nhiệm vụ chính của học sinh là gì"}
+{"timestamp": "2025-07-15 20:41:41.446441", "user_question": "Học sinh có phải lưu giữ bài kiểm tra không?", "normalized": "học sinh có phải lưu giữ bài kiểm tra không"}
+{"timestamp": "2025-07-15 20:41:43.844245", "user_question": "Học sinh phải để xe cá nhân ở đâu?", "normalized": "học sinh phải để xe cá nhân ở đâu"}
+{"timestamp": "2025-07-15 20:41:46.609316", "user_question": "Khi nào học sinh phải ký cam kết?", "normalized": "khi nào học sinh phải ký cam kết"}
+{"timestamp": "2025-07-15 20:41:48.816337", "user_question": "Một số hành vi nào học sinh không được làm?", "normalized": "một số hành vi nào học sinh không được làm"}
+{"timestamp": "2025-07-15 20:41:51.305065", "user_question": "Học sinh có được mang điện thoại không?", "normalized": "học sinh có được mang điện thoi không"}
+{"timestamp": "2025-07-15 20:41:54.062469", "user_question": "Trang điểm quá mức hoặc nhuộm tóc có bị cấm không?", "normalized": "trang điểm quá mức hoặc nhuộm tóc có bị cấm không"}
+{"timestamp": "2025-07-15 20:41:56.896107", "user_question": "Khi hết buổi học, học sinh có được để lại tư trang trong lớp không?", "normalized": "khi hết buổi học học sinh có được để li tư trang trong lớp không"}
+{"timestamp": "2025-07-15 20:41:59.541809", "user_question": "Lớp chịu trách nhiệm gì về cơ sở vật chất phòng học?", "normalized": "lớp chịu trách nhiệm gì về cơ sở vật chất phòng học"}
+{"timestamp": "2025-07-15 20:42:01.741583", "user_question": "Có được viết, vẽ lên bàn ghế, tường, cửa không?", "normalized": "có được viết vẽ lên bàn ghế tường cửa không"}
+{"timestamp": "2025-07-15 20:42:03.963425", "user_question": "Có được tự ý treo, trang trí trong lớp không?", "normalized": "có được tự ý treo trang trí trong lớp không"}
+{"timestamp": "2025-07-15 20:42:06.111159", "user_question": "Mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không?", "normalized": "mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không"}
+{"timestamp": "2025-07-15 20:42:08.720269", "user_question": "Ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp?", "normalized": "ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp"}
+{"timestamp": "2025-07-15 20:42:11.409732", "user_question": "Nếu học sinh gây hư hỏng lớn, lớp chịu gì?", "normalized": "nếu học sinh gây hư hỏng lớn lớp chịu gì"}
+{"timestamp": "2025-07-15 20:42:13.959964", "user_question": "Nhiệm vụ của lớp trực tuần là gì?", "normalized": "nhiệm vụ của lớp trực tuần là gì"}
+{"timestamp": "2025-07-15 20:42:16.117062", "user_question": "Số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu?", "normalized": "số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu"}
+{"timestamp": "2025-07-15 20:42:18.817559", "user_question": "Khi hoàn thành trực tuần, cần làm gì?", "normalized": "khi hoàn thành trực tuần cần làm gì"}
+{"timestamp": "2025-07-15 20:42:21.385002", "user_question": "Học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ?", "normalized": "học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ"}
+{"timestamp": "2025-07-15 20:42:23.995428", "user_question": "Hình thức kỷ luật nào có thể áp dụng với học sinh vi phạm?", "normalized": "hình thức kỷ luật nào có thể áp dụng với học sinh vi phm"}
+{"timestamp": "2025-07-15 20:42:26.427117", "user_question": "Học sinh thực hiện tốt nội quy sẽ được gì?", "normalized": "học sinh thực hiện tốt nội quy sẽ được gì"}
+{"timestamp": "2025-07-15 20:42:28.610204", "user_question": "Ai quản lý, báo cáo tình hình lao động của lớp?", "normalized": "ai quản lý báo cáo tình hình lao động của lớp"}
+{"timestamp": "2025-07-15 20:42:30.818998", "user_question": "Trường THPT Lý Thường Kiệt thành lập năm nào?", "normalized": "trường thpt lý thường kiệt thành lập năm nào"}
+{"timestamp": "2025-07-15 20:42:33.476648", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và học sinh hiện nay?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và học sinh hiện nay"}
+{"timestamp": "2025-07-15 20:42:36.233715", "user_question": "Đội ngũ giáo viên của trường có bao nhiêu người?", "normalized": "đội ngũ giáo viên của trường có bao nhiêu người"}
+{"timestamp": "2025-07-15 20:42:38.393071", "user_question": "Tỷ lệ giáo viên đạt trình độ đại học và thạc sĩ của trường là bao nhiêu?", "normalized": "tỷ lệ giáo viên đt trình độ đi học và thc sĩ của trường là bao nhiêu"}
+{"timestamp": "2025-07-15 20:42:41.072762", "user_question": "Ban giảng dạy tại trường được chia thành những ban nào?", "normalized": "ban giảng dy ti trường được chia thành những ban nào"}
+{"timestamp": "2025-07-15 20:42:42.608138", "user_question": "Trường có bao nhiêu lớp chọn và có tổ chức các hoạt động ngoại khóa không?", "normalized": "trường có bao nhiêu lớp chọn và có tổ chức các hot động ngoi khóa không"}
+{"timestamp": "2025-07-15 20:42:44.767121", "user_question": "Trường đã được công nhận đạt chuẩn quốc gia năm nào?", "normalized": "trường đã được công nhận đt chuẩn quốc gia năm nào"}
+{"timestamp": "2025-07-15 20:42:46.974594", "user_question": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là bao nhiêu?", "normalized": "sĩ số dự kiến của các lớp 10 theo định hướng khtn là bao nhiêu"}
+{"timestamp": "2025-07-15 20:42:49.639915", "user_question": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn nào và chuyên đề gì?", "normalized": "lớp 10a1 10a2 10a3 thuộc tổ hợp môn nào và chuyên đề gì"}
+{"timestamp": "2025-07-15 20:42:52.290818", "user_question": "Lớp 10A4, 10A5 học tổ hợp môn gì?", "normalized": "lớp 10a4 10a5 học tổ hợp môn gì"}
+{"timestamp": "2025-07-15 20:42:54.487933", "user_question": "Các lớp 10B1, 10B2 thuộc tổ hợp môn nào?", "normalized": "các lớp 10b1 10b2 thuộc tổ hợp môn nào"}
+{"timestamp": "2025-07-15 20:42:58.360682", "user_question": "Các lớp 10B3, 10B4 học tổ hợp gì?", "normalized": "các lớp 10b3 10b4 học tổ hợp gì"}
+{"timestamp": "2025-07-15 20:43:00.549906", "user_question": "Các lớp 10C1, 10C2 có định hướng gì?", "normalized": "các lớp 10c1 10c2 có định hướng gì"}
+{"timestamp": "2025-07-15 20:43:03.305472", "user_question": "Lớp 10C3 có những môn tổ hợp nào?", "normalized": "lớp 10c3 có những môn tổ hợp nào"}
+{"timestamp": "2025-07-15 20:43:05.983872", "user_question": "Sĩ số dự kiến của lớp 10C1, 10C2 là bao nhiêu?", "normalized": "sĩ số dự kiến của lớp 10c1 10c2 là bao nhiêu"}
+{"timestamp": "2025-07-15 20:43:08.609616", "user_question": "Các lớp định hướng KHTN có chuyên đề gì?", "normalized": "các lớp định hướng khtn có chuyên đề gì"}
+{"timestamp": "2025-07-15 20:43:10.799081", "user_question": "Các lớp định hướng KHXH học chuyên đề gì?", "normalized": "các lớp định hướng khxh học chuyên đề gì"}
+{"timestamp": "2025-07-15 20:43:12.339464", "user_question": "Trường có bao nhiêu giáo viên dạy môn Toán?", "normalized": "trường có bao nhiêu giáo viên dy môn toán"}
+{"timestamp": "2025-07-15 20:43:15.034097", "user_question": "Có bao nhiêu giáo viên dạy Ngữ văn?", "normalized": "có bao nhiêu giáo viên dy ngữ văn"}
+{"timestamp": "2025-07-15 20:43:17.779517", "user_question": "Số lượng giáo viên tiếng Anh tại trường là bao nhiêu?", "normalized": "số lượng giáo viên tiếng anh ti trường là bao nhiêu"}
+{"timestamp": "2025-07-15 20:43:20.405977", "user_question": "Giáo viên Tin học của trường có bao nhiêu người?", "normalized": "giáo viên tin học của trường có bao nhiêu người"}
+{"timestamp": "2025-07-15 20:43:21.940538", "user_question": "Giáo viên các môn Khoa học tự nhiên gồm những môn gì?", "normalized": "giáo viên các môn khoa học tự nhiên gồm những môn gì"}
+{"timestamp": "2025-07-15 20:43:24.663622", "user_question": "Tiêu chí xét tuyển vào lớp định hướng KHTN là gì?", "normalized": "tiêu chí xét tuyển vào lớp định hướng khtn là gì"}
+{"timestamp": "2025-07-15 20:43:27.864886", "user_question": "Tiêu chí xét tuyển lớp định hướng KHXH như thế nào?", "normalized": "tiêu chí xét tuyển lớp định hướng khxh như thế nào"}
+{"timestamp": "2025-07-15 20:43:30.072336", "user_question": "Nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao?", "normalized": "nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao"}
+{"timestamp": "2025-07-15 20:43:32.262028", "user_question": "Số lớp ở các nhóm có được điều chỉnh không?", "normalized": "số lớp ở các nhóm có được điều chỉnh không"}
+{"timestamp": "2025-07-15 20:43:34.939305", "user_question": "Trường có giáo viên môn Âm nhạc hoặc Mỹ thuật không?", "normalized": "trường có giáo viên môn âm nhc hoặc mỹ thuật không"}
+{"timestamp": "2025-07-15 20:43:37.612034", "user_question": "Đội ngũ giáo viên giáo dục quốc phòng – an ninh là bao nhiêu người?", "normalized": "đội ngũ giáo viên giáo dục quốc phòng an ninh là bao nhiêu người"}
+{"timestamp": "2025-07-15 20:43:39.817334", "user_question": "Trường chú trọng những phẩm chất, kỹ năng nào cho học sinh?", "normalized": "trường chú trọng những phẩm chất kỹ năng nào cho học sinh"}
+{"timestamp": "2025-07-15 20:43:42.473412", "user_question": "Trường đã đào tạo những thế hệ học sinh như thế nào?", "normalized": "trường đã đào to những thế hệ học sinh như thế nào"}
+{"timestamp": "2025-07-15 20:43:44.711233", "user_question": "Điểm chuẩn vào lớp 10 năm học 2025-2026 của trường THPT Lý Thường Kiệt là bao nhiêu?", "normalized": "điểm chuẩn vào lớp 10 năm học 20252026 của trường thpt lý thường kiệt là bao nhiêu"}
+{"timestamp": "2025-07-15 20:43:47.423922", "user_question": "Học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào?", "normalized": "học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào"}
+{"timestamp": "2025-07-15 20:43:49.655736", "user_question": "Thời gian nhập học lớp 10 năm học 2025-2026 là khi nào?", "normalized": "thời gian nhập học lớp 10 năm học 20252026 là khi nào"}
+{"timestamp": "2025-07-15 20:43:51.860888", "user_question": "Làm sao để biết thông tin chi tiết về tuyển sinh lớp 10?", "normalized": "làm sao để biết thông tin chi tiết về tuyển sinh lớp 10"}
+{"timestamp": "2025-07-15 20:43:54.503591", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và bao nhiêu học sinh?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và bao nhiêu học sinh"}
+{"timestamp": "2025-07-15 20:43:56.039059", "user_question": "Đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu?", "normalized": "đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu"}
+{"timestamp": "2025-07-15 20:43:57.581563", "user_question": "Các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào?", "normalized": "các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào"}
+{"timestamp": "2025-07-15 20:44:00.201489", "user_question": "Sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh?", "normalized": "sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh"}
+{"timestamp": "2025-07-15 20:44:02.954455", "user_question": "Tiêu chí xét tuyển vào lớp định hướng Khoa học tự nhiên là gì?", "normalized": "tiêu chí xét tuyển vào lớp định hướng khoa học tự nhiên là gì"}
+{"timestamp": "2025-07-15 20:49:02.406441", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-15 20:49:03.938640", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:05.471243", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:49:07.002430", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:08.537566", "user_question": "Không soạn bài bị trừ điểm ra sao?", "normalized": "không son bài bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:49:10.070017", "user_question": "Không chép bài bị trừ như thế nào?", "normalized": "không chép bài bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:49:11.605435", "user_question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?", "normalized": "điểm 3 4 trong học tập bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:49:13.138289", "user_question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?", "normalized": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:49:14.672959", "user_question": "Làm bài tập thiếu bị trừ mấy điểm?", "normalized": "làm bài tập thiếu bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:49:16.204408", "user_question": "Học bài chưa kỹ bị trừ như thế nào?", "normalized": "học bài chưa kỹ bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:49:17.738537", "user_question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?", "normalized": "mất trật tự trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:19.270590", "user_question": "Thiếu tập trung khi học bị trừ điểm như thế nào?", "normalized": "thiếu tập trung khi học bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:49:20.800897", "user_question": "Ngủ trong tiết học bị trừ mấy điểm?", "normalized": "ngủ trong tiết học bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:49:22.330745", "user_question": "Đi trễ bị trừ bao nhiêu điểm?", "normalized": "đi trễ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:23.867851", "user_question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?", "normalized": "tự ý ra khỏi cổng trường bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:49:25.401397", "user_question": "Vi phạm đồng phục bị trừ điểm thế nào?", "normalized": "vi phm đồng phục bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:49:26.932000", "user_question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?", "normalized": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:28.465873", "user_question": "Nghe nhạc trong giờ học bị trừ như thế nào?", "normalized": "nghe nhc trong giờ học bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:49:29.991955", "user_question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?", "normalized": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:49:31.521804", "user_question": "Sơn móng tay, móng chân bị trừ mấy điểm?", "normalized": "sơn móng tay móng chân bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:49:33.050972", "user_question": "Vắng học không phép bị trừ bao nhiêu điểm?", "normalized": "vắng học không phép bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:34.584037", "user_question": "Trốn tiết bị trừ điểm như thế nào?", "normalized": "trốn tiết bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:49:36.114400", "user_question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?", "normalized": "vô lễ với giáo viên bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:37.647000", "user_question": "Gian lận trong thi cử bị trừ điểm như thế nào?", "normalized": "gian lận trong thi cử bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:49:39.177298", "user_question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?", "normalized": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:49:40.710824", "user_question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?", "normalized": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:49:42.242637", "user_question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?", "normalized": "mang thức ăn vào lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:43.780093", "user_question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?", "normalized": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:49:45.315079", "user_question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?", "normalized": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:49:46.847581", "user_question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?", "normalized": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào"}
+{"timestamp": "2025-07-15 20:49:48.378341", "user_question": "Giờ vào học buổi sáng của trường là mấy giờ?", "normalized": "giờ vào học buổi sáng của trường là mấy giờ"}
+{"timestamp": "2025-07-15 20:49:49.918691", "user_question": "Giờ vào học buổi chiều là lúc nào?", "normalized": "giờ vào học buổi chiều là lúc nào"}
+{"timestamp": "2025-07-15 20:49:51.451917", "user_question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?", "normalized": "học sinh phải mặc đồng phục như thế nào khi học trên lớp"}
+{"timestamp": "2025-07-15 20:49:52.985532", "user_question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?", "normalized": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì"}
+{"timestamp": "2025-07-15 20:49:54.516526", "user_question": "Học sinh mang bảng tên như thế nào?", "normalized": "học sinh mang bảng tên như thế nào"}
+{"timestamp": "2025-07-15 20:49:56.049418", "user_question": "Khi học thể dục, học sinh mặc gì?", "normalized": "khi học thể dục học sinh mặc gì"}
+{"timestamp": "2025-07-15 20:49:57.586709", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-15 20:50:00.525964", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-15 20:50:03.273353", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-15 20:50:04.805298", "user_question": "Nhiệm vụ chính của học sinh là gì?", "normalized": "nhiệm vụ chính của học sinh là gì"}
+{"timestamp": "2025-07-15 20:50:07.461454", "user_question": "Học sinh có phải lưu giữ bài kiểm tra không?", "normalized": "học sinh có phải lưu giữ bài kiểm tra không"}
+{"timestamp": "2025-07-15 20:52:27.139151", "user_question": "Công thức tính điểm sổ đầu bài là gì?", "normalized": "công thức tính điểm sổ đầu bài là gì"}
+{"timestamp": "2025-07-15 20:52:28.676118", "user_question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?", "normalized": "học sinh không học bài sẽ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:52:30.209368", "user_question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?", "normalized": "không chuẩn bị bài sẽ bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:52:31.740710", "user_question": "Không làm bài bị trừ bao nhiêu điểm?", "normalized": "không làm bài bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:52:33.273848", "user_question": "Không soạn bài bị trừ điểm ra sao?", "normalized": "không son bài bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:52:34.806556", "user_question": "Không chép bài bị trừ như thế nào?", "normalized": "không chép bài bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:52:36.338265", "user_question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?", "normalized": "điểm 3 4 trong học tập bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:52:37.869971", "user_question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?", "normalized": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:52:39.400670", "user_question": "Làm bài tập thiếu bị trừ mấy điểm?", "normalized": "làm bài tập thiếu bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:52:40.930899", "user_question": "Học bài chưa kỹ bị trừ như thế nào?", "normalized": "học bài chưa kỹ bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:52:42.463180", "user_question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?", "normalized": "mất trật tự trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:52:43.995978", "user_question": "Thiếu tập trung khi học bị trừ điểm như thế nào?", "normalized": "thiếu tập trung khi học bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:52:45.525493", "user_question": "Ngủ trong tiết học bị trừ mấy điểm?", "normalized": "ngủ trong tiết học bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:52:47.057698", "user_question": "Đi trễ bị trừ bao nhiêu điểm?", "normalized": "đi trễ bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:52:48.586191", "user_question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?", "normalized": "tự ý ra khỏi cổng trường bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:52:50.116850", "user_question": "Vi phạm đồng phục bị trừ điểm thế nào?", "normalized": "vi phm đồng phục bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:52:51.650990", "user_question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?", "normalized": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:52:53.179086", "user_question": "Nghe nhạc trong giờ học bị trừ như thế nào?", "normalized": "nghe nhc trong giờ học bị trừ như thế nào"}
+{"timestamp": "2025-07-15 20:52:54.711552", "user_question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?", "normalized": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:52:56.239964", "user_question": "Sơn móng tay, móng chân bị trừ mấy điểm?", "normalized": "sơn móng tay móng chân bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:52:57.772087", "user_question": "Vắng học không phép bị trừ bao nhiêu điểm?", "normalized": "vắng học không phép bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:52:59.300325", "user_question": "Trốn tiết bị trừ điểm như thế nào?", "normalized": "trốn tiết bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:53:00.832528", "user_question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?", "normalized": "vô lễ với giáo viên bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:53:02.364214", "user_question": "Gian lận trong thi cử bị trừ điểm như thế nào?", "normalized": "gian lận trong thi cử bị trừ điểm như thế nào"}
+{"timestamp": "2025-07-15 20:53:03.896174", "user_question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?", "normalized": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao"}
+{"timestamp": "2025-07-15 20:53:05.426723", "user_question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?", "normalized": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm"}
+{"timestamp": "2025-07-15 20:53:06.961109", "user_question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?", "normalized": "mang thức ăn vào lớp bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:53:08.497070", "user_question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?", "normalized": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào"}
+{"timestamp": "2025-07-15 20:53:10.031840", "user_question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?", "normalized": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm"}
+{"timestamp": "2025-07-15 20:53:11.563852", "user_question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?", "normalized": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào"}
+{"timestamp": "2025-07-15 20:53:13.098016", "user_question": "Giờ vào học buổi sáng của trường là mấy giờ?", "normalized": "giờ vào học buổi sáng của trường là mấy giờ"}
+{"timestamp": "2025-07-15 20:53:14.628721", "user_question": "Giờ vào học buổi chiều là lúc nào?", "normalized": "giờ vào học buổi chiều là lúc nào"}
+{"timestamp": "2025-07-15 20:53:16.162048", "user_question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?", "normalized": "học sinh phải mặc đồng phục như thế nào khi học trên lớp"}
+{"timestamp": "2025-07-15 20:53:17.698747", "user_question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?", "normalized": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì"}
+{"timestamp": "2025-07-15 20:53:19.232856", "user_question": "Học sinh mang bảng tên như thế nào?", "normalized": "học sinh mang bảng tên như thế nào"}
+{"timestamp": "2025-07-15 20:53:20.763619", "user_question": "Khi học thể dục, học sinh mặc gì?", "normalized": "khi học thể dục học sinh mặc gì"}
+{"timestamp": "2025-07-15 20:53:22.295696", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-15 20:53:23.826278", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-15 20:53:25.357055", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-15 20:53:26.889420", "user_question": "Nhiệm vụ chính của học sinh là gì?", "normalized": "nhiệm vụ chính của học sinh là gì"}
+{"timestamp": "2025-07-15 20:53:28.423025", "user_question": "Học sinh có phải lưu giữ bài kiểm tra không?", "normalized": "học sinh có phải lưu giữ bài kiểm tra không"}
+{"timestamp": "2025-07-15 20:53:29.956675", "user_question": "Học sinh phải để xe cá nhân ở đâu?", "normalized": "học sinh phải để xe cá nhân ở đâu"}
+{"timestamp": "2025-07-15 20:53:36.756859", "user_question": "Khi nào học sinh phải ký cam kết?", "normalized": "khi nào học sinh phải ký cam kết"}
+{"timestamp": "2025-07-15 20:53:42.688350", "user_question": "Một số hành vi nào học sinh không được làm?", "normalized": "một số hành vi nào học sinh không được làm"}
+{"timestamp": "2025-07-15 20:53:50.271408", "user_question": "Học sinh có được mang điện thoại không?", "normalized": "học sinh có được mang điện thoi không"}
+{"timestamp": "2025-07-15 20:54:14.066863", "user_question": "Trang điểm quá mức hoặc nhuộm tóc có bị cấm không?", "normalized": "trang điểm quá mức hoặc nhuộm tóc có bị cấm không"}
+{"timestamp": "2025-07-15 20:54:18.934692", "user_question": "Khi hết buổi học, học sinh có được để lại tư trang trong lớp không?", "normalized": "khi hết buổi học học sinh có được để li tư trang trong lớp không"}
+{"timestamp": "2025-07-15 20:54:45.231832", "user_question": "Lớp chịu trách nhiệm gì về cơ sở vật chất phòng học?", "normalized": "lớp chịu trách nhiệm gì về cơ sở vật chất phòng học"}
+{"timestamp": "2025-07-15 20:55:13.466913", "user_question": "Có được viết, vẽ lên bàn ghế, tường, cửa không?", "normalized": "có được viết vẽ lên bàn ghế tường cửa không"}
+{"timestamp": "2025-07-15 20:55:18.912811", "user_question": "Có được tự ý treo, trang trí trong lớp không?", "normalized": "có được tự ý treo trang trí trong lớp không"}
+{"timestamp": "2025-07-15 20:55:44.946603", "user_question": "Mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không?", "normalized": "mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không"}
+{"timestamp": "2025-07-15 20:56:10.204909", "user_question": "Ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp?", "normalized": "ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp"}
+{"timestamp": "2025-07-15 20:56:35.515355", "user_question": "Nếu học sinh gây hư hỏng lớn, lớp chịu gì?", "normalized": "nếu học sinh gây hư hỏng lớn lớp chịu gì"}
+{"timestamp": "2025-07-15 20:57:12.968366", "user_question": "Nhiệm vụ của lớp trực tuần là gì?", "normalized": "nhiệm vụ của lớp trực tuần là gì"}
+{"timestamp": "2025-07-15 20:57:20.710822", "user_question": "Số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu?", "normalized": "số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu"}
+{"timestamp": "2025-07-15 20:57:23.922113", "user_question": "Khi hoàn thành trực tuần, cần làm gì?", "normalized": "khi hoàn thành trực tuần cần làm gì"}
+{"timestamp": "2025-07-15 20:57:29.544316", "user_question": "Học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ?", "normalized": "học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ"}
+{"timestamp": "2025-07-15 20:58:14.344470", "user_question": "Hình thức kỷ luật nào có thể áp dụng với học sinh vi phạm?", "normalized": "hình thức kỷ luật nào có thể áp dụng với học sinh vi phm"}
+{"timestamp": "2025-07-15 20:58:20.553167", "user_question": "Học sinh thực hiện tốt nội quy sẽ được gì?", "normalized": "học sinh thực hiện tốt nội quy sẽ được gì"}
+{"timestamp": "2025-07-15 20:58:45.141764", "user_question": "Ai quản lý, báo cáo tình hình lao động của lớp?", "normalized": "ai quản lý báo cáo tình hình lao động của lớp"}
+{"timestamp": "2025-07-15 20:59:10.948079", "user_question": "Trường THPT Lý Thường Kiệt thành lập năm nào?", "normalized": "trường thpt lý thường kiệt thành lập năm nào"}
+{"timestamp": "2025-07-15 20:59:14.765612", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và học sinh hiện nay?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và học sinh hiện nay"}
+{"timestamp": "2025-07-15 20:59:39.729769", "user_question": "Đội ngũ giáo viên của trường có bao nhiêu người?", "normalized": "đội ngũ giáo viên của trường có bao nhiêu người"}
+{"timestamp": "2025-07-15 21:00:04.383116", "user_question": "Tỷ lệ giáo viên đạt trình độ đại học và thạc sĩ của trường là bao nhiêu?", "normalized": "tỷ lệ giáo viên đt trình độ đi học và thc sĩ của trường là bao nhiêu"}
+{"timestamp": "2025-07-15 21:00:32.725392", "user_question": "Ban giảng dạy tại trường được chia thành những ban nào?", "normalized": "ban giảng dy ti trường được chia thành những ban nào"}
+{"timestamp": "2025-07-15 21:00:34.257967", "user_question": "Trường có bao nhiêu lớp chọn và có tổ chức các hoạt động ngoại khóa không?", "normalized": "trường có bao nhiêu lớp chọn và có tổ chức các hot động ngoi khóa không"}
+{"timestamp": "2025-07-15 21:00:37.855316", "user_question": "Trường đã được công nhận đạt chuẩn quốc gia năm nào?", "normalized": "trường đã được công nhận đt chuẩn quốc gia năm nào"}
+{"timestamp": "2025-07-15 21:01:02.822369", "user_question": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là bao nhiêu?", "normalized": "sĩ số dự kiến của các lớp 10 theo định hướng khtn là bao nhiêu"}
+{"timestamp": "2025-07-15 21:01:29.862933", "user_question": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn nào và chuyên đề gì?", "normalized": "lớp 10a1 10a2 10a3 thuộc tổ hợp môn nào và chuyên đề gì"}
+{"timestamp": "2025-07-15 21:01:55.660852", "user_question": "Lớp 10A4, 10A5 học tổ hợp môn gì?", "normalized": "lớp 10a4 10a5 học tổ hợp môn gì"}
+{"timestamp": "2025-07-15 21:02:00.220382", "user_question": "Các lớp 10B1, 10B2 thuộc tổ hợp môn nào?", "normalized": "các lớp 10b1 10b2 thuộc tổ hợp môn nào"}
+{"timestamp": "2025-07-15 21:02:25.491912", "user_question": "Các lớp 10B3, 10B4 học tổ hợp gì?", "normalized": "các lớp 10b3 10b4 học tổ hợp gì"}
+{"timestamp": "2025-07-15 21:02:51.710327", "user_question": "Các lớp 10C1, 10C2 có định hướng gì?", "normalized": "các lớp 10c1 10c2 có định hướng gì"}
+{"timestamp": "2025-07-15 21:02:56.643894", "user_question": "Lớp 10C3 có những môn tổ hợp nào?", "normalized": "lớp 10c3 có những môn tổ hợp nào"}
+{"timestamp": "2025-07-15 21:03:21.852375", "user_question": "Sĩ số dự kiến của lớp 10C1, 10C2 là bao nhiêu?", "normalized": "sĩ số dự kiến của lớp 10c1 10c2 là bao nhiêu"}
+{"timestamp": "2025-07-15 21:03:46.667523", "user_question": "Các lớp định hướng KHTN có chuyên đề gì?", "normalized": "các lớp định hướng khtn có chuyên đề gì"}
+{"timestamp": "2025-07-15 21:04:11.386270", "user_question": "Các lớp định hướng KHXH học chuyên đề gì?", "normalized": "các lớp định hướng khxh học chuyên đề gì"}
+{"timestamp": "2025-07-15 21:04:12.921949", "user_question": "Trường có bao nhiêu giáo viên dạy môn Toán?", "normalized": "trường có bao nhiêu giáo viên dy môn toán"}
+{"timestamp": "2025-07-15 21:04:16.337118", "user_question": "Có bao nhiêu giáo viên dạy Ngữ văn?", "normalized": "có bao nhiêu giáo viên dy ngữ văn"}
+{"timestamp": "2025-07-15 21:04:40.377216", "user_question": "Số lượng giáo viên tiếng Anh tại trường là bao nhiêu?", "normalized": "số lượng giáo viên tiếng anh ti trường là bao nhiêu"}
+{"timestamp": "2025-07-15 21:05:05.538966", "user_question": "Giáo viên Tin học của trường có bao nhiêu người?", "normalized": "giáo viên tin học của trường có bao nhiêu người"}
+{"timestamp": "2025-07-15 21:05:07.072235", "user_question": "Giáo viên các môn Khoa học tự nhiên gồm những môn gì?", "normalized": "giáo viên các môn khoa học tự nhiên gồm những môn gì"}
+{"timestamp": "2025-07-15 21:05:13.016151", "user_question": "Tiêu chí xét tuyển vào lớp định hướng KHTN là gì?", "normalized": "tiêu chí xét tuyển vào lớp định hướng khtn là gì"}
+{"timestamp": "2025-07-15 21:05:18.259123", "user_question": "Tiêu chí xét tuyển lớp định hướng KHXH như thế nào?", "normalized": "tiêu chí xét tuyển lớp định hướng khxh như thế nào"}
+{"timestamp": "2025-07-15 21:06:08.247559", "user_question": "Nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao?", "normalized": "nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao"}
+{"timestamp": "2025-07-15 21:06:35.120882", "user_question": "Số lớp ở các nhóm có được điều chỉnh không?", "normalized": "số lớp ở các nhóm có được điều chỉnh không"}
+{"timestamp": "2025-07-15 21:06:43.375453", "user_question": "Trường có giáo viên môn Âm nhạc hoặc Mỹ thuật không?", "normalized": "trường có giáo viên môn âm nhc hoặc mỹ thuật không"}
+{"timestamp": "2025-07-15 21:06:46.955089", "user_question": "Đội ngũ giáo viên giáo dục quốc phòng – an ninh là bao nhiêu người?", "normalized": "đội ngũ giáo viên giáo dục quốc phòng an ninh là bao nhiêu người"}
+{"timestamp": "2025-07-15 21:07:32.059267", "user_question": "Trường chú trọng những phẩm chất, kỹ năng nào cho học sinh?", "normalized": "trường chú trọng những phẩm chất kỹ năng nào cho học sinh"}
+{"timestamp": "2025-07-15 21:07:38.312825", "user_question": "Trường đã đào tạo những thế hệ học sinh như thế nào?", "normalized": "trường đã đào to những thế hệ học sinh như thế nào"}
+{"timestamp": "2025-07-15 21:08:04.584270", "user_question": "Điểm chuẩn vào lớp 10 năm học 2025-2026 của trường THPT Lý Thường Kiệt là bao nhiêu?", "normalized": "điểm chuẩn vào lớp 10 năm học 20252026 của trường thpt lý thường kiệt là bao nhiêu"}
+{"timestamp": "2025-07-15 21:08:30.367160", "user_question": "Học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào?", "normalized": "học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào"}
+{"timestamp": "2025-07-15 21:08:36.088356", "user_question": "Thời gian nhập học lớp 10 năm học 2025-2026 là khi nào?", "normalized": "thời gian nhập học lớp 10 năm học 20252026 là khi nào"}
+{"timestamp": "2025-07-15 21:09:02.637586", "user_question": "Làm sao để biết thông tin chi tiết về tuyển sinh lớp 10?", "normalized": "làm sao để biết thông tin chi tiết về tuyển sinh lớp 10"}
+{"timestamp": "2025-07-15 21:09:08.240206", "user_question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và bao nhiêu học sinh?", "normalized": "trường thpt lý thường kiệt có bao nhiêu lớp và bao nhiêu học sinh"}
+{"timestamp": "2025-07-15 21:09:09.776879", "user_question": "Đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu?", "normalized": "đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu"}
+{"timestamp": "2025-07-15 21:09:11.317502", "user_question": "Các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào?", "normalized": "các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào"}
+{"timestamp": "2025-07-15 21:09:50.681920", "user_question": "Sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh?", "normalized": "sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh"}
+{"timestamp": "2025-07-15 21:09:57.812640", "user_question": "Tiêu chí xét tuyển vào lớp định hướng Khoa học tự nhiên là gì?", "normalized": "tiêu chí xét tuyển vào lớp định hướng khoa học tự nhiên là gì"}
+{"timestamp": "2025-07-15 21:29:00.700005", "user_question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?", "normalized": "đi học bù học phụ đo học thêm ti trường phải mặc gì"}
+{"timestamp": "2025-07-15 21:29:06.266233", "user_question": "Nghỉ học nhiều ngày phải làm gì?", "normalized": "nghỉ học nhiều ngày phải làm gì"}
+{"timestamp": "2025-07-15 21:29:14.273794", "user_question": "Nhiệm vụ chính của học sinh là gì?", "normalized": "nhiệm vụ chính của học sinh là gì"}
+{"timestamp": "2025-07-15 21:29:21.027575", "user_question": "Học sinh có phải lưu giữ bài kiểm tra không?", "normalized": "học sinh có phải lưu giữ bài kiểm tra không"}
+{"timestamp": "2025-07-15 21:29:49.331230", "user_question": "Nếu nghỉ học không phép quá 1 tuần thì sao?", "normalized": "nếu nghỉ học không phép quá 1 tuần thì sao"}
+{"timestamp": "2025-07-15 21:29:53.927620", "user_question": "Học sinh có được sử dụng điện thoại không?", "normalized": "học sinh có được sử dụng điện thoi không"}
+{"timestamp": "2025-07-15 23:01:00.295959", "user_question": "một lớp có bao nhiêu học sinh", "normalized": "một lớp có bao nhiêu học sinh"}
+{"timestamp": "2025-07-15 23:01:58.276313", "user_question": "Có bao nhiêu giáo viên", "normalized": "có bao nhiêu giáo viên"}
+{"timestamp": "2025-07-15 23:02:15.598270", "user_question": "Cho biết mỗi tổ bộ môn có bao nhiêu giáo viên", "normalized": "cho biết mỗi tổ bộ môn có bao nhiêu giáo viên"}
+{"timestamp": "2025-07-15 23:39:00.841794", "user_question": "tôi là ai", "normalized": "tôi là ai"}
+{"timestamp": "2025-07-15 23:39:11.104564", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-15 23:54:27.038406", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-15 23:54:40.116949", "user_question": "giới thiệu trường đi", "normalized": "giới thiệu trường đi"}
+{"timestamp": "2025-07-16 16:29:50.499732", "user_question": "việt nam là nước như thế nao?", "normalized": "việt nam là nước như thế nao"}
+{"timestamp": "2025-07-16 16:32:47.982603", "user_question": "việt nam là nước như thế nao?", "normalized": "việt nam là nước như thế nao"}
+{"timestamp": "2025-07-16 20:44:06.206325", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-16 20:44:33.480526", "user_question": "không học bài trừ mấy điểm", "normalized": "không học bài trừ mấy điểm"}
+{"timestamp": "2025-07-16 23:33:30.743688", "user_question": "tôi đi trễ tôi sẽ bị trừ mấy điểm?", "normalized": "tôi đi trễ tôi sẽ bị trừ mấy điểm"}
+{"timestamp": "2025-07-16 23:34:37.391154", "user_question": "Bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-16 23:36:46.526991", "user_question": "bạn có khỏe không?", "normalized": "bn có khỏe không"}
+{"timestamp": "2025-07-16 23:38:12.307884", "user_question": "bạn có khỏe không?", "normalized": "bn có khỏe không"}
+{"timestamp": "2025-07-16 23:40:16.042770", "user_question": "Xin chào bạn!", "normalized": "xin chào bn"}
+{"timestamp": "2025-07-16 23:40:32.948567", "user_question": "Bạn khỏe không?", "normalized": "bn khỏe không"}
+{"timestamp": "2025-07-16 23:47:01.513774", "user_question": "cô Bích là ai?", "normalized": "cô bích là ai"}
+{"timestamp": "2025-07-16 23:47:32.596547", "user_question": "Cô Điên là ai?", "normalized": "cô điên là ai"}
+{"timestamp": "2025-07-16 23:50:08.742959", "user_question": "Không học bài mình bị trừ mấy điểm?", "normalized": "không học bài mình bị trừ mấy điểm"}
+{"timestamp": "2025-07-16 23:50:24.441842", "user_question": "Đồng phục đi học", "normalized": "đồng phục đi học"}
+{"timestamp": "2025-07-16 23:50:38.080280", "user_question": "Đi lao động cần mang gì?", "normalized": "đi lao động cần mang gì"}
+{"timestamp": "2025-07-16 23:50:54.699332", "user_question": "Vào học lúc mấy giờ?", "normalized": "vào học lúc mấy giờ"}
+{"timestamp": "2025-07-16 23:52:38.157775", "user_question": "nghe nhạc trong giờ học có làm sao không?", "normalized": "nghe nhc trong giờ học có làm sao không"}
+{"timestamp": "2025-07-17 11:37:32.969597", "user_question": "Địa chỉ trường mình ở đâu?", "normalized": "địa chỉ trường mình ở đâu"}
+{"timestamp": "2025-07-17 11:40:16.165663", "user_question": "Địa chỉ trường mình ở đâu?", "normalized": "địa chỉ trường mình ở đâu"}
+{"timestamp": "2025-07-17 11:54:26.464583", "user_question": "Đi học có được mang quần đùi k?", "normalized": "đi học có được mang quần đùi k"}
+{"timestamp": "2025-07-17 11:55:09.589593", "user_question": "Thứ hai phải học ở đâu?", "normalized": "thứ hai phải học ở đâu"}
+{"timestamp": "2025-07-17 12:11:12.422159", "user_question": "Thứ 3 học môn gì?", "normalized": "thứ 3 học môn gì"}
+{"timestamp": "2025-07-17 12:31:44.791185", "user_question": "Thứ 4 học môn gì?", "normalized": "thứ 4 học môn gì"}
+{"timestamp": "2025-07-17 13:06:34.250148", "user_question": "Xin chào", "normalized": "xin chào"}
+{"timestamp": "2025-07-17 13:18:53.261458", "user_question": "Chào bạn", "normalized": "chào bn"}
+{"timestamp": "2025-07-17 13:27:53.613298", "user_question": "Chào bạn", "normalized": "chào bn"}
+{"timestamp": "2025-07-17 13:45:27.959786", "user_question": "bây giờ là mấy giờ bạn", "normalized": "bây giờ là mấy giờ bn"}
+{"timestamp": "2025-07-17 13:45:47.442849", "user_question": "không học bài thì bị gì bạn?", "normalized": "không học bài thì bị gì bn"}
+{"timestamp": "2025-07-17 14:39:23.647454", "user_question": "Đi chào cờ vào thứ mấy bạn?", "normalized": "đi chào cờ vào thứ mấy bn"}
+{"timestamp": "2025-07-17 14:39:42.347521", "user_question": "Tiết chào cờ vào thứ mấy?", "normalized": "tiết chào cờ vào thứ mấy"}
+{"timestamp": "2025-07-17 14:43:25.976683", "user_question": "đi học lúc mấy giờ?", "normalized": "đi học lúc mấy giờ"}
+{"timestamp": "2025-07-17 18:13:53.312713", "user_question": "NgÀY MAI LÀ NGÀY NÀO?", "normalized": "ngày mai là ngày nào"}
+{"timestamp": "2025-07-17 21:21:38.815798", "user_question": "bạn có bị bệnh không?", "normalized": "bn có bị bệnh không"}

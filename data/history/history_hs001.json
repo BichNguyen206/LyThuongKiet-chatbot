@@ -1,0 +1,182 @@
+[
+  {
+    "question": "tôi đi trễ tôi sẽ bị trừ mấy điểm?",
+    "answer": "Chào bạn, nếu bạn đi trễ thì sẽ bị trừ 2 điểm cho mỗi lần nhé. Đừng lo lắng quá, hãy cố gắng sắp xếp thời gian tốt hơn để không bị trễ nữa nhé. Mình tin là bạn sẽ làm được!",
+    "timestamp": "2025-07-16T23:33:34.107141",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "Bạn là ai?",
+    "answer": "Tôi là trợ lý chatbot cho trường THPT Lý Thường Kiệt",
+    "timestamp": "2025-07-16T23:34:38.615668",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "Xin chào bạn!",
+    "answer": "Xin chào bạn! Mình là trợ lý học đường của bạn đây. Có điều gì mình có thể giúp bạn hôm nay không? Đừng ngần ngại chia sẻ nhé!",
+    "timestamp": "2025-07-16T23:40:18.240972",
+    "answered": true,
+    "status": "answered",
+    "topic": "Thông tin trường"
+  },
+  {
+    "question": "how are you?",
+    "answer": "Tôi hiện tại rất khoẻ, cám ơn bạn!",
+    "timestamp": "2025-07-16T23:40:32.958073",
+    "answered": true,
+    "status": "answered",
+    "topic": "Thông tin trường"
+  },
+  {
+    "question": "cô Bích là ai?",
+    "answer": "Cô Nguyễn Thị Thanh Bích là giáo viên tin học. Nếu bạn cần thêm thông tin gì về cô Bích hoặc môn học này, đừng ngần ngại hỏi nhé! Mình luôn sẵn lòng giúp đỡ bạn.",
+    "timestamp": "2025-07-16T23:47:06.512729",
+    "answered": true,
+    "status": "answered",
+    "topic": "Thông tin trường"
+  },
+  {
+    "question": "Không học bài mình bị trừ mấy điểm?",
+    "answer": "Chào bạn, nếu bạn không học bài, bạn sẽ bị trừ 1 điểm cho mỗi tiết học. Mình biết rằng có lúc chúng ta có thể gặp khó khăn trong việc học, nhưng hãy cố gắng lên nhé! Nếu cần giúp đỡ, đừng ngần ngại hỏi thầy cô hoặc bạn bè. Mình tin bạn sẽ làm tốt hơn trong những lần tới!",
+    "timestamp": "2025-07-16T23:50:14.568041",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "Đồng phục đi học",
+    "answer": "Chào bạn! Đồng phục đi học của trường mình bao gồm quần tây và áo trắng đồng phục. Khi mặc, bạn nhớ bỏ áo vào quần nhé, và đừng quên đeo bảng tên cùng logo của trường nữa. Ngoài ra, dép bạn mang cũng cần có quai hậu để đảm bảo an toàn. \r\n\r\nNếu bạn có thắc mắc gì thêm về đồng phục hay cần hỗ trợ gì khác, đừng ngần ngại hỏi nhé! Mình luôn ở đây để giúp bạn. Chúc bạn có một ngày học thật vui! 🌟",
+    "timestamp": "2025-07-16T23:50:24.446158",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "Đi lao động cần mang gì?",
+    "answer": "Khi đi lao động, lớp mình cần chuẩn bị dụng cụ theo yêu cầu công việc nhé. Nếu có thắc mắc cụ thể về những dụng cụ cần mang, bạn có thể hỏi thêm thầy cô để được hướng dẫn chi tiết hơn. Cố gắng lên nhé, mình tin là bạn sẽ làm tốt!",
+    "timestamp": "2025-07-16T23:50:41.476731",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "Vào học lúc mấy giờ?",
+    "answer": "Giờ vào học buổi sáng của trường là 06 giờ 55 phút, và tiết học đầu tiên bắt đầu từ 7 giờ 00 phút. Bạn nhớ đến trường đúng giờ nhé, để có thể bắt đầu một ngày học tập thật hiệu quả! Nếu có thắc mắc gì thêm, đừng ngần ngại hỏi mình nhé!",
+    "timestamp": "2025-07-16T23:50:54.704383",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "nghe nhạc trong giờ học có làm sao không?",
+    "answer": "Nghe nhạc trong giờ học có thể làm bạn bị trừ 3 điểm cho mỗi lần đấy. Mình biết đôi khi âm nhạc giúp bạn thư giãn và tập trung hơn, nhưng trong giờ học, chúng ta cần tập trung vào bài giảng để nắm bắt kiến thức tốt nhất. Bạn hãy cố gắng chú ý vào bài học nhé, nếu cần thư giãn, bạn có thể nghe nhạc vào giờ giải lao. Cố lên, mình tin bạn làm được!",
+    "timestamp": "2025-07-16T23:52:42.588350",
+    "answered": true,
+    "status": "answered",
+    "topic": "nội quy"
+  },
+  {
+    "question": "Địa chỉ trường mình ở đâu?",
+    "answer": "Trường mình tại 631 Thống Nhất, phường LaGi, tỉnh Lâm Đồng.",
+    "timestamp": "2025-07-17T11:40:18.863835",
+    "answered": true,
+    "status": "answered",
+    "topic": "Rep by admin"
+  },
+  {
+    "question": "Đi học có được mang quần đùi k?",
+    "answer": "Chào bạn, mình rất hiểu sự thoải mái khi mặc quần đùi, nhưng theo quy định của trường, khi đi học, bạn cần mặc quần tây màu xanh đen hoặc quần áo dài truyền thống vào những ngày đặc biệt. Điều này giúp tạo ra một môi trường học tập nghiêm túc và đồng nhất. Bạn hãy cố gắng tuân thủ nhé! Nếu có thắc mắc gì thêm, bạn có thể hỏi thầy cô để được giải đáp cụ thể hơn.",
+    "timestamp": "2025-07-17T11:54:31.334762",
+    "answered": true,
+    "status": "answered",
+    "topic": "Rep by admin"
+  },
+  {
+    "question": "Thứ hai phải học ở đâu?",
+    "answer": "Chào bạn, để biết thứ hai học ở phòng nào, bạn vui lòng liên hệ giáo viên chủ nhiệm hoặc các bạn khác trong lớp nhé!",
+    "timestamp": "2025-07-17T11:55:11.669802",
+    "answered": true,
+    "status": "answered",
+    "topic": "Rep by admin"
+  },
+  {
+    "question": "Thứ 4 học môn gì?",
+    "answer": "Chào bạn, để biết thứ tư học ở phòng nào, bạn vui lòng liên hệ giáo viên chủ nhiệm hoặc các bạn khác trong lớp nhé!",
+    "timestamp": "2025-07-17T12:31:47.004498",
+    "answered": true,
+    "status": "answered",
+    "topic": "Rep by admin"
+  },
+  {
+    "question": "Chào bạn",
+    "answer": "Chào bạn! Mình rất vui khi được trò chuyện cùng bạn. Nếu bạn có bất kỳ câu hỏi hay thắc mắc nào, đừng ngần ngại chia sẻ nhé! Mình luôn sẵn sàng lắng nghe và giúp đỡ bạn.",
+    "timestamp": "2025-07-17T13:27:53.614618",
+    "answered": true,
+    "status": "answered",
+    "topic": "Ground Truth",
+    "like": 2,
+    "unlike": 0
+  },
+  {
+    "question": "bây giờ là mấy giờ bạn",
+    "answer": "Câu hỏi không đúng chủ đề! Vui lòng hỏi đúng",
+    "timestamp": "2025-07-17T13:45:30.189034",
+    "answered": true,
+    "status": "answered",
+    "topic": "Rep by admin"
+  },
+  {
+    "question": "không học bài thì bị gì bạn?",
+    "answer": "Chào bạn! Nếu bạn không học bài, theo quy định, bạn sẽ bị trừ điểm. Cụ thể, mỗi tiết không học bài sẽ bị trừ 1 điểm cho bạn và 3 điểm cho lớp. Mình hiểu rằng đôi khi việc học có thể gặp khó khăn hoặc bạn có thể cảm thấy không có động lực. Nhưng hãy nhớ rằng việc học rất quan trọng cho tương lai của bạn. Nếu bạn cần giúp đỡ hay có thắc mắc gì, đừng ngần ngại chia sẻ nhé! Mình luôn ở đây để hỗ trợ bạn. Cố gắng lên nhé! 🌟",
+    "timestamp": "2025-07-17T13:45:47.448668",
+    "answered": true,
+    "status": "answered",
+    "topic": "Ground Truth",
+    "like": 0,
+    "unlike": 1
+  },
+  {
+    "question": "Đi chào cờ vào thứ mấy bạn?",
+    "answer": "Chào bạn! Mình rất vui khi được trò chuyện cùng bạn. Nếu bạn có bất kỳ câu hỏi hay thắc mắc nào, đừng ngần ngại chia sẻ nhé! Mình luôn sẵn sàng lắng nghe và giúp đỡ bạn.",
+    "timestamp": "2025-07-17T14:39:23.651312",
+    "answered": true,
+    "status": "answered",
+    "topic": "Ground Truth"
+  },
+  {
+    "question": "Tiết chào cờ vào thứ mấy?",
+    "answer": "Tiết chào cờ diễn ra vào sáng thứ 2 hàng tuần. Bạn nhớ có mặt tại trường vào lúc 6 giờ 15 để chuẩn bị nhé. Chúc bạn có một tuần học tập thật vui vẻ và hiệu quả!",
+    "timestamp": "2025-07-17T14:39:45.171034",
+    "answered": true,
+    "status": "answered",
+    "topic": "Ground Truth"
+  },
+  {
+    "question": "đi học lúc mấy giờ?",
+    "answer": "Chào bạn! Thời gian bắt đầu buổi học của trường mình như sau:\n\n- Buổi sáng: Học sinh vào trường lúc 6 giờ 55 phút và tiết học đầu tiên bắt đầu từ 7 giờ 00 phút.\n- Buổi chiều: Học sinh vào trường lúc 13 giờ 25 phút và tiết học đầu tiên bắt đầu từ 13 giờ 30 phút.\n\nHy vọng thông tin này sẽ giúp bạn sắp xếp thời gian hợp lý để đến trường đúng giờ nhé! Nếu bạn còn thắc mắc gì khác, đừng ngần ngại hỏi mình nhé! 😊",
+    "timestamp": "2025-07-17T14:43:25.980352",
+    "answered": true,
+    "status": "answered",
+    "topic": "Ground Truth"
+  },
+  {
+    "question": "NgÀY MAI LÀ NGÀY NÀO?",
+    "answer": "Câu hỏi không đúng chủ đề! Vui lòng không tám trên bot!",
+    "timestamp": "2025-07-17T18:13:55.953477",
+    "answered": true,
+    "status": "answered",
+    "topic": "Rep by admin"
+  },
+  {
+    "question": "bạn có bị bệnh không?",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé.",
+    "timestamp": "2025-07-17T21:21:42.344882",
+    "answered": false,
+    "status": "waiting",
+    "topic": ""
+  }
+]

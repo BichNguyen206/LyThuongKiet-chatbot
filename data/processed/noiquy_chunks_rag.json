@@ -1,24 +1,13 @@
 [
   {
-    "text": "Giờ vào học Buổi sáng: 06 giờ 55 phút, tiết học đầu tiên của buổi học bắt đầu từ 7 giờ 00 phút.",
-    "metadata": {
-      "section": "I. Giờ vào học",
-      "subsection": "None",
-      "item": null,
-      "source": "nội quy",
-      "updated_at": "2025-06-29",
-      "id": "chunk_2"
-    }
-  },
-  {
     "text": "Giờ vào học Buổi chiều: 13 giờ 25 phút, tiết học đầu tiên của buổi học bắt đầu từ 13 giờ 30 phút.",
     "metadata": {
       "section": "I. Giờ vào học",
-      "subsection": null,
+      "subsection": "",
       "item": null,
-      "source": "nội quy",
-      "updated_at": "2025-06-29",
-      "id": "chunk_3"
+      "source": "Nội quy",
+      "updated_at": "2025-07-27",
+      "id": "chunk_be3fd9b1"
     }
   },
   {
@@ -638,9 +627,22 @@
     "text": "Môn Toán: 13; Ngữ văn: 11; Tiếng Anh: 10; GDTC: 5; GDQP&AN: 6; Vật lý: 12; Hóa học: 9; Sinh học: 3; Lịch sử: 5; Địa lý: 3; Giáo dục Kinh tế và Pháp luật: 3; Tin học: 8; Công nghệ: 2 (01 Công nghệ công nghiệp, 01 Công nghệ nông nghiệp); Âm nhạc: 0; Mỹ thuật: 0.",
     "metadata": {
       "section": "Giới thiệu trường",
-      "source": "",
-      "admin_answer_for": "tổ bộ môn",
-      "updated_at": "2025-07-01"
+      "subsection": "",
+      "item": null,
+      "source": "Nội quy",
+      "updated_at": "2025-07-16",
+      "id": "chunk_0627badd"
+    }
+  },
+  {
+    "text": "Giờ vào học Buổi sáng: 06 giờ 55 phút, tiết học đầu tiên của buổi học bắt đầu từ 7 giờ 00 phút.",
+    "metadata": {
+      "section": "I. Giờ vào học",
+      "subsection": "",
+      "item": null,
+      "source": "Nội quy",
+      "updated_at": "2025-07-17",
+      "id": "chunk_2ac68ece"
     }
   }
 ]

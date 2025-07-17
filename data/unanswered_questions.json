@@ -1,7 +1,29 @@
 [
   {
-    "question": "Lớp 10C3 có những môn tổ hợp nào?",
-    "date": "2025-07-03",
-    "count": 2
+    "question": "tôi là ai",
+    "username": "hs001",
+    "user_id": "2",
+    "date": "2025-07-15",
+    "status": "waiting",
+    "answer": null,
+    "count": 1
+  },
+  {
+    "question": "việt nam là nước như thế nao?",
+    "username": "hs001",
+    "user_id": "2",
+    "date": "2025-07-16",
+    "status": "waiting",
+    "answer": null,
+    "count": 1
+  },
+  {
+    "question": "bạn là ai?",
+    "username": "hs001",
+    "user_id": "2",
+    "date": "2025-07-16",
+    "status": "waiting",
+    "answer": null,
+    "count": 3
   }
 ]

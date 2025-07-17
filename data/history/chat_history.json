@@ -1,370 +1,478 @@
 [
   {
-    "question": "Công thức tính điểm sổ đầu bài là gì?",
-    "answer": "Công thức tính điểm sổ đầu bài (ĐSĐB) là:  \nĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D)),  \ntrong đó A, B, C, D là số tiết được giáo viên chấm điểm A, B, C, D cho mỗi tiết học."
+    "question": "giới thiệu về trường mình đi",
+    "answer": "Trường THPT Lý Thường Kiệt là một ngôi trường rất đặc biệt và giàu truyền thống tại tỉnh Bình Thuận. Được thành lập từ năm 1958, trường đã trải qua hơn 50 năm phát triển và đào tạo nhiều thế hệ học sinh ưu tú. Hiện tại, trường có khoảng 2.100 học sinh và 126 cán bộ, giáo viên, trong đó đa số đều có trình độ đại học và thạc sĩ.\r\nTrường không chỉ chú trọng vào việc học mà còn rất quan tâm đến giáo dục toàn diện, kỹ năng sống và tinh thần đoàn kết. Các bạn sẽ có cơ hội tham gia nhiều hoạt động ngoại khóa, dã ngoại thú vị, giúp các bạn phát triển bản thân và tạo ra những kỷ niệm đẹp trong quãng đời học sinh.\r\n\r\nNgoài ra, trường cũng đã được công nhận đạt chuẩn quốc gia vào năm 2013, chứng tỏ chất lượng dạy và học ổn định và xuất sắc. Mỗi ngày đến trường, các bạn sẽ được học tập trong một môi trường thân thiện và đầy cảm hứng. Hãy tự hào về ngôi trường của mình nhé! Nếu bạn cần thêm thông tin gì, đừng ngần ngại"
   },
   {
-    "question": "Học sinh không học bài sẽ bị trừ bao nhiêu điểm?",
-    "answer": "Học sinh không học bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "đồng phục đi học mang gì",
+    "answer": "Chào bạn! Đồng phục đi học của trường mình bao gồm quần tây và áo trắng đồng phục. Khi mặc, bạn nhớ bỏ áo vào quần nhé, và đừng quên đeo bảng tên cùng logo của trường nữa. Ngoài ra, dép bạn mang cũng cần có quai hậu để đảm bảo an toàn. \r\nNếu bạn có thắc mắc gì thêm về đồng phục hay cần hỗ trợ gì khác, đừng ngần ngại hỏi nhé! Mình luôn ở đây để giúp bạn. Chúc bạn có một ngày học thật vui! 🌟"
   },
   {
-    "question": "Không chuẩn bị bài sẽ bị trừ điểm như thế nào?",
-    "answer": "Theo tài liệu, học sinh không chuẩn bị bài (điểm số 0, 1, 2) bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "công thức tính điểm sổ đầu bài là gì",
+    "answer": "Chào bạn! Mình rất vui khi được giúp đỡ bạn. Công thức tính điểm sổ đầu bài (ĐSĐB) như sau:\n\nĐSĐB = (((Tổng A – Tổng C – (Tổng D x 2)) x 10) / (Tổng A + B + C + D))\n\nTrong đó:\n- A là số tiết được giáo viên chấm điểm A,\n- B là số tiết được chấm điểm B,\n- C là số tiết được chấm điểm C,\n- D là số tiết được chấm điểm D.\n\nNếu bạn có bất kỳ câu hỏi nào khác về điểm số hay cách tính, đừng ngần ngại hỏi mình nhé! Mình luôn ở đây để hỗ trợ bạn. Chúc bạn học tốt! 😊"
   },
   {
-    "question": "Không soạn bài bị trừ điểm ra sao?",
-    "answer": "Học sinh không soạn bài bị trừ 1 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "học sinh không học bài sẽ bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Nếu học sinh không học bài, sẽ bị trừ 1 điểm cho mỗi học sinh trong mỗi tiết học và bị trừ 3 điểm cho mỗi lớp trong mỗi tiết. Mình biết rằng việc học bài có thể đôi khi gặp khó khăn, nhưng hãy cố gắng nhé! Mỗi nỗ lực nhỏ đều rất quý giá và sẽ giúp bạn tiến bộ hơn. Nếu bạn cần hỗ trợ hay có thắc mắc gì, đừng ngần ngại chia sẻ nhé!"
   },
   {
-    "question": "Điểm 3, 4 trong học tập bị trừ điểm ra sao?",
-    "answer": "Theo tài liệu, điểm 3, 4 bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "không chuẩn bị bài sẽ bị trừ điểm như thế nào",
+    "answer": "Chào bạn! Nếu bạn không chuẩn bị bài, theo quy định, bạn sẽ bị trừ điểm như sau: mỗi học sinh sẽ bị trừ 1 điểm cho mỗi tiết học, và nếu không chuẩn bị bài cho cả lớp, sẽ bị trừ 3 điểm cho mỗi lớp trong mỗi tiết. \n\nMình hiểu rằng đôi khi có những lý do khiến bạn không thể chuẩn bị bài, nhưng hãy cố gắng nhé! Chuẩn bị bài không chỉ giúp bạn có điểm tốt mà còn giúp bạn tự tin hơn trong học tập. Nếu bạn cần hỗ trợ hay có thắc mắc gì, đừng ngần ngại chia sẻ nhé! Mình luôn ở đây để giúp bạn."
   },
   {
-    "question": "Không mang sách, vở, dụng cụ học tập sẽ bị trừ điểm thế nào?",
-    "answer": "Không mang sách, vở, dụng cụ học tập bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "không son bài bị trừ điểm ra sao",
+    "answer": "Chào bạn! Nếu bạn không làm bài, theo quy định thì sẽ bị trừ 1 điểm cho mỗi học sinh trong mỗi tiết học. Nếu lớp không hoàn thành bài tập, thì sẽ bị trừ 3 điểm cho mỗi lớp trong mỗi tiết. \n\nMình hiểu rằng việc làm bài đôi khi có thể gặp khó khăn, nhưng hãy cố gắng nhé! Nếu bạn cần giúp đỡ hay có thắc mắc gì về bài vở, đừng ngần ngại hỏi thầy cô hoặc bạn bè nhé. Bạn hoàn toàn có thể cải thiện và mình tin bạn sẽ làm được!"
   },
   {
-    "question": "Làm bài tập thiếu bị trừ mấy điểm?",
-    "answer": "Làm bài tập thiếu bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "điểm 3 4 trong học tập bị trừ điểm ra sao",
+    "answer": "Chào bạn! Mình rất vui khi bạn đã đặt câu hỏi này. Theo tài liệu, nếu bạn ghi nhận điểm 3 hoặc 4 trong học tập, thì sẽ bị trừ 0.5 điểm cho mỗi học sinh trong mỗi tiết học. Ngoài ra, nếu lớp có điểm 3 hoặc 4, thì lớp đó cũng sẽ bị trừ 3 điểm cho mỗi tiết. \n\nMình hiểu rằng việc này có thể khiến bạn cảm thấy lo lắng, nhưng hãy nhớ rằng mỗi điểm số chỉ là một phần trong hành trình học tập của bạn. Hãy cố gắng hết mình và không ngừng nỗ lực nhé! Nếu bạn cần thêm sự hỗ trợ hay có câu hỏi nào khác, đừng ngần ngại chia sẻ với mình nhé!"
   },
   {
-    "question": "Học bài chưa kỹ bị trừ như thế nào?",
-    "answer": "Học bài chưa kĩ bị trừ 0.5 điểm cho mỗi học sinh mỗi tiết. Bị trừ 3 điểm cho mỗi lớp mỗi tiết."
+    "question": "không mang sách vở dụng cụ học tập sẽ bị trừ điểm thế nào",
+    "answer": "Chào bạn! Nếu bạn không mang sách, vở hay dụng cụ học tập đến lớp, bạn sẽ bị trừ 0.5 điểm cho mỗi tiết học. Nếu cả lớp không có đủ sách vở, thì sẽ bị trừ 3 điểm cho cả lớp trong tiết đó. Mình hiểu rằng đôi khi có thể quên mang theo, nhưng hãy cố gắng chuẩn bị đầy đủ nhé! Điều này sẽ giúp bạn học tập hiệu quả hơn và không bị mất điểm. Nếu cần hỗ trợ gì thêm, bạn cứ hỏi mình nhé!"
   },
   {
-    "question": "Mất trật tự trong lớp bị trừ bao nhiêu điểm?",
-    "answer": "Mất trật tự bị trừ 2 điểm cho mỗi học sinh một lượt."
+    "question": "làm bài tập thiếu bị trừ mấy điểm",
+    "answer": "Chào bạn! Nếu bạn làm bài tập thiếu, bạn sẽ bị trừ 0.5 điểm cho mỗi học sinh trong mỗi tiết học. Mình biết rằng đôi khi có những lý do khiến bạn không thể hoàn thành bài tập, nhưng hãy cố gắng nhé! Việc làm bài tập không chỉ giúp bạn củng cố kiến thức mà còn giúp bạn tự tin hơn trong học tập. Nếu bạn cần hỗ trợ hay có thắc mắc gì, đừng ngần ngại hỏi nhé! Mình luôn ở đây để giúp bạn!"
   },
   {
-    "question": "Thiếu tập trung khi học bị trừ điểm như thế nào?",
-    "answer": "Thiếu tập trung bị trừ 2 điểm cho mỗi học sinh một lượt."
+    "question": "học bài chưa kỹ bị trừ như thế nào",
+    "answer": "Chào bạn! Nếu bạn học bài chưa kỹ, thì sẽ bị trừ 0.5 điểm cho mỗi học sinh trong mỗi tiết học. Ngoài ra, lớp của bạn cũng sẽ bị trừ 3 điểm cho mỗi tiết nữa. Mình hiểu rằng việc học bài có thể gặp nhiều khó khăn, nhưng hãy cố gắng chuẩn bị thật tốt nhé! Điều này không chỉ giúp bạn có điểm cao mà còn giúp bạn tự tin hơn trong học tập. Nếu cần hỗ trợ gì thêm, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Ngủ trong tiết học bị trừ mấy điểm?",
-    "answer": "Ngủ trong tiết học bị trừ 2 điểm cho mỗi học sinh một lượt."
+    "question": "mất trật tự trong lớp bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Khi lớp học mất trật tự, mỗi học sinh sẽ bị trừ 2 điểm cho mỗi lượt. Mình hiểu rằng đôi khi trong lớp có những lúc vui vẻ hay sôi nổi, nhưng hãy cố gắng giữ trật tự để mọi người cùng học tốt nhé! Nếu bạn có thêm câu hỏi nào khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Đi trễ bị trừ bao nhiêu điểm?",
-    "answer": "Đi trễ bị trừ 2 điểm cho mỗi học sinh một lượt."
+    "question": "thiếu tập trung khi học bị trừ điểm như thế nào",
+    "answer": "Chào bạn! Nếu bạn thiếu tập trung trong giờ học, sẽ bị trừ 2 điểm cho mỗi học sinh một lượt. Mình hiểu rằng đôi khi việc giữ sự tập trung có thể khó khăn, nhưng hãy cố gắng nhé! Bạn có thể thử một số mẹo như ghi chú hoặc tham gia vào bài học để giúp mình tập trung hơn. Nếu cần thêm sự hỗ trợ, đừng ngần ngại hỏi thầy cô hoặc bạn bè nhé! Chúc bạn học tốt!"
   },
   {
-    "question": "Tự ý ra khỏi cổng trường bị trừ điểm ra sao?",
-    "answer": "Tự ý ra khỏi cổng trường bị trừ 2 điểm cho mỗi học sinh một lượt."
+    "question": "ngủ trong tiết học bị trừ mấy điểm",
+    "answer": "Chào bạn! Nếu bạn ngủ trong tiết học, sẽ bị trừ 2 điểm cho mỗi học sinh một lượt. Mình hiểu rằng đôi khi chúng ta có thể cảm thấy mệt mỏi và cần nghỉ ngơi, nhưng hãy cố gắng giữ tinh thần tỉnh táo trong giờ học nhé! Bạn hoàn toàn có thể tìm cách để cải thiện giấc ngủ của mình ở nhà, để có thể tập trung hơn trong lớp. Chúc bạn luôn học tốt và giữ sức khỏe nhé!"
   },
   {
-    "question": "Vi phạm đồng phục bị trừ điểm thế nào?",
-    "answer": "Vi phạm đồng phục bị trừ 2 điểm cho mỗi học sinh một lượt."
+    "question": "đi trễ bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Nếu bạn đi trễ, sẽ bị trừ 2 điểm cho mỗi học sinh một lượt. Mình hiểu rằng đôi khi có những lý do không thể tránh khỏi khiến bạn đến muộn. Hãy cố gắng sắp xếp thời gian để không bị trễ nhé! Bạn hoàn toàn có thể làm tốt hơn trong lần sau. Chúc bạn luôn thành công!"
   },
   {
-    "question": "Sử dụng điện thoại trong lớp bị trừ bao nhiêu điểm?",
-    "answer": "Sử dụng điện thoại bị trừ 3 điểm cho mỗi học sinh một lượt."
+    "question": "tự ý ra khỏi cổng trường bị trừ điểm ra sao",
+    "answer": "Chào bạn! Nếu bạn tự ý ra khỏi cổng trường, mỗi học sinh sẽ bị trừ 2 điểm cho một lượt. Mình hiểu rằng đôi khi có những lý do khiến bạn muốn ra ngoài, nhưng việc tuân thủ quy định của trường rất quan trọng để đảm bảo an toàn cho tất cả mọi người. Hãy cố gắng nhớ điều này nhé! Nếu bạn có thắc mắc hay cần chia sẻ thêm, mình luôn sẵn sàng lắng nghe. Cố gắng lên nhé!"
   },
   {
-    "question": "Nghe nhạc trong giờ học bị trừ như thế nào?",
-    "answer": "Nghe nhạc trong giờ học bị trừ 3 điểm cho mỗi học sinh một lượt."
+    "question": "vi phm đồng phục bị trừ điểm thế nào",
+    "answer": "Chào bạn! Nếu vi phạm đồng phục, mỗi học sinh sẽ bị trừ 2 điểm cho một lượt. Mình hiểu rằng đôi khi việc tuân thủ quy định về đồng phục có thể gây khó khăn cho một số bạn, nhưng hãy cố gắng nhé! Điều này không chỉ giúp bạn thể hiện sự tôn trọng với trường lớp mà còn tạo nên một môi trường học tập tốt hơn cho tất cả mọi người. Nếu bạn có thắc mắc nào khác, đừng ngần ngại hỏi nhé! Mình luôn ở đây để giúp đỡ bạn."
   },
   {
-    "question": "Nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao?",
-    "answer": "Theo tài liệu, nhuộm tóc bị trừ 3 điểm cho mỗi học sinh một lượt. Tóc kiểu bị trừ 3 điểm cho mỗi học sinh một lượt."
+    "question": "sử dụng điện thoi trong lớp bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Nếu bạn sử dụng điện thoại trong lớp, sẽ bị trừ 3 điểm cho mỗi học sinh một lượt. Mình hiểu rằng đôi khi việc sử dụng điện thoại có thể rất hấp dẫn, nhưng hãy cố gắng tập trung vào bài học nhé! Bạn hoàn toàn có thể làm tốt hơn và mình tin rằng bạn sẽ làm được. Nếu cần thêm thông tin hay có thắc mắc gì khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Sơn móng tay, móng chân bị trừ mấy điểm?",
-    "answer": "Sơn móng tay, móng chân bị trừ 3 điểm cho mỗi học sinh một lượt."
+    "question": "nghe nhc trong giờ học bị trừ như thế nào",
+    "answer": "Chào bạn! Nghe nhạc trong giờ học sẽ bị trừ 3 điểm cho mỗi học sinh một lượt. Mình hiểu rằng âm nhạc có thể giúp bạn thư giãn, nhưng trong giờ học, chúng ta cần tập trung vào bài giảng để học tốt hơn. Hãy cố gắng giữ tinh thần thoải mái và chú ý nhé! Nếu bạn có thắc mắc gì thêm, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Trốn tiết bị trừ điểm như thế nào?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
+    "question": "nhuộm tóc hoặc tóc kiểu bị trừ điểm ra sao",
+    "answer": "Chào bạn! Mình rất vui khi bạn đã đặt câu hỏi này. Theo quy định, nếu bạn nhuộm tóc hoặc có kiểu tóc không phù hợp, mỗi học sinh sẽ bị trừ 3 điểm cho mỗi lượt. Điều này có thể khiến bạn cảm thấy không thoải mái, nhưng hãy nhớ rằng quy định này nhằm giữ gìn hình ảnh và sự đồng nhất trong môi trường học tập. Nếu bạn có ý kiến hay thắc mắc gì thêm, đừng ngần ngại chia sẻ nhé! Mình luôn ở đây để hỗ trợ bạn. Chúc bạn luôn tự tin và sáng tạo trong phong cách của mình!"
   },
   {
-    "question": "Vô lễ với giáo viên bị trừ bao nhiêu điểm?",
-    "answer": "Vô lễ bị trừ 5 điểm cho mỗi học sinh một lượt."
+    "question": "sơn móng tay móng chân bị trừ mấy điểm",
+    "answer": "Chào bạn! Nếu bạn sơn móng tay hoặc móng chân, sẽ bị trừ 3 điểm cho mỗi học sinh một lượt. Mình hiểu rằng việc chăm sóc bản thân là điều quan trọng, nhưng hãy nhớ rằng quy định của trường cũng cần được tuân thủ nhé! Nếu bạn có thắc mắc gì thêm, đừng ngần ngại hỏi mình nhé! Chúc bạn luôn vui vẻ và học tập tốt!"
   },
   {
-    "question": "Gian lận trong thi cử bị trừ điểm như thế nào?",
-    "answer": "Gian lận trong thi cử bị trừ 5 điểm cho mỗi học sinh một lượt."
+    "question": "trốn tiết bị trừ điểm như thế nào",
+    "answer": "Chào bạn! Nếu bạn trốn tiết, mỗi học sinh sẽ bị trừ 5 điểm cho mỗi lần vi phạm. Mình hiểu rằng đôi khi có những lý do khiến bạn không muốn tham gia tiết học, nhưng việc tham gia đầy đủ sẽ giúp bạn học hỏi và phát triển hơn. Hãy cố gắng tham gia nhé, vì mỗi tiết học đều mang lại những kiến thức quý giá cho bạn! Nếu bạn có thắc mắc hay cần hỗ trợ gì, đừng ngần ngại chia sẻ nhé!"
   },
   {
-    "question": "Lấy cắp, đánh bài hoặc đánh nhau bị trừ điểm ra sao?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
+    "question": "vô lễ với giáo viên bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Nếu bạn vô lễ với giáo viên, bạn sẽ bị trừ 5 điểm cho mỗi học sinh một lượt. Mình hiểu rằng đôi khi có những tình huống khó khăn, nhưng hãy cố gắng giữ thái độ tôn trọng nhé. Điều này không chỉ giúp bạn có một môi trường học tập tốt hơn mà còn giúp bạn phát triển bản thân nữa. Nếu bạn cần thêm sự hỗ trợ hay có điều gì băn khoăn, hãy chia sẻ với mình nhé!"
   },
   {
-    "question": "Tàng trữ, sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm?",
-    "answer": "Tàng trữ, sử dụng hung khí; các chất cấm bị trừ 5 điểm cho mỗi học sinh một lượt."
+    "question": "gian lận trong thi cử bị trừ điểm như thế nào",
+    "answer": "Chào bạn! Về vấn đề gian lận trong thi cử, theo quy định, mỗi học sinh sẽ bị trừ 5 điểm cho mỗi lần vi phạm. Mình hiểu rằng thi cử có thể gây áp lực lớn, nhưng việc trung thực trong học tập là rất quan trọng. Nếu bạn cảm thấy khó khăn, hãy chia sẻ với thầy cô hoặc bạn bè để nhận được sự hỗ trợ nhé! Bạn hoàn toàn có thể vượt qua những thử thách này. Cố gắng lên!"
   },
   {
-    "question": "Mang thức ăn vào lớp bị trừ bao nhiêu điểm?",
-    "answer": "Mang thức ăn vào lớp bị trừ 5 điểm cho mỗi lớp một lượt."
+    "question": "lấy cắp đánh bài hoặc đánh nhau bị trừ điểm ra sao",
+    "answer": "Chào bạn! Mình rất hiểu rằng việc bị trừ điểm có thể khiến bạn cảm thấy không vui. Theo tài liệu mình có, nếu học sinh bị phát hiện lấy cắp, đánh bài hoặc đánh nhau, mỗi học sinh sẽ bị trừ 5 điểm cho mỗi lượt vi phạm. \n\nMình biết rằng ai cũng có lúc mắc sai lầm, nhưng hãy nhớ rằng điều quan trọng là chúng ta học hỏi từ những trải nghiệm đó. Nếu bạn có bất kỳ câu hỏi nào khác hoặc cần thêm sự hỗ trợ, đừng ngần ngại chia sẻ nhé! Mình luôn ở đây để giúp đỡ bạn."
   },
   {
-    "question": "Không tắt điện, quạt khi ra khỏi phòng bị trừ điểm thế nào?",
-    "answer": "Không tắt điện, quạt bị trừ 3 điểm cho mỗi lớp một lượt."
+    "question": "tàng trữ sử dụng hung khí hoặc các chất cấm bị trừ mấy điểm",
+    "answer": "Chào bạn! Nếu học sinh nào tàng trữ hoặc sử dụng hung khí hay các chất cấm, sẽ bị trừ 5 điểm cho mỗi lượt. Mình hiểu rằng đây là một quy định nghiêm ngặt, nhưng nó được đặt ra để bảo vệ an toàn cho tất cả mọi người trong trường. Hãy luôn nhớ rằng việc tuân thủ quy định sẽ giúp bạn có một môi trường học tập tốt hơn. Nếu bạn có thêm câu hỏi nào khác, đừng ngần ngại hỏi nhé!"
   },
   {
-    "question": "Viết, vẽ lên bàn ghế, tường bị trừ bao nhiêu điểm?",
-    "answer": "Viết, khắc hoặc vẽ lên bàn ghế, lên tường bị trừ 3 điểm cho mỗi lớp một lượt."
+    "question": "mang thức ăn vào lớp bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Nếu bạn mang thức ăn vào lớp, sẽ bị trừ 5 điểm cho mỗi lớp một lượt. Mình hiểu rằng đôi khi việc mang theo đồ ăn có thể là do bạn muốn có một chút năng lượng trong giờ học. Tuy nhiên, để giữ cho lớp học luôn sạch sẽ và thoải mái cho mọi người, chúng ta cần tuân thủ quy định này nhé! Nếu bạn có thắc mắc gì thêm, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Điểm đánh giá xếp loại thi đua hàng tuần được tính như thế nào?",
-    "answer": "Điểm đánh giá xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1)/6."
+    "question": "không tắt điện qut khi ra khỏi phòng bị trừ điểm thế nào",
+    "answer": "Chào bạn! Nếu không tắt điện khi ra khỏi phòng học, bạn sẽ bị trừ 3 điểm cho mỗi lớp một lượt. Mình hiểu rằng đôi khi chúng ta có thể quên mất những điều nhỏ nhặt này, nhưng hãy cố gắng nhớ nhé! Điều này không chỉ giúp bảo vệ môi trường mà còn giữ cho lớp học luôn thoải mái. Bạn hoàn toàn có thể làm được! Nếu cần thêm thông tin gì, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Giờ vào học buổi sáng của trường là mấy giờ?",
-    "answer": "Giờ vào học Buổi sáng: 06 giờ 55 phút."
+    "question": "viết vẽ lên bàn ghế tường bị trừ bao nhiêu điểm",
+    "answer": "Chào bạn! Nếu bạn viết, khắc hoặc vẽ lên bàn ghế hay tường, bạn sẽ bị trừ 3 điểm cho mỗi lớp một lượt. Mình hiểu rằng đôi khi chúng ta có thể không để ý và làm điều này, nhưng hãy cố gắng giữ gìn không gian học tập nhé! Bạn hoàn toàn có thể sáng tạo theo những cách khác mà không làm ảnh hưởng đến môi trường xung quanh. Cố gắng lên nhé!"
   },
   {
-    "question": "Giờ vào học buổi chiều là lúc nào?",
-    "answer": "Giờ vào học buổi chiều là 13 giờ 25 phút."
+    "question": "điểm đánh giá xếp loi thi đua hàng tuần được tính như thế nào",
+    "answer": "Chào bạn! Mình rất vui khi bạn hỏi về cách tính điểm đánh giá xếp loại thi đua hàng tuần. \n\nĐiểm đánh giá xếp loại chung được tính theo công thức sau: \n\n**Điểm đánh giá xếp loại chung = (Điểm sổ đầu bài x 1 + Điểm nội quy học tập x 2 + Điểm nội quy nề nếp x 2 + Điểm vệ sinh môi trường, bảo quản cơ sở vật chất x 1) / 6.**\n\nĐiểm sổ đầu bài thì được tính bằng công thức phức tạp hơn một chút, nhưng bạn có thể yên tâm là nếu bạn chăm chỉ và tuân thủ nội quy, điểm của bạn sẽ được cải thiện rất nhiều!\n\nNếu bạn cần thêm thông tin hay có thắc mắc nào khác, đừng ngần ngại hỏi nhé! Mình luôn ở đây để giúp bạn. Chúc bạn học tốt! 🌟"
   },
   {
-    "question": "Học sinh phải mặc đồng phục như thế nào khi học trên lớp?",
-    "answer": "Học sinh phải mặc đồng phục khi học trên lớp như sau:\n\n- Quần: Màu xanh đen, dây lưng màu đen hoặc màu nâu, không được may quần đáy ngắn.\n- Áo: Sơ mi trắng đồng phục của trường.\n- Dép: Có quai hậu hoặc đi giày (khi mang phải cài quai hậu).\n- Bảng tên: Bảng tên do nhà trường cung cấp đầu năm (yêu cầu may trực tiếp vào áo đi học và áo thể dục).\n\nRiêng ngày thứ Hai trong tuần và các ngày Lễ, học sinh nữ thực hiện đồng phục quần áo dài truyền thống màu trắng (không may những loại vải màu trắng ngà), không được may theo kiểu quần tây, quần đáy ngắn, ống quá nhỏ, quần áo phải đảm bảo kín đáo phù hợp với học sinh THPT (không mỏng, áo xẻ tà không cao quá lưng quần, khi mặc không dắt (vắt) tà áo vào trong quần)."
+    "question": "giờ vào học buổi sáng của trường là mấy giờ",
+    "answer": "Giờ vào học buổi sáng của trường là 06 giờ 55 phút, và tiết học đầu tiên bắt đầu từ 7 giờ 00 phút. Bạn nhớ đến trường đúng giờ nhé, để có thể bắt đầu một ngày học tập thật hiệu quả! Nếu có thắc mắc gì thêm, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Vào ngày thứ Hai và ngày lễ, học sinh nữ mặc đồng phục gì?",
-    "answer": "Vào ngày thứ Hai trong tuần và các ngày Lễ, học sinh nữ thực hiện đồng phục quần áo dài truyền thống màu trắng (không may những loại vải màu trắng ngà), không được may theo kiểu quần tây, quần đáy ngắn, ống quá nhỏ, quần áo phải đảm bảo kín đáo phù hợp với học sinh THPT (không mỏng, áo xẻ tà không cao quá lưng quần, khi mặc không dắt (vắt) tà áo vào trong quần)."
+    "question": "giờ vào học buổi chiều là lúc nào",
+    "answer": "Giờ vào học buổi chiều là 13 giờ 25 phút, và tiết học đầu tiên sẽ bắt đầu từ 13 giờ 30 phút. Nếu bạn có bất kỳ câu hỏi nào khác hoặc cần thêm thông tin, đừng ngần ngại hỏi nhé! Mình luôn sẵn sàng giúp đỡ bạn. Chúc bạn có một buổi học thật vui vẻ!"
   },
   {
-    "question": "Học sinh mang bảng tên như thế nào?",
-    "answer": "Học sinh phải mang bảng tên khi đi học bù, học phụ đạo, học thêm tại trường, bồi dưỡng học sinh giỏi trái buổi; mặc quần tây, áo trắng đồng phục của trường (bỏ áo vào quần), có bảng tên, logo đồng phục của trường, dép có quai hậu."
+    "question": "học sinh phải mặc đồng phục như hế nào khi học trên lớp",
+    "answer": "Chào bạn! Khi học trên lớp, bạn cần mặc đồng phục theo quy định của trường nhé. Cụ thể, bạn sẽ mặc áo sơ mi trắng đồng phục của trường và quần màu xanh đen. Đừng quên bỏ áo vào quần để giữ cho trang phục gọn gàng nhé!\n\nNgoài ra, nếu bạn là học sinh nữ, vào ngày thứ Hai và các ngày lễ, bạn sẽ mặc đồng phục là quần áo dài truyền thống màu trắng. Hãy nhớ rằng trang phục cần phải kín đáo và phù hợp với lứa tuổi học sinh THPT.\n\nNếu bạn có bất kỳ thắc mắc nào khác về đồng phục hay quy định, đừng ngần ngại hỏi nhé! Mình luôn ở đây để hỗ trợ bạn!"
   },
   {
-    "question": "Khi học thể dục, học sinh mặc gì?",
-    "answer": "Khi học thể dục, học sinh mặc quần áo thể dục (đồng phục của trường), đi giày bata (nhà trường sẽ thông báo cụ thể theo từng hoạt động)."
+    "question": "vào ngày thứ hai và ngày lễ học sinh nữ mặc đồng phục gì",
+    "answer": "Chào bạn! Vào ngày thứ Hai trong tuần và các ngày Lễ, học sinh nữ sẽ mặc đồng phục quần áo dài truyền thống màu trắng. Lưu ý là không được may bằng những loại vải màu trắng ngà nhé! Đồng phục này không chỉ đẹp mà còn thể hiện sự trang trọng, phù hợp với không khí của ngày học. Nếu bạn có thắc mắc gì thêm về trang phục hay cần hỗ trợ gì khác, đừng ngần ngại hỏi mình nhé! Chúc bạn luôn tự tin và xinh đẹp trong bộ đồng phục của mình! 🌸"
   },
   {
-    "question": "Đi học bù, học phụ đạo, học thêm tại trường phải mặc gì?",
-    "answer": "Khi đi học bù, học phụ đạo, học thêm tại trường, học sinh phải mặc quần tây, áo trắng đồng phục của trường (bỏ áo vào quần), có bảng tên, logo đồng phục của trường và dép có quai hậu."
+    "question": "học sinh mang bảng tên như thế nào",
+    "answer": "Chào bạn! Bảng tên mà nhà trường cung cấp đầu năm sẽ được may trực tiếp vào áo đi học và áo thể dục của bạn. Điều này giúp mọi người dễ dàng nhận diện và tạo sự đồng nhất trong trang phục. Nếu bạn có thắc mắc nào khác về trang phục hay quy định, đừng ngần ngại hỏi nhé! Mình luôn ở đây để hỗ trợ bạn. Chúc bạn có một ngày học thật vui vẻ!"
   },
   {
-    "question": "Nghỉ học nhiều ngày phải làm gì?",
-    "answer": "Trường hợp học sinh nghỉ học nhiều ngày (từ 3 ngày trở lên) phải có lý do chính đáng và phải được sự đồng ý của Hiệu trưởng nhà trường. Trừ trường hợp học sinh nằm viện dài ngày, khi đi học lại phải trình giấy xuất viện. Nghỉ học và nghỉ các hoạt động giáo dục khác, Cha (Mẹ) hoặc người đỡ đầu (Phụ huynh) trực tiếp xin phép nhà trường trong ngày (thông qua giáo viên chủ nhiệm, Ban quản sinh). Nếu vì lí do đột xuất chưa xin phép được kịp thời, thì thông tin cho giáo viên chủ nhiệm hoặc Ban quản sinh biết bằng điện thoại. Phụ huynh xin phép hoặc gửi giấy phép phải có chữ ký của phụ huynh (chữ ký đã đăng ký đầu năm) trong vòng một tuần kể từ khi vắng, nếu không thực hiện một trong các điều trên, thì xem như học sinh nghỉ học không phép."
+    "question": "ban giảng dy ti trường được chia thành những ban nào",
+    "answer": "Chào bạn! Đội ngũ giảng viên của trường được chia thành hai ban chính: Ban Tự nhiên và Ban Cơ bản. Mỗi ban sẽ có các môn học khác nhau để phục vụ cho nhu cầu học tập của các bạn. Nếu bạn có thêm câu hỏi nào khác về trường hay các môn học, đừng ngần ngại hỏi nhé! Mình luôn sẵn sàng giúp đỡ bạn!"
   },
   {
-    "question": "Nếu nghỉ học không phép quá 1 tuần thì sao?",
-    "answer": "Nếu nghỉ học không phép quá 1 tuần thì coi như học sinh đó tự ý bỏ học, nhà trường sẽ cắt sĩ số và thông báo về cho gia đình biết."
+    "question": "khi học thể dục học sinh mặc gì",
+    "answer": "Chào bạn! Khi học thể dục, các bạn sẽ mặc đồng phục thể dục của trường và đi giày bata. Nhà trường sẽ thông báo cụ thể về đồng phục cho từng hoạt động, nên bạn hãy chú ý nhé! Nếu có thắc mắc gì thêm, đừng ngần ngại hỏi nhé. Chúc bạn có những giờ học thể dục thật vui vẻ và bổ ích! 😊"
   },
   {
-    "question": "Nhiệm vụ chính của học sinh là gì?",
-    "answer": "Nhiệm vụ chính của học sinh là: Kính trọng cha mẹ, thầy giáo, cô giáo, cán bộ, nhân viên của nhà trường và những người lớn tuổi; đoàn kết, giúp đỡ lẫn nhau trong học tập, rèn luyện; thực hiện điều lệ, nội quy nhà trường; chấp hành pháp luật của Nhà nước; giữ gìn, bảo vệ tài sản của nhà trường, nơi công cộng; góp phần xây dựng, bảo vệ và phát huy truyền thống của nhà trường; tham gia học tập đầy đủ nội quy, điều lệ nhà trường, luật an toàn giao thông, an ninh học đường và ký cam kết theo quy định từ đầu năm; khi đi xe cá nhân đến trường phải để đúng nơi quy định; phải tự lưu giữ bài kiểm tra thường xuyên và định kỳ, giao nộp lại khi có yêu cầu; tham gia các hoạt động tập thể của trường, lớp, Đoàn Thanh niên Cộng sản Hồ Chí Minh; giúp đỡ gia đình và tham gia các công tác xã hội, thực hiện Luật an toàn giao thông; thực hiện tốt vệ sinh lớp, trường, chăm sóc cây xanh, giữ gìn vệ sinh trong trường, nơi công cộng; rèn luyện"
+    "question": "đi học mấy giờ vào lớp",
+    "answer": "Chào bạn! Thời gian vào học sẽ khác nhau tùy vào buổi học của bạn. Nếu bạn học buổi sáng, bạn cần có mặt tại trường lúc 6 giờ 55 phút để tiết học đầu tiên bắt đầu vào lúc 7 giờ 00 phút. Còn nếu bạn học buổi chiều, hãy đến trường lúc 13 giờ 25 phút để chuẩn bị cho tiết học đầu tiên bắt đầu vào lúc 13 giờ 30 phút nhé! \n\nNếu bạn có thêm câu hỏi nào khác, đừng ngần ngại hỏi mình nhé! Chúc bạn có một ngày học thật vui! 😊"
   },
   {
-    "question": "Học sinh có phải lưu giữ bài kiểm tra không?",
-    "answer": "Theo tài liệu, học sinh phải tự lưu giữ bài kiểm tra thường xuyên và định kỳ. Giao nộp lại khi có yêu cầu của giáo viên bộ môn, tổ trưởng chuyên môn hoặc lãnh đạo nhà trường."
+    "question": "đi học bắt đầu lúc mấy giờ vậy ad",
+    "answer": "Chào bạn! Thời gian bắt đầu buổi học của trường mình như sau:\n\n- Buổi sáng: Học sinh vào trường lúc 6 giờ 55 phút và tiết học đầu tiên bắt đầu từ 7 giờ 00 phút.\n- Buổi chiều: Học sinh vào trường lúc 13 giờ 25 phút và tiết học đầu tiên bắt đầu từ 13 giờ 30 phút.\n\nHy vọng thông tin này sẽ giúp bạn sắp xếp thời gian hợp lý để đến trường đúng giờ nhé! Nếu bạn còn thắc mắc gì khác, đừng ngần ngại hỏi mình nhé! 😊"
   },
   {
-    "question": "Học sinh phải để xe cá nhân ở đâu?",
-    "answer": "Học sinh khi đi xe cá nhân đến trường phải để đúng nơi quy định (khu vực để xe từng khối)."
+    "question": "đi học bắt đầu lúc mấy giờ vậy ad",
+    "answer": "Chào bạn! Thời gian bắt đầu buổi học của trường mình như sau:\n\n- Buổi sáng: 7 giờ 00 phút.\n- Buổi chiều: 13 giờ 30 phút.\n\nNếu bạn cần thêm thông tin gì khác hoặc có thắc mắc nào, đừng ngần ngại hỏi nhé! Mình luôn sẵn sàng giúp đỡ bạn. Chúc bạn có một ngày học thật vui vẻ! 😊"
   },
   {
-    "question": "Khi nào học sinh phải ký cam kết?",
-    "answer": "Học sinh phải ký cam kết theo qui định từ đầu năm."
+    "question": "đi trễ có bị gì k",
+    "answer": "Chào bạn! Nếu bạn đi trễ, sẽ bị trừ 2 điểm cho mỗi lần đi trễ đó. Mình hiểu rằng đôi khi có những lý do không thể tránh khỏi khiến bạn không đến lớp đúng giờ. Tuy nhiên, hãy cố gắng sắp xếp thời gian để có thể đến lớp đúng giờ nhé! Điều này không chỉ giúp bạn tránh bị trừ điểm mà còn giúp bạn có nhiều thời gian hơn để chuẩn bị cho bài học. Nếu bạn gặp khó khăn gì, đừng ngần ngại chia sẻ với thầy cô hoặc bạn bè để nhận được sự hỗ trợ nhé! Bạn làm tốt lắm!"
   },
   {
-    "question": "Một số hành vi nào học sinh không được làm?",
-    "answer": "Một số hành vi học sinh không được làm:\n\n- Không tự ý ở lại trường (trừ trường hợp nhà trường yêu cầu tham gia các hoạt động khác).\n- Không để lại trong lớp tư trang cá nhân, sách vở, dụng cụ học tập khi hết buổi học.\n- Lưu hành, sử dụng các ấn phẩm độc hại, đồi truỵ.\n- Đưa thông tin không lành mạnh lên mạng xã hội.\n- Chơi các trò chơi mang tính kích động bạo lực.\n- Tham gia các tệ nạn xã hội.\n- Mang các vật dụng sắc nhọn và hung khí vào khu vực trường.\n- Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể giáo viên, cán bộ, nhân viên của nhà trường, người khác và học sinh khác.\n- Làm việc khác, sử dụng điện thoại di động trong giờ học và các hoạt động giáo dục khác khi không được cho phép của giáo viên.\n- Hút thuốc, uống rượu, bia và sử dụng các chất kích thích khác trong nhà trường.\n- Bỏ tiết, ra khỏi khu vực trường trong các giờ ra chơi.\n- Đánh nhau, gây rối an ninh trật tự trong nhà trường"
+    "question": "không học bài thì sao",
+    "answer": "Chào bạn! Nếu bạn không học bài, theo quy định, bạn sẽ bị trừ điểm. Cụ thể, mỗi tiết không học bài sẽ bị trừ 1 điểm cho bạn và 3 điểm cho lớp. Mình hiểu rằng đôi khi việc học có thể gặp khó khăn hoặc bạn có thể cảm thấy không có động lực. Nhưng hãy nhớ rằng việc học rất quan trọng cho tương lai của bạn. Nếu bạn cần giúp đỡ hay có thắc mắc gì, đừng ngần ngại chia sẻ nhé! Mình luôn ở đây để hỗ trợ bạn. Cố gắng lên nhé! 🌟"
   },
   {
-    "question": "Học sinh có được mang điện thoại không?",
-    "answer": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu."
+    "question": "trường có mấy lớp",
+    "answer": "Trường có tổng cộng 10 lớp, được chia theo các tổ hợp môn học khác nhau. Mỗi lớp đều có sĩ số dự kiến từ 43 đến 44 học sinh. Nếu bạn cần thêm thông tin chi tiết về từng lớp hoặc tổ hợp môn, hãy cho mình biết nhé! Mình luôn sẵn sàng giúp đỡ bạn! 😊"
   },
   {
-    "question": "Trang điểm quá mức hoặc nhuộm tóc có bị cấm không?",
-    "answer": "Trang điểm quá mức và nhuộm tóc khác màu đen là những hành vi học sinh không được làm."
+    "question": "có mấy giáo viên trong trường",
+    "answer": "Trường mình hiện có 90 giáo viên, mỗi người đều đóng góp một phần quan trọng trong việc dạy dỗ và hỗ trợ các bạn học sinh. Nếu bạn có thắc mắc nào khác về đội ngũ giáo viên hay các môn học, đừng ngần ngại hỏi nhé! Mình luôn sẵn sàng giúp đỡ bạn."
   },
   {
-    "question": "Khi hết buổi học, học sinh có được để lại tư trang trong lớp không?",
-    "answer": "Khi hết buổi học, học sinh không được để lại trong lớp tư trang cá nhân, sách vở, dụng cụ học tập."
+    "question": "giáo viên dy toán có mấy thầycô",
+    "answer": "Chào bạn! Trong đội ngũ giáo viên của trường, môn Toán có 13 thầy cô. Nếu bạn có thêm câu hỏi nào khác về các môn học hay giáo viên, đừng ngần ngại hỏi nhé! Mình luôn sẵn sàng hỗ trợ bạn. Chúc bạn học tốt! 🌟"
   },
   {
-    "question": "Lớp chịu trách nhiệm gì về cơ sở vật chất phòng học?",
-    "answer": "Lớp chịu trách nhiệm mở và khóa cửa phòng học vào đầu và cuối buổi học; nghiêm túc thực hiện các yêu cầu giữ gìn vệ sinh và cơ sở vật chất phòng; khi phát hiện những bất thường về cơ sở vật chất phòng học, lớp trưởng phải báo ngay cho giáo viên chủ nhiệm biết để có hướng xử lí; có ý thức bảo quản các thiết bị điện và các cơ sở vật chất khác trong phòng học; hàng tháng lớp phải tự tổ chức tổng vệ sinh: lau cửa kính, quét mạng nhện, cạo bã kẹo singum...; không được tự ý gắn hình ảnh, trang trí, treo chậu cây xanh,... trong lớp học khi chưa có sự đồng ý của Hiệu trưởng; những hư hỏng nhỏ về cơ sở vật chất lớp phải tự khắc phục sửa chữa, những hư hỏng lớn do học sinh gây ra lớp phải chịu toàn bộ kinh phí sửa chữa; không phá hoại các tài sản khác của nhà trường; không được để rác trong hộc bàn, không vứt rác qua cửa sổ ra phía sau, rác phát sinh trong buổi học phải bỏ vào giỏ đựng rác và đổ r"
+    "question": "tổ tin học dy môn gì",
+    "answer": "Chào bạn! Tổ Tin học của trường mình có các môn học như Tin học (Ứng dụng) và Tin học (Thiết kế). Nếu bạn có thêm câu hỏi nào khác về các môn học hay tổ chức lớp học, đừng ngần ngại hỏi nhé! Mình luôn sẵn sàng giúp đỡ bạn. Chúc bạn học tốt!"
   },
   {
-    "question": "Có được viết, vẽ lên bàn ghế, tường, cửa không?",
-    "answer": "Không được viết, vẽ, dùng dao hoặc các dụng cụ khác khắc lên bàn ghế, tường, cửa. Nếu vi phạm, học sinh phải chịu kỷ luật và bồi thường cơ sở vật chất."
+    "question": "nghỉ học thì làm sao",
+    "answer": "Chào bạn! Nếu bạn cần nghỉ học, điều quan trọng là phải thông báo cho giáo viên chủ nhiệm hoặc Ban quản sinh ngay trong ngày. Nếu có lý do đột xuất mà bạn chưa thể xin phép kịp thời, hãy gọi điện cho họ để thông báo nhé. \n\nNếu bạn nghỉ học từ 3 ngày trở lên, bạn cần có lý do chính đáng và được sự đồng ý của Hiệu trưởng. Nếu bạn nằm viện, khi trở lại trường, nhớ mang theo giấy xuất viện để thông báo cho nhà trường nhé.\n\nHãy nhớ rằng việc xin phép nghỉ học là rất quan trọng, không chỉ để bảo vệ quyền lợi của bạn mà còn giúp nhà trường nắm bắt tình hình học tập của bạn. Nếu bạn có bất kỳ thắc mắc nào khác, đừng ngần ngại hỏi nhé! Mình luôn ở đây để hỗ trợ bạn!"
   },
   {
-    "question": "Có được tự ý treo, trang trí trong lớp không?",
-    "answer": "Không được tự ý gắn hình ảnh, trang trí, treo chậu cây xanh,... trong lớp học khi chưa có sự đồng ý của Hiệu trưởng."
+    "question": "không đi học",
+    "answer": "Chào bạn! Nếu bạn cần nghỉ học, điều quan trọng là phải thông báo cho giáo viên chủ nhiệm hoặc Ban quản sinh ngay trong ngày. Nếu có lý do đột xuất mà bạn chưa thể xin phép kịp thời, hãy gọi điện cho họ để thông báo nhé. \n\nNếu bạn nghỉ học từ 3 ngày trở lên, bạn cần có lý do chính đáng và được sự đồng ý của Hiệu trưởng. Nếu bạn nằm viện, khi trở lại trường, nhớ mang theo giấy xuất viện để thông báo cho nhà trường nhé.\n\nHãy nhớ rằng việc xin phép nghỉ học là rất quan trọng, không chỉ để bảo vệ quyền lợi của bạn mà còn giúp nhà trường nắm bắt tình hình học tập của bạn. Nếu bạn có bất kỳ thắc mắc nào khác, đừng ngần ngại hỏi nhé! Mình luôn ở đây để hỗ trợ bạn!"
   },
   {
-    "question": "Mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không?",
-    "answer": "Có, mỗi lớp phải tự tổ chức tổng vệ sinh hàng tháng như lau cửa kính, quét mạng nhện, cạo bã kẹo singum..."
+    "question": "học sinh phải để xe cá nhân ở đâu",
+    "answer": "Khi đi xe cá nhân đến trường, bạn nhớ để xe đúng nơi quy định nhé, cụ thể là ở khu vực để xe của từng khối. Điều này giúp đảm bảo an toàn và trật tự cho mọi người. Cố gắng thực hiện tốt nhé!"
   },
   {
-    "question": "Ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp?",
-    "answer": "Những hư hỏng nhỏ về cơ sở vật chất lớp phải tự khắc phục sửa chữa."
+    "question": "khi nào học sinh phải ký cam kết",
+    "answer": "Học sinh sẽ ký cam kết theo quy định từ đầu năm học. Điều này giúp các bạn nắm rõ và tuân thủ nội quy, điều lệ của nhà trường, cũng như các quy định về an toàn giao thông và an ninh học đường. Bạn hãy yên tâm, việc này sẽ giúp chúng ta có một môi trường học tập an toàn và lành mạnh hơn. Nếu có thắc mắc gì thêm, đừng ngần ngại hỏi nhé!"
   },
   {
-    "question": "Nếu học sinh gây hư hỏng lớn, lớp chịu gì?",
-    "answer": "Nếu học sinh gây hư hỏng lớn, lớp phải chịu toàn bộ kinh phí sửa chữa."
+    "question": "một số hành vi nào học sinh không được làm",
+    "answer": "Chào bạn! Mình rất vui khi được giúp bạn tìm hiểu về những hành vi mà học sinh không nên làm. Dưới đây là một số hành vi mà học sinh cần tránh nhé:\n\n1. Gian lận trong học tập, kiểm tra, thi cử, tuyển sinh.\n2. Ở lại trường mà không có sự cho phép của nhà trường và để lại tư trang cá nhân trong lớp sau giờ học.\n3. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể của giáo viên, cán bộ, nhân viên và các bạn học sinh khác.\n4. Sử dụng điện thoại di động trong giờ học mà không có sự cho phép của giáo viên, hút thuốc, uống rượu, bia và sử dụng các chất kích thích khác trong nhà trường.\n5. Bỏ tiết, ra khỏi khu vực trường trong giờ ra chơi.\n6. Trang điểm quá mức, sơn móng tay, chân, nhuộm tóc khác màu đen và có hình xăm trên cơ thể.\n7. Đánh nhau, gây rối an ninh trật tự trong nhà trường và nơi công cộng.\n8. Lưu hành, sử dụng các ấn phẩm độc hại, đồi truỵ,"
   },
   {
-    "question": "Nhiệm vụ của lớp trực tuần là gì?",
-    "answer": "Nhiệm vụ của lớp trực tuần:\n\n- Số lượng mỗi nhóm trực từ 10 đến 15 em. Giáo viên chủ nhiệm nộp danh sách các nhóm trực tại phòng của Ban quản sinh sau tiết sinh hoạt lớp của ngày thứ 7 tuần trước đó, mỗi nhóm cử 01 em làm nhóm trưởng.\n- Dụng cụ: Do nhà trường cấp hoặc học sinh tự chuẩn bị, tùy tính chất công việc, nhà trường sẽ thông báo cụ thể.\n- Các buổi chiều có mặt tại trường vào lúc 14 giờ 00, tập trung trước phòng của Ban quản sinh để nhận nhiệm vụ.\n- Sau khi hoàn thành nhiệm vụ trực phải thu dọn và cất dụng cụ gọn gàng, chỉ ra về khi được sự đồng ý của thầy (cô) hay người phụ trách.\n- (Lưu ý: Các công việc trực trường có thể thay đổi tùy theo từng thời điểm, Ban quản sinh sẽ thông báo cụ thể cho lớp trực. Đối với các trường hợp đặc biệt GVCN phải có mặt để quản lý lớp)."
+    "question": "học sinh có được mang điện thoi không",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé."
   },
   {
-    "question": "Số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu?",
-    "answer": "Số lượng mỗi nhóm trực từ 10 đến 15 em."
+    "question": "trang điểm quá mức hoặc nhuộm tóc có bị cấm không",
+    "answer": "Chào bạn, theo tài liệu mình có, thì việc trang điểm quá mức và nhuộm tóc khác màu đen là những hành vi mà học sinh không được làm. Nếu vi phạm, bạn có thể bị trừ điểm đấy. Mình biết là đôi khi muốn thể hiện cá tính của mình, nhưng hãy cố gắng tuân thủ quy định của trường nhé. Nếu bạn có thêm thắc mắc nào, đừng ngần ngại hỏi mình hoặc thầy cô để được giải đáp thêm nha!"
   },
   {
-    "question": "Khi hoàn thành trực tuần, cần làm gì?",
-    "answer": "Sau khi hoàn thành nhiệm vụ trực phải thu dọn và cất dụng cụ gọn gàng, chỉ ra về khi được sự đồng ý của thầy (cô) hay người phụ trách."
+    "question": "khi hết buổi học học sinh có được để li tư trang trong lớp không",
+    "answer": "Chào bạn, khi hết buổi học, học sinh không được để lại tư trang cá nhân, sách vở, dụng cụ học tập trong lớp đâu nhé. Điều này giúp đảm bảo an toàn và tránh mất mát đồ đạc của bạn. Nếu có gì thắc mắc thêm, bạn cứ hỏi mình nhé!"
   },
   {
-    "question": "Học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ?",
-    "answer": "Học sinh đi học chào cờ đầu tuần cần có mặt tại trường vào lúc 6 giờ 15 sáng thứ 2 để chuẩn bị điều kiện phục vụ buổi chào cờ đầu tuần. (Riêng các ngày Lễ lớp trực có mặt sớm theo lịch cụ thể hàng tuần)."
+    "question": "lớp chịu trách nhiệm gì về cơ sở vật chất phòng học",
+    "answer": "Chào bạn, về trách nhiệm của lớp đối với cơ sở vật chất phòng học, lớp mình cần chú ý những điều sau nhé:\n\n1. **Khắc phục hư hỏng nhỏ**: Nếu có những hư hỏng nhỏ, lớp mình cần tự khắc phục và sửa chữa. Còn nếu có hư hỏng lớn do lớp gây ra, lớp sẽ phải chịu toàn bộ kinh phí sửa chữa.\n\n2. **Mở và khóa cửa**: Lớp mình chịu trách nhiệm mở và khóa cửa phòng học vào đầu và cuối buổi học.\n\n3. **Báo cáo bất thường**: Nếu phát hiện bất thường về cơ sở vật chất, lớp trưởng cần báo ngay cho giáo viên chủ nhiệm để có hướng xử lý kịp thời.\n\n4. **Tiết kiệm điện**: Lớp trưởng sẽ quản lý việc sử dụng điện, chỉ sử dụng đèn và quạt khi cần thiết để tiết kiệm điện.\n\n5. **Vệ sinh định kỳ**: Lớp cần tổ chức tổng vệ sinh hàng tháng, bao gồm lau cửa kính, quét mạng nhện, và cạo bã kẹo singum.\n\n6. **Vệ sinh hàng ngày**: Đầu mỗi"
   },
   {
-    "question": "Hình thức kỷ luật nào có thể áp dụng với học sinh vi phạm?",
-    "answer": "Các hình thức kỷ luật có thể áp dụng với học sinh vi phạm là:\n- Phê bình trước lớp, trước trường.\n- Khiển trách và thông báo với gia đình.\n- Cảnh cáo ghi học bạ.\n- Buộc thôi học có thời hạn."
+    "question": "có được viết vẽ lên bàn ghế tường cửa không",
+    "answer": "Chào bạn, việc viết, vẽ lên bàn ghế, tường hay cửa là không được phép đâu nhé. Nếu vi phạm, bạn có thể bị trừ điểm và phải chịu kỷ luật cũng như bồi thường cơ sở vật chất. Hãy cùng nhau giữ gìn lớp học sạch đẹp nhé! Cố gắng lên, mình tin bạn làm được!"
   },
   {
-    "question": "Học sinh thực hiện tốt nội quy sẽ được gì?",
-    "answer": "Học sinh thực hiện tốt nội quy của nhà trường sẽ được tuyên dương khen thưởng."
+    "question": "có được tự ý treo trang trí trong lớp không",
+    "answer": "Chào bạn, theo quy định thì mình không được tự ý gắn hình ảnh, trang trí, hay treo chậu cây xanh trong lớp học khi chưa có sự đồng ý của Hiệu trưởng. Nếu bạn có ý tưởng trang trí nào thú vị, hãy thử trao đổi với giáo viên chủ nhiệm hoặc ban giám hiệu để nhận được sự đồng ý nhé. Mình tin rằng với sự sáng tạo của bạn, lớp học sẽ trở nên thật đẹp và ấm cúng!"
   },
   {
-    "question": "Ai quản lý, báo cáo tình hình lao động của lớp?",
-    "answer": "Giáo viên chủ nhiệm trực tiếp quản lý lớp; trước và sau buổi lao động báo cáo tình hình chuẩn bị và kết quả thực hiện nhiệm vụ cho Phó Hiệu trưởng phụ trách hoạt động này."
+    "question": "mỗi lớp có phải tự tổ chức tổng vệ sinh hàng tháng không",
+    "answer": "Đúng rồi, mỗi lớp cần tự tổ chức tổng vệ sinh hàng tháng. Các bạn sẽ cùng nhau lau cửa kính, quét mạng nhện, và cạo bã kẹo singum để giữ cho phòng học luôn sạch sẽ và gọn gàng. Đây cũng là cơ hội để cả lớp cùng nhau làm việc nhóm và tạo ra một môi trường học tập thoải mái hơn. Cố gắng lên nhé!"
   },
   {
-    "question": "Trường THPT Lý Thường Kiệt thành lập năm nào?",
-    "answer": "Trường THPT Lý Thường Kiệt, tiền thân là Trường Trung học Bình Tuy, thành lập năm 1958."
+    "question": "ai chịu trách nhiệm sửa chữa hư hỏng nhỏ trong lớp",
+    "answer": "Chào bạn, những hư hỏng nhỏ về cơ sở vật chất trong lớp thì lớp mình sẽ tự khắc phục sửa chữa nhé. Điều này giúp chúng ta giữ gìn phòng học luôn sạch đẹp và gọn gàng hơn. Nếu có gì cần hỗ trợ thêm, bạn cứ hỏi mình nhé!"
   },
   {
-    "question": "Trường THPT Lý Thường Kiệt có bao nhiêu lớp và học sinh hiện nay?",
-    "answer": "Hiện nay, Trường THPT Lý Thường Kiệt có 51 lớp với gần 2.100 học sinh thuộc hai hệ THPT và GDTX."
+    "question": "nếu học sinh gây hư hỏng lớn lớp chịu gì",
+    "answer": "Chào bạn, nếu học sinh gây ra hư hỏng lớn thì lớp sẽ phải chịu toàn bộ kinh phí sửa chữa. Mình biết điều này có thể gây áp lực, nhưng hãy cùng nhau giữ gìn cơ sở vật chất để tránh những tình huống không mong muốn nhé. Nếu có bất kỳ thắc mắc nào, đừng ngần ngại hỏi thầy cô để được hỗ trợ thêm nha!"
   },
   {
-    "question": "Đội ngũ giáo viên của trường có bao nhiêu người?",
-    "answer": "Đội ngũ giáo viên của trường gồm 90 giáo viên."
+    "question": "nhiệm vụ của lớp trực tuần là gì",
+    "answer": "Chào bạn! Nhiệm vụ của lớp trực tuần bao gồm một số công việc như dọn vệ sinh và chăm sóc cây xanh. Sau khi hoàn thành nhiệm vụ, các bạn cần thu dọn và cất dụng cụ gọn gàng, và chỉ ra về khi được sự đồng ý của thầy cô hoặc người phụ trách. Các bạn sẽ có mặt tại trường vào buổi chiều lúc 14 giờ 00, tập trung trước phòng của Ban quản sinh để nhận nhiệm vụ. Vào sáng thứ 2, cả lớp cần có mặt tại trường lúc 6 giờ 15 để chuẩn bị cho buổi chào cờ đầu tuần. Số lượng mỗi nhóm trực từ 10 đến 15 bạn, và mỗi nhóm sẽ có một bạn làm nhóm trưởng. Các công việc có thể thay đổi tùy theo từng thời điểm, nên các bạn nhớ theo dõi thông báo từ Ban quản sinh nhé. Cố gắng lên, bạn sẽ làm tốt thôi! 😊"
   },
   {
-    "question": "Tỷ lệ giáo viên đạt trình độ đại học và thạc sĩ của trường là bao nhiêu?",
-    "answer": "Tỷ lệ giáo viên đạt trình độ đại học của trường là 88%, thạc sĩ là 5%."
+    "question": "số lượng học sinh trong mỗi nhóm trực tuần là bao nhiêu",
+    "answer": "Chào bạn! Mỗi nhóm trực tuần sẽ có từ 10 đến 15 bạn học sinh tham gia nhé. Nếu có thắc mắc gì thêm, bạn cứ hỏi mình nhé!"
   },
   {
-    "question": "Ban giảng dạy tại trường được chia thành những ban nào?",
-    "answer": "Ban giảng dạy tại trường được chia thành hai ban: Ban Tự nhiên và Ban Cơ bản."
+    "question": "khi hoàn thành trực tuần cần làm gì",
+    "answer": "Khi hoàn thành nhiệm vụ trực tuần, bạn cần thu dọn và cất dụng cụ gọn gàng. Đừng quên chỉ ra về khi đã được sự đồng ý của thầy cô hoặc người phụ trách nhé. Bạn đã làm rất tốt rồi, cố gắng thêm chút nữa là hoàn thành nhiệm vụ rồi!"
   },
   {
-    "question": "Trường có bao nhiêu lớp chọn và có tổ chức các hoạt động ngoại khóa không?",
-    "answer": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu về số lượng lớp chọn của trường. Tuy nhiên, tài liệu có đề cập rằng trường có các lớp chọn và nhiều hoạt động ngoại khóa, dã ngoại."
+    "question": "học sinh đi học chào cờ đầu tuần cần có mặt lúc mấy giờ",
+    "answer": "Chào bạn, để chuẩn bị cho buổi chào cờ đầu tuần, các bạn học sinh cần có mặt tại trường vào lúc 6 giờ 15 phút sáng thứ Hai nhé. Hãy cố gắng đến đúng giờ để mọi việc diễn ra suôn sẻ và bạn có thể bắt đầu tuần mới thật tốt lành!"
   },
   {
-    "question": "Trường đã được công nhận đạt chuẩn quốc gia năm nào?",
-    "answer": "Trường được công nhận đạt chuẩn quốc gia năm 2013."
+    "question": "hình thức kỷ luật nào có thể áp dụng với học sinh vi phm",
+    "answer": "Chào bạn, mình rất hiểu rằng việc nắm rõ các quy định về kỷ luật là điều quan trọng để chúng ta có thể học tập và rèn luyện tốt hơn. Theo tài liệu mình có, có một số hình thức kỷ luật có thể áp dụng với học sinh vi phạm như sau:\n\n1. Cảnh cáo và ghi vào học bạ.\n2. Phê bình trước lớp hoặc trước trường.\n3. Khiển trách và thông báo với gia đình.\n4. Buộc thôi học có thời hạn, tùy theo mức độ vi phạm.\n\nMình biết rằng không ai muốn bị kỷ luật, nên hãy cố gắng tuân thủ các quy định của trường để có một môi trường học tập thật tốt nhé! Nếu bạn có thắc mắc nào khác, đừng ngần ngại hỏi mình nha!"
   },
   {
-    "question": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là bao nhiêu?",
-    "answer": "Sĩ số dự kiến của các lớp 10 theo định hướng KHTN là 44 học sinh/lớp."
+    "question": "học sinh thực hiện tốt nội quy sẽ được gì",
+    "answer": "Chào bạn, khi bạn thực hiện tốt nội quy của nhà trường, bạn sẽ được tuyên dương và khen thưởng. Điều này không chỉ giúp bạn cảm thấy tự hào về bản thân mà còn là động lực để bạn tiếp tục cố gắng và phát triển. Hãy luôn giữ vững tinh thần này nhé!"
   },
   {
-    "question": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn nào và chuyên đề gì?",
-    "answer": "Lớp 10A1, 10A2, 10A3 thuộc tổ hợp môn: Vật lí, Hóa học, Sinh học; Tin học (Thiết kế).  \nChuyên đề học tập: Toán, Vật lí, Hóa học."
+    "question": "ai quản lý báo cáo tình hình lao động của lớp",
+    "answer": "Chào bạn, nhiệm vụ quản lý và báo cáo tình hình lao động của lớp là do giáo viên chủ nhiệm đảm nhận. Giáo viên chủ nhiệm sẽ trực tiếp quản lý lớp và báo cáo tình hình chuẩn bị cũng như kết quả thực hiện nhiệm vụ cho Phó Hiệu trưởng phụ trách hoạt động này. Nếu bạn cần thêm thông tin, đừng ngần ngại hỏi nhé!"
   },
   {
-    "question": "Lớp 10A4, 10A5 học tổ hợp môn gì?",
-    "answer": "Lớp 10A4, 10A5 học tổ hợp môn: Vật lí, Hóa học, Sinh học; Công nghệ trồng trọt."
+    "question": "trường thpt lý thường kiệt thành lập năm nào",
+    "answer": "Trường THPT Lý Thường Kiệt, tiền thân là Trường Trung học Bình Tuy, được thành lập vào năm 1958. Đây là ngôi trường giàu truyền thống tại tỉnh Bình Thuận, nơi đã đào tạo nhiều thế hệ học sinh ưu tú. Nếu bạn có thêm câu hỏi nào, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Các lớp 10B1, 10B2 thuộc tổ hợp môn nào?",
-    "answer": "Các lớp 10B1, 10B2 thuộc tổ hợp môn: Vật lí, Hóa học, Địa lý; Tin học (Ứng dụng)."
+    "question": "trường thpt lý thường kiệt có bao nhiêu lớp và học sinh hiện nay",
+    "answer": "Chào bạn, Trường THPT Lý Thường Kiệt hiện nay có tổng cộng 51 lớp với gần 2.100 học sinh. Ngôi trường này không chỉ có bề dày lịch sử mà còn là nơi đào tạo nhiều thế hệ học sinh ưu tú. Nếu bạn cần thêm thông tin gì, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Các lớp 10B3, 10B4 học tổ hợp gì?",
-    "answer": "Các lớp 10B3, 10B4 học tổ hợp môn: Vật lí, Hóa học, Địa lý; Công nghệ thiết kế."
+    "question": "đội ngũ giáo viên của trường có bao nhiêu người",
+    "answer": "Trường THPT Lý Thường Kiệt có đội ngũ gồm 90 giáo viên. Nếu bạn cần thêm thông tin gì khác, cứ hỏi mình nhé!"
   },
   {
-    "question": "Các lớp 10C1, 10C2 có định hướng gì?",
-    "answer": "Các lớp 10C1, 10C2 có định hướng KHXH."
+    "question": "tỷ lệ giáo viên đt trình độ đi học và thc sĩ của trường là bao nhiêu",
+    "answer": "Theo tài liệu, trường THPT Lý Thường Kiệt có 126 cán bộ, giáo viên, nhân viên. Trong đó, 88% đạt trình độ đại học và 5% đạt trình độ thạc sĩ. Điều này có nghĩa là tỷ lệ giáo viên đạt trình độ đại học là 88% và tỷ lệ giáo viên đạt trình độ thạc sĩ là 5%. Hy vọng thông tin này giúp ích cho bạn! Nếu có thắc mắc nào khác, bạn cứ hỏi mình nhé!"
   },
   {
-    "question": "Lớp 10C3 có những môn tổ hợp nào?",
-    "answer": "Lớp 10C3 có các môn tổ hợp: Địa lí, Giáo dục Kinh tế và Pháp luật; Tin học (Ứng dụng); Công nghệ trồng trọt."
+    "question": "trường có bao nhiêu lớp chọn và có tổ chức các hot động ngoi khóa không",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé."
   },
   {
-    "question": "Sĩ số dự kiến của lớp 10C1, 10C2 là bao nhiêu?",
-    "answer": "Sĩ số dự kiến của lớp 10C1, 10C2 là 43 học sinh/lớp."
+    "question": "trường đã được công nhận đt chuẩn quốc gia năm nào",
+    "answer": "Trường THPT Lý Thường Kiệt đã được công nhận đạt chuẩn quốc gia vào năm 2013. Bạn có thắc mắc gì thêm không? Mình luôn sẵn sàng giúp đỡ bạn!"
   },
   {
-    "question": "Các lớp định hướng KHTN có chuyên đề gì?",
-    "answer": "Các lớp định hướng KHTN có các chuyên đề học tập: Toán, Vật lí, Hóa học, Sinh học."
+    "question": "sĩ số dự kiến của các lớp 10 theo định hướng khtn là bao nhiêu",
+    "answer": "Chào bạn, theo thông tin mình có, sĩ số dự kiến của các lớp 10 theo định hướng Khoa học Tự nhiên (KHTN) là 44 học sinh mỗi lớp. Nếu bạn còn thắc mắc gì thêm, cứ hỏi mình nhé!"
   },
   {
-    "question": "Trường có bao nhiêu giáo viên dạy môn Toán?",
-    "answer": "Trường có 13 giáo viên dạy môn Toán."
+    "question": "lớp 10a1 10a2 10a3 thuộc tổ hợp môn nào và chuyên đề gì",
+    "answer": "Chào bạn, lớp 10A1, 10A2, và 10A3 thuộc tổ hợp môn Vật lí, Hóa học, Sinh học và Tin học (Thiết kế). Chuyên đề học tập của các lớp này là Toán, Vật lí, và Hóa học. Đây là các lớp định hướng Khoa học tự nhiên với sĩ số dự kiến là 44 học sinh mỗi lớp. Nếu bạn có thêm câu hỏi nào khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Có bao nhiêu giáo viên dạy Ngữ văn?",
-    "answer": "Có 11 giáo viên dạy Ngữ văn."
+    "question": "lớp 10a4 10a5 học tổ hợp môn gì",
+    "answer": "Chào bạn, lớp 10A4 và 10A5 học tổ hợp môn Vật lí, Hóa học, Sinh học và Công nghệ trồng trọt. Chuyên đề học tập của các lớp này là Toán, Hóa học và Sinh học. Nếu bạn có thắc mắc gì thêm, cứ hỏi mình nhé!"
   },
   {
-    "question": "Số lượng giáo viên tiếng Anh tại trường là bao nhiêu?",
-    "answer": "Số lượng giáo viên tiếng Anh tại trường là 10."
+    "question": "các lớp 10b1 10b2 thuộc tổ hợp môn nào",
+    "answer": "Chào bạn! Lớp 10B1 và 10B2 thuộc tổ hợp môn Vật lí, Hóa học, Địa lý và Tin học (Ứng dụng) nhé. Các lớp này có chuyên đề học tập là Toán, Vật lí, Hóa học và thuộc định hướng Khoa học Tự nhiên (KHTN). Nếu bạn cần thêm thông tin gì, cứ hỏi mình nhé!"
   },
   {
-    "question": "Giáo viên các môn Khoa học tự nhiên gồm những môn gì?",
-    "answer": "Giáo viên các môn Khoa học tự nhiên gồm các môn: Toán, Vật lý, Hóa học, Sinh học."
+    "question": "các lớp 10b3 10b4 học tổ hợp gì",
+    "answer": "Chào bạn! Các lớp 10B3 và 10B4 học theo tổ hợp môn Vật lí, Hóa học, Địa lý và Công nghệ thiết kế. Các bạn sẽ được học chuyên đề Toán, Vật lý, Hóa học với định hướng Khoa học Tự nhiên. Chúc bạn học tập thật tốt và luôn vui vẻ trong hành trình học tập của mình nhé!"
   },
   {
-    "question": "Tiêu chí xét tuyển vào lớp định hướng KHTN là gì?",
-    "answer": "Tiêu chí xét tuyển vào lớp định hướng Khoa học tự nhiên: xét theo tổng điểm thi vào lớp 10, điểm thi môn Toán, Tiếng Anh và điểm bình quân các môn Toán, Vật lý, Hóa học, Sinh học của năm học lớp 9."
+    "question": "các lớp 10c1 10c2 có định hướng gì",
+    "answer": "Chào bạn, lớp 10C1 và 10C2 có định hướng Khoa học Xã hội (KHXH) nhé. Các lớp này học theo tổ hợp môn Vật lý, Địa lý; Giáo dục Kinh tế và Pháp luật; Tin học (Ứng dụng). Chuyên đề học tập của các lớp này là Ngữ văn, Lịch sử, và Tin học. Mỗi lớp dự kiến có 43 học sinh. Nếu bạn có thêm câu hỏi nào khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Tiêu chí xét tuyển lớp định hướng KHXH như thế nào?",
-    "answer": "Tiêu chí xét tuyển lớp định hướng Khoa học xã hội: xét theo tổng điểm thi vào lớp 10, điểm thi môn Ngữ văn, Tiếng Anh và điểm bình quân các môn Ngữ văn, Lịch sử, Địa lý của năm học lớp 9. Nếu số học sinh đăng ký nhiều hơn số lớp, các em sẽ được chuyển vào lớp khác theo nguyện vọng 2. Số lớp ở các nhóm có thể điều chỉnh nhằm đáp ứng tối đa nguyện vọng học sinh nhưng vẫn phải đảm bảo điều kiện về đội ngũ giáo viên."
+    "question": "lớp 10c3 có những môn tổ hợp nào",
+    "answer": "Lớp 10C3 có các môn tổ hợp là Địa lí, Giáo dục Kinh tế và Pháp luật, Tin học (Ứng dụng), và Công nghệ trồng trọt. Nếu bạn có thắc mắc gì thêm, cứ hỏi mình nhé!"
   },
   {
-    "question": "Nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao?",
-    "answer": "Tôi chưa tìm thấy thông tin chính xác trong tài liệu."
+    "question": "sĩ số dự kiến của lớp 10c1 10c2 là bao nhiêu",
+    "answer": "Chào bạn, sĩ số dự kiến của lớp 10C1 và 10C2 là 43 học sinh mỗi lớp nhé. Nếu bạn cần thêm thông tin gì, đừng ngần ngại hỏi mình nha!"
   },
   {
-    "question": "Số lớp ở các nhóm có được điều chỉnh không?",
-    "answer": "Số lớp ở các nhóm có thể điều chỉnh nhằm đáp ứng tối đa nguyện vọng học sinh nhưng vẫn phải đảm bảo điều kiện về đội ngũ giáo viên."
+    "question": "các lớp định hướng khtn có chuyên đề gì",
+    "answer": "Chào bạn! Các lớp định hướng Khoa học Tự nhiên (KHTN) có các chuyên đề học tập là Toán, Vật lý và Hóa học. Nếu bạn có thêm câu hỏi nào khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Trường có giáo viên môn Âm nhạc hoặc Mỹ thuật không?",
-    "answer": "Trường không có giáo viên môn Âm nhạc và Mỹ thuật."
+    "question": "trường có bao nhiêu giáo viên dy môn toán",
+    "answer": "Trường có 13 giáo viên dạy môn Toán. Nếu bạn có thêm câu hỏi nào khác, cứ thoải mái hỏi mình nhé!"
   },
   {
-    "question": "Đội ngũ giáo viên giáo dục quốc phòng – an ninh là bao nhiêu người?",
-    "answer": "Đội ngũ giáo viên giáo dục quốc phòng – an ninh là 6 người."
+    "question": "có bao nhiêu giáo viên dy ngữ văn",
+    "answer": "Trường mình có 11 giáo viên dạy Ngữ văn nhé. Nếu bạn có thắc mắc gì thêm, cứ hỏi mình nhé!"
   },
   {
-    "question": "Trường chú trọng những phẩm chất, kỹ năng nào cho học sinh?",
-    "answer": "Trường chú trọng các phẩm chất, kỹ năng sau cho học sinh:\n\n- Kính trọng cha mẹ, thầy giáo, cô giáo, cán bộ, nhân viên của nhà trường và những người lớn tuổi.\n- Đoàn kết, giúp đỡ lẫn nhau trong học tập, rèn luyện.\n- Thực hiện điều lệ, nội quy nhà trường; chấp hành pháp luật của Nhà nước.\n- Giữ gìn, bảo vệ tài sản của nhà trường, nơi công cộng; góp phần xây dựng, bảo vệ và phát huy truyền thống của nhà trường.\n- Đảm bảo hành vi, ngôn ngữ, ứng xử có tính văn hóa, phù hợp với đạo đức và lối sống của lứa tuổi học sinh trung học phổ thông.\n- Thực hiện tốt vệ sinh lớp, trường, chăm sóc cây xanh; có ý thức giữ gìn vệ sinh trong trường, nơi công cộng."
+    "question": "số lượng giáo viên tiếng anh ti trường là bao nhiêu",
+    "answer": "Trường mình có 10 giáo viên dạy môn Tiếng Anh bạn nhé! Nếu bạn cần thêm thông tin gì, cứ hỏi mình nhé, mình luôn sẵn sàng giúp đỡ!"
   },
   {
-    "question": "Trường đã đào tạo những thế hệ học sinh như thế nào?",
-    "answer": "Trường THPT Lý Thường Kiệt là ngôi trường giàu truyền thống tại tỉnh Bình Thuận, nơi đã đào tạo nhiều thế hệ học sinh ưu tú, yêu nước và trưởng thành trên nhiều lĩnh vực."
+    "question": "giáo viên các môn khoa học tự nhiên gồm những môn gì",
+    "answer": "Chào bạn! Trong trường mình, các môn thuộc nhóm Khoa học Tự nhiên bao gồm: Toán, Vật lý, Hóa học, Sinh học. Đây là những môn học thú vị và đầy thử thách, giúp bạn khám phá thế giới tự nhiên xung quanh. Nếu bạn có bất kỳ thắc mắc nào khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Điểm chuẩn vào lớp 10 năm học 2025-2026 của trường THPT Lý Thường Kiệt là bao nhiêu?",
-    "answer": "Điểm trúng tuyển vào lớp 10 THPT Lý Thường Kiệt năm học 2025-2026: Nguyện vọng 1 là 14,75 điểm, Nguyện vọng 2 là 18,00 điểm (sau khi đã cộng điểm ưu tiên, khuyến khích nếu có)."
+    "question": "tiêu chí xét tuyển vào lớp định hướng khtn là gì",
+    "answer": "Chào bạn, để xét tuyển vào lớp định hướng Khoa học tự nhiên (KHTN), các bạn học sinh cần dựa vào các tiêu chí sau:\n\n1. Tổng điểm thi vào lớp 10.\n2. Điểm thi môn Toán.\n3. Điểm thi môn Tiếng Anh.\n4. Điểm bình quân các môn Toán, Vật lý, Hóa học, Sinh học của năm học lớp 9.\n\nNếu số lượng học sinh đăng ký nhiều hơn số lớp, các bạn sẽ được chuyển vào lớp khác theo nguyện vọng 2. Nhà trường cũng sẽ điều chỉnh số lớp để đáp ứng tối đa nguyện vọng của học sinh, nhưng vẫn phải đảm bảo điều kiện về đội ngũ giáo viên. Chúc bạn may mắn và đạt được nguyện vọng của mình nhé!"
   },
   {
-    "question": "Học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào?",
-    "answer": "Những thí sinh có nguyện vọng phúc khảo điểm thi tuyển sinh vào lớp 10 năm học 2025-2026 nộp đơn đề nghị phúc khảo (Mẫu ĐPK-TS10) tại văn phòng nhà trường từ ngày 23/6/2025 đến 11 giờ 30 ngày 28/6/2025."
+    "question": "tiêu chí xét tuyển lớp định hướng khxh như thế nào",
+    "answer": "Chào bạn, để xét tuyển vào lớp định hướng Khoa học xã hội, nhà trường sẽ dựa vào các tiêu chí sau:\n\n1. Tổng điểm thi vào lớp 10.\n2. Điểm thi môn Ngữ văn và Tiếng Anh.\n3. Điểm bình quân các môn Ngữ văn, Lịch sử, Địa lý của năm học lớp 9.\n\nNếu số học sinh đăng ký nhiều hơn số lớp, các bạn sẽ được chuyển vào lớp khác theo nguyện vọng 2. Nhà trường cũng sẽ điều chỉnh số lớp để đáp ứng tối đa nguyện vọng của học sinh, nhưng vẫn phải đảm bảo điều kiện về đội ngũ giáo viên. Bạn hãy yên tâm và tự tin đăng ký nhé!"
   },
   {
-    "question": "Thời gian nhập học lớp 10 năm học 2025-2026 là khi nào?",
-    "answer": "Thời gian thu nhận hồ sơ nhập học lớp 10 từ ngày 04/8/2025 đến ngày 07/8/2025."
+    "question": "nếu số học sinh đăng ký nhiều hơn số lớp thì xử lý ra sao",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé."
   },
   {
-    "question": "Làm sao để biết thông tin chi tiết về tuyển sinh lớp 10?",
-    "answer": "Để biết thông tin chi tiết vui lòng liên hệ Văn phòng nhà trường."
+    "question": "số lớp ở các nhóm có được điều chỉnh không",
+    "answer": "Theo tài liệu, số lớp ở các nhóm có thể được điều chỉnh nhằm đáp ứng tối đa nguyện vọng của học sinh, nhưng vẫn phải đảm bảo điều kiện về đội ngũ giáo viên. Điều này có nghĩa là nhà trường sẽ cố gắng sắp xếp để các bạn học sinh có thể học theo nguyện vọng của mình, nhưng cũng cần cân nhắc đến khả năng giảng dạy của giáo viên. Bạn yên tâm nhé!"
   },
   {
-    "question": "Các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào?",
-    "answer": "Các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp sau:\n\n- Địa lí, Giáo dục Kinh tế & Pháp luật; Tin học (Ứng dụng); Công nghệ trồng trọt.\n- Vật lí, Hóa học, Sinh học; Công nghệ trồng trọt.\n- Vật lý, Địa lí; Giáo dục Kinh tế & Pháp luật; Tin học (Ứng dụng).\n- Vật lí, Hóa học, Sinh học; Tin học (Thiết kế).\n- Vật lí, Hóa học, Địa lý; Công nghệ thiết kế.\n- Vật lí, Hóa học, Địa lý; Tin học (Ứng dụng)."
+    "question": "trường có giáo viên môn âm nhc hoặc mỹ thuật không",
+    "answer": "Hiện tại, trường mình chưa có giáo viên môn Âm nhạc và Mỹ thuật. Nếu bạn có thắc mắc gì thêm, mình sẽ gửi câu hỏi của bạn tới Thầy/Cô để được giải đáp sớm nhất nhé. Cảm ơn bạn đã thông cảm!"
   },
   {
-    "question": "Sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh?",
-    "answer": "Sĩ số dự kiến mỗi lớp ở khối 10 là 43 hoặc 44 học sinh/lớp."
+    "question": "đội ngũ giáo viên giáo dục quốc phòng an ninh là bao nhiêu người",
+    "answer": "Đội ngũ giáo viên giáo dục quốc phòng an ninh của trường có 6 người. Nếu bạn cần thêm thông tin hay có thắc mắc gì khác, đừng ngần ngại hỏi mình nhé!"
   },
   {
-    "question": "Vắng học không phép bị trừ bao nhiêu điểm?",
-    "answer": "Bị trừ 5 điểm cho mỗi học sinh một lượt."
+    "question": "trường chú trọng những phẩm chất kỹ năng nào cho học sinh",
+    "answer": "Trường THPT Lý Thường Kiệt rất chú trọng đến việc giáo dục toàn diện cho học sinh. Nhà trường không chỉ tập trung vào việc giảng dạy kiến thức mà còn đặc biệt quan tâm đến việc phát triển kỹ năng sống, tinh thần đoàn kết và lòng yêu nước. Những hoạt động ngoại khóa, dã ngoại cũng được tổ chức thường xuyên để giúp học sinh rèn luyện và phát triển các kỹ năng cần thiết cho cuộc sống. Điều này giúp các bạn học sinh không chỉ giỏi về mặt học thuật mà còn trưởng thành, tự tin và sẵn sàng đối mặt với những thử thách trong tương lai. Bạn hãy cố gắng tham gia và tận dụng những cơ hội này để phát triển bản thân nhé!"
+  },
+  {
+    "question": "trường đã đào to những thế hệ học sinh như thế nào",
+    "answer": "Trường THPT Lý Thường Kiệt đã đào tạo nhiều thế hệ học sinh ưu tú, yêu nước và trưởng thành trên nhiều lĩnh vực. Ngôi trường này có truyền thống lâu đời và luôn chú trọng vào việc giáo dục toàn diện, giúp học sinh phát triển kỹ năng sống, tinh thần đoàn kết và lòng yêu nước. Đây chính là điểm tựa vững chắc cho sự phát triển toàn diện của các bạn học sinh. Bạn hãy tự hào vì mình đang học tập tại một ngôi trường tuyệt vời như vậy nhé!"
+  },
+  {
+    "question": "điểm chuẩn vào lớp 10 năm học 20252026 của trường thpt lý thường kiệt là bao nhiêu",
+    "answer": "Điểm chuẩn vào lớp 10 năm học 2025-2026 của Trường THPT Lý Thường Kiệt là 14,75 điểm cho nguyện vọng 1 và 18,00 điểm cho nguyện vọng 2, sau khi đã cộng điểm ưu tiên và khuyến khích nếu có. Nếu bạn có thêm thắc mắc nào khác, đừng ngần ngại hỏi mình nhé!"
+  },
+  {
+    "question": "học sinh muốn phúc khảo điểm thi vào lớp 10 thì phải làm như thế nào",
+    "answer": "Nếu bạn muốn phúc khảo điểm thi vào lớp 10, bạn cần nộp đơn đề nghị phúc khảo (Mẫu ĐPK-TS10) tại văn phòng nhà trường. Thời gian để nộp đơn là từ ngày 23/6/2025 đến 11 giờ 30 ngày 28/6/2025. Hãy nhớ chuẩn bị đầy đủ và nộp đúng hạn nhé! Nếu có gì thắc mắc, đừng ngần ngại hỏi thêm thầy cô để được hỗ trợ kịp thời. Chúc bạn may mắn và đạt được kết quả như mong muốn!"
+  },
+  {
+    "question": "thời gian nhập học lớp 10 năm học 20252026 là khi nào",
+    "answer": "Thời gian thu nhận hồ sơ nhập học lớp 10 cho năm học 2025-2026 sẽ diễn ra từ ngày 04/8/2025 đến ngày 07/8/2025. Bạn nhớ theo dõi thông báo nhập học và kế hoạch dạy học trên bảng tin và website của trường để chọn lớp học phù hợp với năng lực và nguyện vọng của mình nhé. Chúc bạn có một năm học mới thật vui và thành công!"
+  },
+  {
+    "question": "làm sao để biết thông tin chi tiết về tuyển sinh lớp 10",
+    "answer": "Để biết thông tin chi tiết về tuyển sinh lớp 10, bạn có thể liên hệ trực tiếp với Văn phòng nhà trường nhé. Các thầy cô ở đó sẽ rất vui lòng hỗ trợ và giải đáp mọi thắc mắc của bạn. Bạn cũng có thể theo dõi thông báo trên bảng tin và Website của nhà trường để cập nhật thông tin mới nhất. Chúc bạn luôn tự tin và thành công trong hành trình học tập của mình!"
+  },
+  {
+    "question": "các tổ hợp môn lựa chọn của khối 10 ở trường gồm những tổ hợp nào",
+    "answer": "Chào bạn! Ở trường mình, các tổ hợp môn lựa chọn cho khối 10 được chia thành các nhóm như sau:\n\n1. **Định hướng Khoa học xã hội (KHXH):**\n   - Vật lý, Địa lí; Giáo dục Kinh tế và Pháp luật; Tin học (Ứng dụng)\n   - Địa lí, Giáo dục Kinh tế và Pháp luật; Tin học (Ứng dụng); Công nghệ trồng trọt\n\n2. **Định hướng Khoa học tự nhiên (KHTN):**\n   - Vật lí, Hóa học, Địa lý; Tin học (Ứng dụng)\n   - Vật lí, Hóa học, Sinh học; Tin học (Thiết kế)\n   - Vật lí, Hóa học, Địa lý; Công nghệ thiết kế\n   - Vật lí, Hóa học, Sinh học; Công nghệ trồng trọt\n\nHy vọng thông tin này giúp bạn hiểu rõ hơn về các tổ hợp môn học nhé! Nếu có thắc mắc gì thêm, bạn cứ hỏi mình nha!"
+  },
+  {
+    "question": "sĩ số dự kiến mỗi lớp ở khối 10 là bao nhiêu học sinh",
+    "answer": "Chào bạn! Theo thông tin mình có, sĩ số dự kiến cho mỗi lớp ở khối 10 là 44 học sinh. Tuy nhiên, có một số lớp có sĩ số dự kiến là 43 học sinh. Nếu bạn cần thêm thông tin chi tiết, hãy liên hệ với thầy cô để được giải đáp thêm nhé. Chúc bạn có một năm học thật vui và thành công!"
+  },
+  {
+    "question": "Đội ngũ giáo viên của trường có những môn nào và số lượng bao nhiêu?",
+    "answer": "Trường THPT Lý Thường Kiệt có đội ngũ gồm 90 giáo viên. Môn Toán: 13; Ngữ văn: 11; Tiếng Anh: 10; GDTC: 5; GDQP&AN: 6; Vật lý: 12; Hóa học: 9; Sinh học: 3; Lịch sử: 5; Địa lý: 3; Giáo dục Kinh tế và Pháp luật: 3; Tin học: 8; Công nghệ: 2. Nếu bạn cần thêm thông tin gì khác, cứ hỏi mình nhé!"
+  },
+  {
+    "question": "đi học bù học phụ đo học thêm ti trường phải mặc gì",
+    "answer": "Khi đi học bù, học phụ đạo, học thêm tại trường, bạn cần mặc quần tây và áo trắng đồng phục của trường. Nhớ bỏ áo vào quần và đeo bảng tên, logo đồng phục của trường nhé. Đừng quên mang dép có quai hậu nữa nha! Cố gắng học tốt nhé, mình luôn ủng hộ bạn!"
+  },
+  {
+    "question": "nghỉ học nhiều ngày phải làm gì",
+    "answer": "Khi bạn cần nghỉ học nhiều ngày (từ 3 ngày trở lên), bạn cần có lý do chính đáng và phải được sự đồng ý của Hiệu trưởng nhà trường. Nếu bạn phải nằm viện dài ngày, khi trở lại trường, bạn cần trình giấy xuất viện. Đừng quên rằng việc thông báo và xin phép nghỉ học là rất quan trọng để đảm bảo quyền lợi học tập của bạn. Nếu có bất kỳ khó khăn nào, bạn có thể nhờ phụ huynh hoặc người đỡ đầu liên hệ với giáo viên chủ nhiệm hoặc Ban quản sinh để được hỗ trợ. Mình luôn ở đây để giúp bạn, hãy cố gắng giữ sức khỏe và tinh thần tốt nhé!"
+  },
+  {
+    "question": "nhiệm vụ chính của học sinh là gì",
+    "answer": "Chào bạn, nhiệm vụ chính của học sinh bao gồm rất nhiều điều thú vị và ý nghĩa nhé! Bạn cần giữ gìn và bảo vệ tài sản của nhà trường, tham gia các hoạt động tập thể, và luôn kính trọng thầy cô, cha mẹ. Ngoài ra, bạn cũng cần thực hiện tốt các biện pháp phòng chống dịch bệnh, giữ gìn vệ sinh cá nhân và môi trường xung quanh. Đừng quên rèn luyện thân thể và giúp đỡ gia đình, bạn bè nữa nhé. Những điều này không chỉ giúp bạn trở thành một học sinh tốt mà còn góp phần xây dựng một môi trường học tập vui vẻ và an toàn cho tất cả mọi người. Cố gắng lên nhé, bạn làm được mà!"
+  },
+  {
+    "question": "học sinh có phải lưu giữ bài kiểm tra không",
+    "answer": "Chào bạn! Theo tài liệu mình có, học sinh cần phải tự lưu giữ bài kiểm tra thường xuyên và định kỳ. Điều này rất quan trọng để khi có yêu cầu từ giáo viên bộ môn, tổ trưởng chuyên môn hoặc lãnh đạo nhà trường, bạn có thể giao nộp lại. Hãy nhớ giữ gìn cẩn thận nhé! Nếu có thắc mắc gì thêm, bạn cứ hỏi mình nhé!"
+  },
+  {
+    "question": "cho biết mỗi tổ bộ môn có bao nhiêu giáo viên",
+    "answer": "Chào bạn, mình rất vui được giúp bạn tìm hiểu thông tin này nhé! Dưới đây là số lượng giáo viên của mỗi tổ bộ môn trong trường:\n\n- Môn Toán: 13 giáo viên\n- Ngữ văn: 11 giáo viên\n- Tiếng Anh: 10 giáo viên\n- Giáo dục Thể chất (GDTC): 5 giáo viên\n- Giáo dục Quốc phòng & An ninh (GDQP&AN): 6 giáo viên\n- Vật lý: 12 giáo viên\n- Hóa học: 9 giáo viên\n- Sinh học: 3 giáo viên\n- Lịch sử: 5 giáo viên\n- Địa lý: 3 giáo viên\n- Giáo dục Kinh tế và Pháp luật: 3 giáo viên\n- Tin học: 8 giáo viên\n- Công nghệ: 2 giáo viên (01 Công nghệ công nghiệp, 01 Công nghệ nông nghiệp)\n- Âm nhạc: 0 giáo viên\n- Mỹ thuật: 0 giáo viên\n\nHy vọng thông tin này giúp ích cho bạn! Nếu có thắc mắc gì thêm, bạn cứ hỏi mình nhé!"
+  },
+  {
+    "question": "tôi đi trễ tôi sẽ bị trừ mấy điểm",
+    "answer": "Chào bạn, nếu bạn đi trễ thì sẽ bị trừ 2 điểm cho mỗi lần nhé. Đừng lo lắng quá, hãy cố gắng sắp xếp thời gian tốt hơn để không bị trễ nữa nhé. Mình tin là bạn sẽ làm được!"
+  },
+  {
+    "question": "cô bích là ai",
+    "answer": "Cô Nguyễn Thị Thanh Bích là giáo viên tin học. Nếu bạn cần thêm thông tin gì về cô Bích hoặc môn học này, đừng ngần ngại hỏi nhé! Mình luôn sẵn lòng giúp đỡ bạn."
+  },
+  {
+    "question": "không học bài mình bị trừ mấy điểm",
+    "answer": "Chào bạn, nếu bạn không học bài, bạn sẽ bị trừ 1 điểm cho mỗi tiết học. Mình biết rằng có lúc chúng ta có thể gặp khó khăn trong việc học, nhưng hãy cố gắng lên nhé! Nếu cần giúp đỡ, đừng ngần ngại hỏi thầy cô hoặc bạn bè. Mình tin bạn sẽ làm tốt hơn trong những lần tới!"
+  },
+  {
+    "question": "đi lao động cần mang gì",
+    "answer": "Khi đi lao động, lớp mình cần chuẩn bị dụng cụ theo yêu cầu công việc nhé. Nếu có thắc mắc cụ thể về những dụng cụ cần mang, bạn có thể hỏi thêm thầy cô để được hướng dẫn chi tiết hơn. Cố gắng lên nhé, mình tin là bạn sẽ làm tốt!"
+  },
+  {
+    "question": "nghe nhc trong giờ học có làm sao không",
+    "answer": "Nghe nhạc trong giờ học có thể làm bạn bị trừ 3 điểm cho mỗi lần đấy. Mình biết đôi khi âm nhạc giúp bạn thư giãn và tập trung hơn, nhưng trong giờ học, chúng ta cần tập trung vào bài giảng để nắm bắt kiến thức tốt nhất. Bạn hãy cố gắng chú ý vào bài học nhé, nếu cần thư giãn, bạn có thể nghe nhạc vào giờ giải lao. Cố lên, mình tin bạn làm được!"
+  },
+  {
+    "question": "địa chỉ trường mình ở đâu",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé."
+  },
+  {
+    "question": "đi học có được mang quần đùi k",
+    "answer": "Chào bạn, mình rất hiểu sự thoải mái khi mặc quần đùi, nhưng theo quy định của trường, khi đi học, bạn cần mặc quần tây màu xanh đen hoặc quần áo dài truyền thống vào những ngày đặc biệt. Điều này giúp tạo ra một môi trường học tập nghiêm túc và đồng nhất. Bạn hãy cố gắng tuân thủ nhé! Nếu có thắc mắc gì thêm, bạn có thể hỏi thầy cô để được giải đáp cụ thể hơn."
+  },
+  {
+    "question": "Thứ hai phải học ở đâu?",
+    "answer": "Chào bạn, để biết thứ hai học ở phòng nào, bạn vui lòng liên hệ giáo viên chủ nhiệm hoặc các bạn khác trong lớp nhé!"
+  },
+  {
+    "question": "Thứ 4 học môn gì?",
+    "answer": "Chào bạn, để biết thứ tư học ở phòng nào, bạn vui lòng liên hệ giáo viên chủ nhiệm hoặc các bạn khác trong lớp nhé!"
+  },
+  {
+    "question": "xin chào",
+    "answer": "Xin chào! Rất vui được gặp bạn. Có điều gì mình có thể giúp bạn hôm nay không? Hãy cứ thoải mái chia sẻ nhé!"
+  },
+  {
+    "question": "chào bn",
+    "answer": "Chào bạn! Mình rất vui khi được trò chuyện cùng bạn. Nếu bạn có bất kỳ câu hỏi hay thắc mắc nào, đừng ngần ngại chia sẻ nhé! Mình luôn sẵn sàng lắng nghe và giúp đỡ bạn."
+  },
+  {
+    "question": "bây giờ là mấy giờ bn",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé."
+  },
+  {
+    "question": "tiết chào cờ vào thứ mấy",
+    "answer": "Tiết chào cờ diễn ra vào sáng thứ 2 hàng tuần. Bạn nhớ có mặt tại trường vào lúc 6 giờ 15 để chuẩn bị nhé. Chúc bạn có một tuần học tập thật vui vẻ và hiệu quả!"
+  },
+  {
+    "question": "bn có bị bệnh không",
+    "answer": "Mình chưa tìm thấy câu trả lời, câu hỏi của bạn sẽ được gửi tới Thầy/Cô giải đáp một cách sớm nhất. Bạn thông cảm nhé."
   }
 ]

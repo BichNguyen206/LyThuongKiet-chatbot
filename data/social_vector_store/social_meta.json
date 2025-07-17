@@ -1,0 +1,26 @@
+{
+  "questions": [
+    "xin chào",
+    "bạn khỏe không",
+    "cảm ơn",
+    "bye",
+    "tạm biệt",
+    "hi",
+    "hello",
+    "bạn là ai",
+    "how are you",
+    "how are you today"
+  ],
+  "answer": [
+    "Chào bạn! Mình có thể giúp gì cho bạn hôm nay?",
+    "Cảm ơn bạn đã hỏi! Mình vẫn khỏe và sẵn sàng hỗ trợ bạn!",
+    "Không có chi! Chúc bạn một ngày học tập hiệu quả",
+    "Chào tạm biệt nhé! Hẹn gặp lại",
+    "Chúc bạn một ngày tốt lành!",
+    "Hi hi! Có điều gì bạn muốn biết không nè?",
+    "Xin chào! Mình là trợ lý thông tin của trường, bạn cần hỗ trợ gì?",
+    "Mình là trợ lý ảo của trường THPT Lý Thường Kiệt, luôn sẵn sàng hỗ trợ bạn!",
+    "I’m fine, thank you! How can I help you today?",
+    "Thanks for asking! I'm doing well and ready to support you."
+  ]
+}

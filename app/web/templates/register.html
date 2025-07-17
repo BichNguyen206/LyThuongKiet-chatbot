@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Đăng ký tài khoản mới</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="register-container">
+        <div class="register-title">Đăng ký tài khoản</div>
+        {% if success %}
+            <div class="register-success">
+                Đăng ký thành công! Đang chuyển sang trang chat...
+            </div>
+            <script>
+                setTimeout(function() {
+                    window.location.href = "{{ url_for('chat') }}";
+                }, 5000);
+            </script>
+        {% endif %}
+        <form class="register-form" method="POST">
+            <label for="username">Tên đăng nhập</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="fullname">Họ và tên</label>
+            <input type="text" id="fullname" name="fullname" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="class">Lớp (nếu là học sinh)</label>
+            <input type="text" id="class" name="class">
+
+            <label for="password">Mật khẩu</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirm_password">Nhập lại mật khẩu</label>
+            <input type="password" id="confirm_password" name="confirm_password" required>
+
+            <button type="submit" class="btn">Đăng ký</button>
+        </form>
+        {% if error %}
+        <div class="register-error">{{ error }}</div>
+        {% endif %}
+        <a href="{{ url_for('login') }}" class="register-link">Đã có tài khoản? Đăng nhập</a>
+    </div>
+</body>
+</html>

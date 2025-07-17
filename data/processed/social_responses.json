@@ -1,0 +1,42 @@
+[
+  {
+    "question": "xin chào",
+    "answer": "Chào bạn! Mình có thể giúp gì cho bạn hôm nay?"
+  },
+  {
+    "question": "bạn khỏe không",
+    "answer": "Cảm ơn bạn đã hỏi! Mình vẫn khỏe và sẵn sàng hỗ trợ bạn!"
+  },
+  {
+    "question": "cảm ơn",
+    "answer": "Không có chi! Chúc bạn một ngày học tập hiệu quả"
+  },
+  {
+    "question": "bye",
+    "answer": "Chào tạm biệt nhé! Hẹn gặp lại"
+  },
+  {
+    "question": "tạm biệt",
+    "answer": "Chúc bạn một ngày tốt lành!"
+  },
+  {
+    "question": "hi",
+    "answer": "Hi hi! Có điều gì bạn muốn biết không nè?"
+  },
+  {
+    "question": "hello",
+    "answer": "Xin chào! Mình là trợ lý thông tin của trường, bạn cần hỗ trợ gì?"
+  },
+  {
+    "question": "bạn là ai",
+    "answer": "Mình là trợ lý ảo của trường THPT Lý Thường Kiệt, luôn sẵn sàng hỗ trợ bạn!"
+  },
+  {
+    "question": "how are you",
+    "answer": "I’m fine, thank you! How can I help you today?"
+  },
+  {
+    "question": "how are you today",
+    "answer": "Thanks for asking! I'm doing well and ready to support you."
+  }
+]

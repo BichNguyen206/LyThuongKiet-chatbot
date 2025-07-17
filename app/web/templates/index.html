@@ -7,24 +7,29 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-<div class="container-main">
-    <div class="history-col">
-        <h4>Lịch sử tìm kiếm</h4>
-        <ul id="history-list"></ul>
+    <!-- Thêm hai nút đăng nhập/đăng ký ở góc phải -->
+    <div style="position: absolute; top: 16px; right: 32px; display: flex; gap: 12px;">
+        <a href="{{ url_for('login') }}" class="login-btn">Đăng nhập</a>
+        <a href="{{ url_for('register') }}" class="register-btn">Đăng ký</a>
     </div>
-    <div class="chat-col">
-        <div class="chat-area-main">
-            <div class="chat-header">
-                Chatbot AI trường THPT<br>Lý Thường Kiệt
+    <div class="container-main">
+        <div class="history-col">
+            <h4>Lịch sử tìm kiếm</h4>
+            <ul id="history-list"></ul>
+        </div>
+        <div class="chat-col">
+            <div class="chat-area-main">
+                <div class="chat-header">
+                    Chatbot AI trường THPT<br>Lý Thường Kiệt
+                </div>
+                <div class="chat-box" id="chat-box"></div>
+                <form class="chat-input-row" id="chat-form" autocomplete="off">
+                    <input id="question" class="chat-input" type="text" placeholder="Nhập câu hỏi..." autocomplete="off" required>
+                    <button class="send-btn" type="submit">Gửi</button>
+                </form>
             </div>
-            <div class="chat-box" id="chat-box"></div>
-            <form class="chat-input-row" id="chat-form" autocomplete="off">
-                <input id="question" class="chat-input" type="text" placeholder="Nhập câu hỏi..." autocomplete="off" required>
-                <button class="send-btn" type="submit">Gửi</button>
-            </form>
         </div>
     </div>
-</div>
 <script>
 let chatHistory = [];
 function renderChat(uptoIdx = null) {
@@ -73,33 +78,25 @@ $(document).ready(function() {
         $("#question").val("").focus();
         renderChat();
         renderHistory();
-        $.post('/ask', {question: q}, function(res) {
+        fetch('/ask', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ question: q })
+        })
+        .then(res => res.json())
+        .then(res => {
             let ans = res.answer || "Không nhận được phản hồi!";
             chatHistory[chatHistory.length-1].a = ans;
             renderChat();
             renderHistory();
-        }).fail(function() {
+        })
+        .catch(() => {
             chatHistory[chatHistory.length-1].a = "<span class='text-danger'>Lỗi hệ thống!</span>";
             renderChat();
         });
+
     });
 });
 </script>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Chatbot AI trường THPT Lý Thường Kiệt</title>
-    <!-- Các thẻ meta, CSS ... -->
-</head>
-<body>
-    <div style="position: absolute; top: 16px; right: 32px;">
-        <a href="{{ url_for('login') }}" style="color:#2563eb; font-weight:500; text-decoration:none;">Đăng nhập quản trị</a>
-    </div>
-    <!-- Phần còn lại của giao diện chatbot -->
-    <div>
-        <!-- ... -->
-    </div>
 </body>
 </html>

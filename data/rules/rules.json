@@ -1,0 +1,102 @@
+[
+  {
+    "intent": "gio_vao_hoc",
+    "patterns": ["giờ vào học", "mấy giờ bắt đầu học", "giờ học bắt đầu", "giờ vào lớp"],
+    "response": "Buổi sáng vào học lúc 6 giờ 55 phút, bắt đầu tiết 1 lúc 7 giờ. Buổi chiều vào học lúc 13 giờ 25 phút, bắt đầu tiết 1 lúc 13 giờ 30 phút."
+  },
+  {
+    "intent": "trang_phuc_thu_hai",
+    "patterns": ["trang phục thứ hai", "thứ hai mặc gì", "đồng phục"],
+    "response": "Ngày thứ Hai và các ngày học, học sinh nữ mặc áo dài trắng truyền thống, không được may vải mỏng hoặc quần ngắn. Nam mặc đồng phục sơ mi trắng, quần xanh đen."
+  },
+  {
+    "intent": "mac_dong_phuc",
+    "patterns": ["mặc đồng phục", "quy định đồng phục", "đi học mặc gì"],
+    "response": "Học sinh phải mặc đúng đồng phục quy định: áo sơ mi trắng, quần xanh đen, giày hoặc dép có quai hậu, có bảng tên may trên áo."
+  },
+  {
+    "intent": "trang_phuc_the_duc",
+    "patterns": ["mặc gì khi học thể dục", "trang phục thể dục", "quần áo thể dục"],
+    "response": "Học sinh mặc đồng phục thể dục của trường, đi giày bata theo quy định."
+  },
+  {
+    "intent": "nghi_hoc_nhieu_ngay",
+    "patterns": ["nghỉ học nhiều ngày", "nghỉ học bao lâu", "nghỉ học phải làm gì"],
+    "response": "Nghỉ từ 3 ngày trở lên cần lý do chính đáng và sự đồng ý của Hiệu trưởng, trừ khi có giấy xuất viện."
+  },
+  {
+    "intent": "nghi_hoc_khong_phep",
+    "patterns": ["nghỉ học không phép", "bỏ học không phép", "tự ý nghỉ học"],
+    "response": "Nghỉ không phép quá 1 tuần bị xem là tự ý bỏ học, nhà trường cắt sĩ số và thông báo cho gia đình."
+  },
+  {
+    "intent": "nhiem_vu_hoc_sinh",
+    "patterns": ["nhiệm vụ học sinh", "trách nhiệm học sinh", "bổn phận học sinh"],
+    "response": "Học sinh phải học tập, rèn luyện, kính trọng thầy cô, giữ gìn vệ sinh cá nhân và chấp hành pháp luật."
+  },
+  {
+    "intent": "hanh_vi_cam",
+    "patterns": ["không được làm gì", "vi phạm nội quy", "hành vi cấm"],
+    "response": "Không xúc phạm người khác, không gian lận, không dùng điện thoại trong giờ học, không đánh nhau, không mang hung khí, không trang điểm quá mức."
+  },
+  {
+    "intent": "su_dung_dien_thoai",
+    "patterns": ["dùng điện thoại", "mang điện thoại", "xài điện thoại trong lớp"],
+    "response": "Học sinh không được sử dụng điện thoại trong giờ học và các hoạt động giáo dục nếu không được phép của giáo viên."
+  },
+  {
+    "intent": "ra_khoi_truong",
+    "patterns": ["ra khỏi trường", "được ra ngoài trường không", "trốn ra ngoài"],
+    "response": "Học sinh không được tự ý ra khỏi khuôn viên trường trong giờ ra chơi hoặc trong buổi học."
+  },
+  {
+    "intent": "ve_sinh_lop_hoc",
+    "patterns": ["vệ sinh lớp học", "quy định dọn dẹp", "giữ vệ sinh"],
+    "response": "Lớp phải vệ sinh phòng học đầu buổi, đổ rác đúng nơi quy định, không được để rác trong hộc bàn hay vứt ra ngoài cửa sổ."
+  },
+  {
+    "intent": "do_an_trong_lop",
+    "patterns": ["mang đồ ăn vào lớp", "giao đồ ăn đến trường", "ăn trong lớp học"],
+    "response": "Không được mang đồ ăn, thức uống vào phòng học hoặc gọi đồ ăn đến trường trong giờ học."
+  },
+  {
+    "intent": "sua_chua_co_so_vat_chat",
+    "patterns": ["sửa bàn ghế", "hư hỏng lớp học", "thiết bị hỏng"],
+    "response": "Hư hỏng nhỏ lớp phải tự sửa, hư hỏng lớn lớp phải chịu toàn bộ kinh phí. Lớp trưởng phải báo ngay cho GVCN nếu phát hiện bất thường."
+  },
+  {
+    "intent": "trang_tri_lop",
+    "patterns": ["trang trí lớp học", "treo đồ trong lớp", "gắn hình trong lớp"],
+    "response": "Không được tự ý trang trí, gắn hình ảnh, treo cây trong lớp nếu chưa có sự đồng ý của Hiệu trưởng."
+  },
+  {
+    "intent": "truc_tuan",
+    "patterns": ["trực tuần", "nhiệm vụ lớp trực", "trực trường"],
+    "response": "Lớp trực tuần phải có mặt đúng giờ, dọn vệ sinh, chăm sóc cây xanh và chỉ ra về khi có sự đồng ý của người phụ trách."
+  },
+  {
+    "intent": "lao_dong",
+    "patterns": ["lao động", "công tác lớp", "làm vệ sinh trường"],
+    "response": "Học sinh lao động theo sự phân công của nhà trường, chuẩn bị dụng cụ, GVCN chịu trách nhiệm quản lý lớp."
+  },
+  {
+    "intent": "xe_ca_nhan",
+    "patterns": ["đi xe cá nhân", "xe đạp học sinh", "để xe ở đâu"],
+    "response": "Học sinh đi xe cá nhân phải để đúng khu vực quy định của từng khối lớp."
+  },
+  {
+    "intent": "khen_thuong",
+    "patterns": ["được thưởng", "khen thưởng học sinh", "tuyên dương"],
+    "response": "Học sinh chấp hành tốt nội quy sẽ được tuyên dương, khen thưởng."
+  },
+  {
+    "intent": "ky_luat",
+    "patterns": ["bị kỷ luật", "xử lý vi phạm", "phạt học sinh"],
+    "response": "Học sinh vi phạm sẽ bị xử lý: phê bình, khiển trách, cảnh cáo, hoặc buộc thôi học tùy theo mức độ."
+  },
+  {
+    "intent": "phong_chong_dich",
+    "patterns": ["phòng dịch", "phòng chống covid", "đeo khẩu trang"],
+    "response": "Học sinh phải thực hiện nghiêm các biện pháp phòng chống dịch bệnh theo quy định."
+  }
+]
