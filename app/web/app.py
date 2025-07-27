@@ -929,6 +929,25 @@ def admin_add_rule():
         json.dump(rules, f, ensure_ascii=False, indent=2)
 
     return redirect(url_for("admin_dashboard", tab="rules"))
+@app.route("/admin/edit_rule", methods=["POST"])
+def admin_edit_rule():
+    from src.rule_base import load_rules, RULE_PATH
+    index = int(request.args.get("index"))
+    intent = request.form["intent"]
+    patterns = [p.strip() for p in request.form["patterns"].split(",")]
+    response = request.form["response"]
+
+    rules = load_rules()
+    if 0 <= index < len(rules):
+        rules[index] = {
+            "intent": intent,
+            "patterns": patterns,
+            "response": response
+        }
+        with open(RULE_PATH, "w", encoding="utf-8") as f:
+            json.dump(rules, f, ensure_ascii=False, indent=2)
+
+    return redirect(url_for("admin_dashboard", tab="rules"))
 
 
 @app.route("/admin/delete_rule", methods=["POST"])

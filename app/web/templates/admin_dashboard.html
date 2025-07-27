@@ -15,7 +15,11 @@
         <ul>
             <li {% if tab == 'data' %}class="active"{% endif %}
                 onclick="window.location='{{ url_for('admin_dashboard', tab='data') }}'">
-                Quản lý dữ liệu
+                Quản lý Vector store
+            </li>
+            <li {% if tab == 'rules' %}class="active"{% endif %}
+                onclick="window.location='{{ url_for('admin_dashboard', tab='rules') }}'">
+                Quản lý Knowledge base
             </li>
             <li {% if tab == 'cache' %}class="active"{% endif %}
                 onclick="window.location='{{ url_for('admin_dashboard', tab='cache') }}'">
@@ -29,10 +33,7 @@
                 onclick="window.location='{{ url_for('admin_dashboard', tab='stats') }}'">
                 Thống kê    
             </li>
-            <li {% if tab == 'rules' %}class="active"{% endif %}
-                onclick="window.location='{{ url_for('admin_dashboard', tab='rules') }}'">
-                Quản lý rule-based
-            </li>
+            
 
         </ul>
             <a class="logout-link" href="{{ url_for('logout') }}">
@@ -442,6 +443,8 @@
                             <td>{{ rule.patterns | join(', ') }}</td>
                             <td>{{ rule.response }}</td>
                             <td>
+                                <button class="admin-btn" style="background:#2563eb; margin-bottom:4px;" type="button"
+                                    onclick="showEditRuleForm({{ loop.index0 }}, `{{ rule.intent }}`, `{{ rule.patterns | join(', ') }}`, `{{ rule.response | escape | replace('`','&#96;') }}`)">Sửa</button>
                                 <form method="post" action="{{ url_for('admin_delete_rule', index=loop.index0) }}?tab=rules" style="display:inline;">
                                     <button class="admin-btn" style="background:#f59e42;" type="submit"
                                         onclick="return confirm('Xoá rule này?')">Xoá</button>
@@ -454,6 +457,31 @@
                     {% endif %}
                 </tbody>
             </table>
+            <!-- Popup sửa rule -->
+            <div id="edit-rule-form" style="display:none; background:#f8fafc; border-radius:12px; box-shadow:0 4px 32px #0002; padding:32px 40px; max-width:580px; min-width:420px; position:fixed; left:50%; top:12%; transform:translate(-50%,0); z-index:200;">
+                <form method="post" id="rule-edit-form" action="{{ url_for('admin_edit_rule', index=0) }}?tab=rules">
+                    <input type="hidden" name="index" id="rule_edit_index">
+                    <div>
+                        <label>Intent:<br>
+                            <input type="text" name="intent" id="rule_edit_intent" required style="width:100%;">
+                        </label>
+                    </div>
+                    <div style="margin-top:12px;">
+                        <label>Patterns (ngăn cách bằng dấu phẩy):<br>
+                            <input type="text" name="patterns" id="rule_edit_patterns" required style="width:100%;">
+                        </label>
+                    </div>
+                    <div style="margin-top:12px;">
+                        <label>Response:<br>
+                            <textarea name="response" id="rule_edit_response" required style="width:100%; min-height:100px;"></textarea>
+                        </label>
+                    </div>
+                    <div style="margin-top:20px;">
+                        <button type="submit" class="admin-btn" style="background:#10b981;">Lưu</button>
+                        <button type="button" class="admin-btn" style="background:#666;" onclick="hideEditRuleForm()">Huỷ</button>
+                    </div>
+                </form>
+            </div>
         {% else %}
             <div class="admin-header">Quản lý dữ liệu</div>
             <!-- Filter + Thêm mới + Update vector store -->
@@ -710,6 +738,21 @@ function hideForm() {
 }
 </script>
 
+<script>
+function showEditRuleForm(index, intent, patterns, response) {
+    document.getElementById('edit-rule-form').style.display = 'block';
+    document.getElementById('rule_edit_index').value = index;
+    document.getElementById('rule_edit_intent').value = intent;
+    document.getElementById('rule_edit_patterns').value = patterns;
+    document.getElementById('rule_edit_response').value = response;
+
+    document.getElementById('rule-edit-form').action = '/admin/edit_rule?index=' + index + '&tab=rules';
+}
+
+function hideEditRuleForm() {
+    document.getElementById('edit-rule-form').style.display = 'none';
+}
+</script>
 
 </body>
 </html>
