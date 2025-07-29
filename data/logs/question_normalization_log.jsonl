@@ -561,3 +561,5 @@
 {"timestamp": "2025-07-17 14:43:25.976683", "user_question": "đi học lúc mấy giờ?", "normalized": "đi học lúc mấy giờ"}
 {"timestamp": "2025-07-17 18:13:53.312713", "user_question": "NgÀY MAI LÀ NGÀY NÀO?", "normalized": "ngày mai là ngày nào"}
 {"timestamp": "2025-07-17 21:21:38.815798", "user_question": "bạn có bị bệnh không?", "normalized": "bn có bị bệnh không"}
+{"timestamp": "2025-07-29 18:11:02.275370", "user_question": "bạn là ai?", "normalized": "bn là ai"}
+{"timestamp": "2025-07-29 18:11:22.334759", "user_question": "Bạn là ai?", "normalized": "bn là ai"}

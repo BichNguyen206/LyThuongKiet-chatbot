@@ -178,5 +178,13 @@
     "answered": false,
     "status": "waiting",
     "topic": ""
+  },
+  {
+    "question": "Bạn là ai?",
+    "answer": "Chào bạn! Mình là một trợ lý học đường thân thiện, luôn sẵn sàng lắng nghe và hỗ trợ bạn trong việc học tập cũng như giải đáp các thắc mắc liên quan đến trường học. Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại chia sẻ với mình nhé!",
+    "timestamp": "2025-07-29T18:11:22.336472",
+    "answered": true,
+    "status": "answered",
+    "topic": "Ground Truth"
   }
 ]
